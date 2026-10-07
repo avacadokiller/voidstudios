@@ -1,0 +1,696 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>All Products | Voidstudios</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    background:#000;
+    color:#fff;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: 0.02em;
+  }
+  a { text-decoration:none; color:inherit; }
+
+  /* ---------- HEADER ---------- */
+  header {
+    position: sticky; top: 0;
+    background: rgba(0,0,0,0.85);
+    backdrop-filter: blur(10px);
+    z-index: 100;
+    display:flex; align-items:center; justify-content:space-between;
+    padding: 20px 40px;
+    border-bottom: 1px solid rgba(255,255,255,0.07);
+    gap: 30px;
+  }
+  .header-left {
+    display: flex;
+    align-items: center;
+    gap: 46px;
+  }
+  .logo {
+    font-family: 'Helvetica Neue', 'Arial Narrow', Impact, sans-serif;
+    font-size: 1.35rem;
+    font-weight: 900;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+    color: #fff;
+    transition: color .25s;
+    white-space: nowrap;
+  }
+  .logo:hover { color: #888; }
+
+  nav ul { display:flex; list-style:none; gap: 30px; }
+  nav a {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #fff;
+    transition: color .2s ease, border-color .2s ease;
+    white-space: nowrap;
+    padding-bottom: 4px;
+    border-bottom: 2px solid transparent;
+  }
+  nav:hover a { color: #777; }
+  nav a:hover {
+    color: #fff;
+    border-bottom-color: #a0764a;
+  }
+
+  .header-right { display: flex; align-items: center; gap: 22px; }
+  .search-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 20px;
+    border: 1px solid rgba(255,255,255,0.35);
+    color: #fff;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    transition: all .25s;
+  }
+  .search-btn svg { width: 15px; height: 15px; stroke: currentColor; }
+  .search-btn:hover { background: #fff; color: #000; border-color: #fff; }
+
+  .icon-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px; height: 26px;
+    color: #e0e0e0;
+    transition: color .2s;
+  }
+  .icon-btn svg { width: 20px; height: 20px; stroke: currentColor; }
+  .icon-btn:hover { color: #fff; }
+
+  /* ---------- BREADCRUMB ---------- */
+  .breadcrumb {
+    padding: 22px 40px 0;
+    font-size: 0.82rem;
+    color:#bbb;
+    display:flex;
+    align-items:center;
+    gap: 10px;
+  }
+  .breadcrumb a { color:#bbb; transition: color .2s; }
+  .breadcrumb a:hover { color:#fff; }
+  .breadcrumb .sep { color:#555; }
+
+  /* ---------- LAYOUT ---------- */
+  .page {
+    display:grid;
+    grid-template-columns: 280px 1fr;
+    gap: 60px;
+    padding: 40px 40px 100px;
+    max-width: 1600px;
+    margin: 0 auto;
+  }
+
+  /* ---------- SIDEBAR (now thin + simple) ---------- */
+  .sidebar { position: sticky; top: 100px; align-self: start; }
+
+  .sidebar h3 {
+    font-size: 0.9rem;
+    font-weight: 400;
+    color: #fff;
+    margin-bottom: 24px;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+  }
+
+  .sidebar-section {
+    padding: 24px 0 32px;
+    border-bottom: 1px solid rgba(255,255,255,0.08);
+  }
+  .sidebar-section:first-child { padding-top: 0; }
+
+  .cat-list {
+    list-style:none;
+    display:flex;
+    flex-direction:column;
+    gap: 18px;
+  }
+  .cat-list a {
+    font-size: 0.9rem;
+    font-weight: 300;
+    color:#c7c7c7;
+    transition: color .2s ease, padding-left .2s ease;
+    display:block;
+    line-height: 1.5;
+    cursor: pointer;
+    letter-spacing: 0.02em;
+  }
+
+  .cat-list a:hover {
+    color: #a0764a;
+    padding-left: 4px;
+  }
+
+  /* Active (selected) — dull brown, no underline */
+  .cat-list a.active {
+    color: #a0764a;
+    text-decoration: none;
+  }
+
+  /* price slider */
+  .price-filter { margin-top: 18px; }
+  .price-slider-wrap { margin: 22px 0 14px; }
+  .slider-track {
+    position: relative;
+    height: 3px;
+    background: #333;
+    border-radius: 2px;
+  }
+  .slider-track .slider-fill {
+    position: absolute;
+    top: 0;
+    height: 3px;
+    background: #fff;
+    border-radius: 2px;
+  }
+  .slider-track input[type="range"] {
+    position: absolute;
+    top: -8px;
+    left: 0;
+    width: 100%;
+    height: 20px;
+    background: none;
+    pointer-events: none;
+    -webkit-appearance: none;
+    appearance: none;
+    outline: none;
+    margin: 0;
+  }
+  .slider-track input[type="range"]::-webkit-slider-thumb {
+    pointer-events: auto;
+    -webkit-appearance: none;
+    appearance: none;
+    width: 14px;
+    height: 14px;
+    background: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 0 0 3px #000, 0 0 0 4px #555;
+  }
+  .slider-track input[type="range"]::-moz-range-thumb {
+    pointer-events: auto;
+    width: 14px;
+    height: 14px;
+    background: #fff;
+    border-radius: 50%;
+    cursor: pointer;
+    border: none;
+    box-shadow: 0 0 0 3px #000, 0 0 0 4px #555;
+  }
+  .price-values {
+    display:flex; justify-content:space-between;
+    font-size: 0.82rem; font-weight: 300; color:#e0e0e0;
+    margin-top: 14px;
+    letter-spacing: 0.02em;
+  }
+
+  .filter-row {
+    display:flex; justify-content:space-between; align-items:center;
+    font-size: 0.9rem; font-weight: 300; color:#e0e0e0;
+    cursor: pointer;
+    padding: 4px 0;
+    user-select: none;
+    letter-spacing: 0.02em;
+    transition: color .2s ease;
+  }
+  .filter-row .plus {
+    font-size: 1rem;
+    color:#999;
+    transition: transform .2s, color .2s;
+  }
+  .filter-row:hover { color: #a0764a; }
+  .filter-row:hover .plus { color: #a0764a; }
+
+  /* ---------- MAIN ---------- */
+  .main h1 {
+    font-family: 'Helvetica Neue', 'Arial Narrow', Impact, sans-serif;
+    font-size: clamp(2.4rem, 5vw, 4rem);
+    font-weight: 900;
+    color:#fff;
+    margin-bottom: 18px;
+    letter-spacing: -0.02em;
+    line-height: 0.95;
+    text-transform: uppercase;
+  }
+  .main .desc {
+    font-size: 0.9rem;
+    color:#b5b5b5;
+    line-height: 1.7;
+    max-width: 720px;
+    margin-bottom: 34px;
+  }
+
+  .toolbar {
+    display:flex; justify-content:space-between; align-items:center;
+    margin-bottom: 26px;
+    font-size: 0.82rem;
+    color:#c7c7c7;
+  }
+  .sort {
+    display:flex; align-items:center; gap: 10px;
+    cursor: pointer;
+  }
+  .sort:hover { color:#fff; }
+  .sort svg {
+    width: 12px; height: 12px;
+    stroke: currentColor; fill:none; stroke-width: 1.6;
+  }
+
+  /* ---------- PRODUCT GRID (dark cards) ---------- */
+  .product-grid {
+    display:grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 24px;
+  }
+
+  .product-card {
+    cursor: pointer;
+    display:block;
+    background: #0a0a0a;
+    border: 1px solid rgba(255,255,255,0.06);
+    color: #fff;
+    transition: transform .25s, border-color .25s, background .25s;
+  }
+  .product-card:hover {
+    transform: translateY(-4px);
+    border-color: rgba(255,255,255,0.15);
+    background: #0f0f0f;
+  }
+  .product-card .thumb {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    background: #f5f5f5;
+    overflow: hidden;
+  }
+  .product-card .thumb img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+    transition: opacity .5s ease, transform .5s ease;
+  }
+  .product-card .thumb .front {
+    opacity: 1;
+    z-index: 1;
+  }
+  .product-card .thumb .back {
+    opacity: 0;
+    z-index: 2;
+  }
+  .product-card:hover .thumb .back {
+    opacity: 1;
+  }
+  .product-card:hover .thumb img {
+    transform: scale(1.04);
+  }
+
+  .product-card .info {
+    padding: 20px 20px 24px;
+  }
+  .product-card h4 {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color:#fff;
+    margin-bottom: 6px;
+    line-height: 1.35;
+    letter-spacing: 0.01em;
+  }
+  .product-card .price {
+    font-size: 0.88rem;
+    color:#e0e0e0;
+    letter-spacing: 0.08em;
+    font-weight: 500;
+  }
+
+  /* ---------- FOOTER ---------- */
+  footer {
+    padding: 60px 40px 50px;
+    display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center;
+    gap: 24px;
+    font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.22em; color:#888;
+    background: #000;
+    border-top: 1px solid rgba(255,255,255,0.08);
+  }
+  footer .socials { display:flex; gap: 30px; }
+  footer a { color:#888; transition: color .25s; }
+  footer a:hover { color:#fff; }
+
+  /* ---------- RESPONSIVE ---------- */
+  @media (max-width: 1024px) {
+    .page { grid-template-columns: 220px 1fr; gap: 40px; padding: 30px 30px 80px; }
+    .product-grid { grid-template-columns: repeat(2, 1fr); }
+    .header-left { gap: 30px; }
+    nav ul { gap: 20px; }
+  }
+  @media (max-width: 900px) {
+    header { padding: 18px 22px; flex-wrap: wrap; gap: 16px; }
+    .header-left { gap: 22px; width: 100%; justify-content: space-between; }
+    nav ul { gap: 16px; }
+    nav a { font-size: 0.68rem; letter-spacing: 0.06em; }
+    .header-right { width: 100%; justify-content: flex-end; gap: 18px; }
+    .page { grid-template-columns: 1fr; gap: 30px; padding: 20px 22px 60px; }
+    .sidebar { position: relative; top: 0; }
+    .breadcrumb { padding: 18px 22px 0; }
+  }
+  @media (max-width: 640px) {
+    .logo { font-size: 1.15rem; }
+    nav ul { gap: 12px; flex-wrap: wrap; }
+    nav a { font-size: 0.62rem; }
+    .search-btn { padding: 8px 14px; font-size: 0.68rem; }
+    .icon-btn svg { width: 18px; height: 18px; }
+    .product-grid { grid-template-columns: 1fr 1fr; gap: 14px; }
+    .product-card .info { padding: 14px 14px 18px; }
+    .product-card h4 { font-size: 0.82rem; }
+    .main h1 { font-size: 1.8rem; }
+    .main .desc { font-size: 0.82rem; }
+    footer { justify-content:center; text-align:center; }
+  }
+</style>
+</head>
+<body>
+
+  <!-- ================= HEADER ================= -->
+  <header>
+    <div class="header-left">
+      <a href="index.html" class="logo">VOIDSTUDIOS</a>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="products.html">Shop</a></li>
+          <li><a href="products.html">T-Shirts</a></li>
+          <li><a href="products.html">Hoodies</a></li>
+          <li><a href="products.html">New Arrivals</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="header-right">
+      <a href="#" class="search-btn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="7"/>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+        <span>Search</span>
+      </a>
+
+      <a href="#" class="icon-btn" aria-label="Wishlist">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+        </svg>
+      </a>
+
+      <a href="#" class="icon-btn" aria-label="Cart">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 7h16l-1.5 12.5a1.5 1.5 0 0 1-1.5 1.3H7a1.5 1.5 0 0 1-1.5-1.3L4 7z"/>
+          <path d="M9 7V5.5a3 3 0 0 1 6 0V7"/>
+        </svg>
+      </a>
+
+      <a href="#" class="icon-btn" aria-label="Account">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="8" r="4"/>
+          <path d="M4 21v-1a6 6 0 0 1 6-6h4a6 6 0 0 1 6 6v1"/>
+        </svg>
+      </a>
+    </div>
+  </header>
+
+  <!-- ================= BREADCRUMB ================= -->
+  <div class="breadcrumb">
+    <a href="index.html">Home</a>
+    <span class="sep">›</span>
+    <span id="breadcrumb-current">All Products</span>
+  </div>
+
+  <!-- ================= LAYOUT ================= -->
+  <div class="page">
+
+    <!-- ---------- SIDEBAR ---------- -->
+    <aside class="sidebar">
+
+      <div class="sidebar-section">
+        <h3>Explore</h3>
+        <ul class="cat-list" id="cat-list">
+          <li><a href="#" class="active" data-cat="all">All Products</a></li>
+          <li><a href="#" data-cat="Comfort">Comfort</a></li>
+          <li><a href="#" data-cat="New Arrivals">New Arrivals</a></li>
+          <li><a href="#" data-cat="Hoodies">Hoodies</a></li>
+          <li><a href="#" data-cat="Peak Caps">Peak Caps</a></li>
+          <li><a href="#" data-cat="Tees">Tees</a></li>
+        </ul>
+      </div>
+
+      <div class="sidebar-section">
+        <h3>Filter by</h3>
+
+        <div class="price-filter">
+          <div class="filter-row">
+            <span>Price</span>
+            <span>–</span>
+          </div>
+          <div class="price-slider-wrap">
+            <div class="slider-track">
+              <div class="slider-fill" id="slider-fill"></div>
+              <input type="range" id="price-min" min="0" max="100" value="0" step="1">
+              <input type="range" id="price-max" min="0" max="100" value="100" step="1">
+            </div>
+          </div>
+          <div class="price-values">
+            <span id="price-min-label">$0</span>
+            <span id="price-max-label">$100</span>
+          </div>
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="filter-row">
+          <span>Color</span>
+          <span class="plus">+</span>
+        </div>
+      </div>
+
+      <div class="sidebar-section">
+        <div class="filter-row">
+          <span>Size</span>
+          <span class="plus">+</span>
+        </div>
+      </div>
+
+    </aside>
+
+    <!-- ---------- MAIN ---------- -->
+    <main class="main">
+
+      <h1 id="page-title">All Products</h1>
+      <p class="desc" id="page-desc">Everything Void Studios makes — dropped quietly, made to last. Browse the full catalogue of tees, hoodies, and essentials designed to disappear into your wardrobe.</p>
+
+      <div class="toolbar">
+        <span>0 products</span>
+        <div class="sort">
+          Sort by: Recommended
+          <svg viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg>
+        </div>
+      </div>
+
+      <div class="product-grid" id="product-grid"></div>
+
+    </main>
+  </div>
+
+  <!-- ================= FOOTER ================= -->
+  <footer>
+    <div>© 2025 Void Studios — All Rights Reserved</div>
+    <div class="socials">
+      <a href="#">Instagram</a>
+      <a href="#">TikTok</a>
+      <a href="#">Twitter</a>
+      <a href="#">Contact</a>
+    </div>
+  </footer>
+
+<script>
+  // ====================== Category copy ======================
+  const CATEGORY_COPY = {
+    'all': {
+      title: 'All Products',
+      desc: 'Everything Void Studios makes — dropped quietly, made to last. Browse the full catalogue of tees, hoodies, and essentials designed to disappear into your wardrobe.'
+    },
+    'Comfort': {
+      title: 'Comfort',
+      desc: 'Soft, broken-in, everyday pieces. Heavyweight cotton and relaxed cuts for when you want to feel nothing but easy.'
+    },
+    'New Arrivals': {
+      title: 'New Arrivals',
+      desc: 'The latest additions to the Void. Limited runs, released quietly, never restocked. Once it’s gone — it’s gone.'
+    },
+    'Hoodies': {
+      title: 'Hoodies',
+      desc: 'Heavyweight fleece hoodies built to last. Structured, warm, and made to disappear into your rotation.'
+    },
+    'Peak Caps': {
+      title: 'Peak Caps',
+      desc: 'Everyday caps, cut clean. Adjustable, breathable, and designed for daily wear.'
+    },
+    'Tees': {
+      title: 'T-Shirts',
+      desc: 'Heavyweight tees — bold graphics, clean cuts. The core of the Void wardrobe.'
+    }
+  };
+
+  let allProducts = [];
+  let currentCategory = 'all';
+  let priceMin = 0;
+  let priceMax = 9999;
+
+  fetch('products.json')
+    .then(res => res.json())
+    .then(products => {
+      allProducts = products;
+
+      const prices = products.map(p => parseFloat(p.price)).filter(n => !isNaN(n));
+      const lowest = Math.floor(Math.min(...prices));
+      const highest = Math.ceil(Math.max(...prices));
+
+      const minSlider = document.getElementById('price-min');
+      const maxSlider = document.getElementById('price-max');
+      minSlider.min = lowest;
+      minSlider.max = highest;
+      minSlider.value = lowest;
+      maxSlider.min = lowest;
+      maxSlider.max = highest;
+      maxSlider.value = highest;
+
+      priceMin = lowest;
+      priceMax = highest;
+
+      updateSliderUI();
+      updateLabels();
+      applyFilters();
+
+      wireCategoryFilters();
+      wirePriceSlider();
+    })
+    .catch(err => {
+      console.error('Failed to load products:', err);
+      document.getElementById('product-grid').innerHTML =
+        '<p style="color:#888;">Products unavailable right now.</p>';
+    });
+
+  function renderProducts(products) {
+    const grid = document.getElementById('product-grid');
+    if (!products.length) {
+      grid.innerHTML = '<p style="color:#888;">No products match the filters.</p>';
+      return;
+    }
+    grid.innerHTML = products.map(p => `
+      <a href="product-detail.html?id=${p.id}" class="product-card" data-cats="${(p.categories || []).join('|')}">
+        <div class="thumb">
+          <img class="front" src="${p.image}" alt="${p.title}">
+          <img class="back" src="${p.image_back || p.image}" alt="${p.title} back">
+        </div>
+        <div class="info">
+          <h4>${p.title}</h4>
+          <div class="price">$${p.price}</div>
+        </div>
+      </a>
+    `).join('');
+  }
+
+  function applyFilters() {
+    let filtered = allProducts;
+
+    if (currentCategory !== 'all') {
+      filtered = filtered.filter(p => (p.categories || []).includes(currentCategory));
+    }
+
+    filtered = filtered.filter(p => {
+      const price = parseFloat(p.price);
+      return price >= priceMin && price <= priceMax;
+    });
+
+    renderProducts(filtered);
+
+    const countEl = document.querySelector('.toolbar span');
+    if (countEl) countEl.textContent = `${filtered.length} product${filtered.length === 1 ? '' : 's'}`;
+
+    // ---------- Update heading + desc + breadcrumb ----------
+    const copy = CATEGORY_COPY[currentCategory] || CATEGORY_COPY['all'];
+    document.getElementById('page-title').textContent = copy.title;
+    document.getElementById('page-desc').textContent = copy.desc;
+    document.getElementById('breadcrumb-current').textContent = copy.title;
+    document.title = copy.title + ' | Voidstudios';
+  }
+
+  function wireCategoryFilters() {
+    const links = document.querySelectorAll('#cat-list a');
+    links.forEach(link => {
+      link.addEventListener('click', e => {
+        e.preventDefault();
+        currentCategory = link.dataset.cat;
+        links.forEach(l => l.classList.remove('active'));
+        link.classList.add('active');
+        applyFilters();
+      });
+    });
+  }
+
+  function wirePriceSlider() {
+    const minSlider = document.getElementById('price-min');
+    const maxSlider = document.getElementById('price-max');
+
+    minSlider.addEventListener('input', () => {
+      if (parseFloat(minSlider.value) > parseFloat(maxSlider.value) - 1) {
+        minSlider.value = parseFloat(maxSlider.value) - 1;
+      }
+      priceMin = parseFloat(minSlider.value);
+      priceMax = parseFloat(maxSlider.value);
+      updateSliderUI(); updateLabels(); applyFilters();
+    });
+
+    maxSlider.addEventListener('input', () => {
+      if (parseFloat(maxSlider.value) < parseFloat(minSlider.value) + 1) {
+        maxSlider.value = parseFloat(minSlider.value) + 1;
+      }
+      priceMin = parseFloat(minSlider.value);
+      priceMax = parseFloat(maxSlider.value);
+      updateSliderUI(); updateLabels(); applyFilters();
+    });
+  }
+
+  function updateSliderUI() {
+    const minSlider = document.getElementById('price-min');
+    const maxSlider = document.getElementById('price-max');
+    const fill = document.getElementById('slider-fill');
+    const minVal = parseFloat(minSlider.value);
+    const maxVal = parseFloat(maxSlider.value);
+    const min = parseFloat(minSlider.min);
+    const max = parseFloat(maxSlider.max);
+    const leftPct = ((minVal - min) / (max - min)) * 100;
+    const rightPct = ((maxVal - min) / (max - min)) * 100;
+    fill.style.left = leftPct + '%';
+    fill.style.width = (rightPct - leftPct) + '%';
+  }
+
+  function updateLabels() {
+    document.getElementById('price-min-label').textContent = '$' + priceMin;
+    document.getElementById('price-max-label').textContent = '$' + priceMax;
+  }
+</script>
+</body>
+</html>

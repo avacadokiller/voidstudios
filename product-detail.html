@@ -1,0 +1,883 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Product | Voidstudios</title>
+<style>
+  * { margin:0; padding:0; box-sizing:border-box; }
+  html { scroll-behavior: smooth; }
+  body {
+    background:#000;
+    color:#fff;
+    font-family: 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    font-weight: 300;
+    letter-spacing: 0.02em;
+  }
+  a { text-decoration:none; color:inherit; }
+
+  /* ---------- HEADER ---------- */
+  header {
+    position: sticky; top: 0;
+    background: rgba(0,0,0,0.85);
+    backdrop-filter: blur(10px);
+    z-index: 100;
+    display:flex; align-items:center; justify-content:space-between;
+    padding: 20px 40px;
+    border-bottom: 1px solid rgba(255,255,255,0.07);
+    gap: 30px;
+  }
+  .header-left {
+    display: flex;
+    align-items: center;
+    gap: 46px;
+  }
+  .logo {
+    font-family: 'Helvetica Neue', 'Arial Narrow', Impact, sans-serif;
+    font-size: 1.35rem;
+    font-weight: 900;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+    color: #fff;
+    transition: color .25s;
+    white-space: nowrap;
+  }
+  .logo:hover { color: #888; }
+
+  nav ul { display:flex; list-style:none; gap: 30px; }
+  nav a {
+    font-size: 0.78rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: #fff;
+    transition: color .2s ease, border-color .2s ease;
+    white-space: nowrap;
+    padding-bottom: 4px;
+    border-bottom: 2px solid transparent;
+  }
+  nav:hover a { color: #777; }
+  nav a:hover {
+    color: #fff;
+    border-bottom-color: #a0764a;
+  }
+
+  .header-right { display: flex; align-items: center; gap: 22px; }
+  .search-btn {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding: 10px 20px;
+    border: 1px solid rgba(255,255,255,0.35);
+    color: #fff;
+    font-size: 0.75rem;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    transition: all .25s;
+  }
+  .search-btn svg { width: 15px; height: 15px; stroke: currentColor; }
+  .search-btn:hover { background: #fff; color: #000; border-color: #fff; }
+
+  .icon-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    width: 26px; height: 26px;
+    color: #e0e0e0;
+    transition: color .2s;
+  }
+  .icon-btn svg { width: 20px; height: 20px; stroke: currentColor; }
+  .icon-btn:hover { color: #fff; }
+
+  /* ---------- BREADCRUMB ---------- */
+  .breadcrumb {
+    padding: 22px 40px 0;
+    font-size: 0.82rem;
+    color:#bbb;
+    display:flex;
+    align-items:center;
+    gap: 10px;
+    flex-wrap: wrap;
+  }
+  .breadcrumb a { color:#bbb; transition: color .2s; }
+  .breadcrumb a:hover { color:#fff; }
+  .breadcrumb .sep { color:#555; }
+
+  /* ---------- LAYOUT ---------- */
+  .product-page {
+    display:grid;
+    grid-template-columns: 550px 1fr;
+    gap: 60px;
+    padding: 40px 40px 100px;
+    max-width: 1500px;
+    margin: 0 auto;
+    align-items: start;
+  }
+
+  /* ---------- LEFT: IMAGES ---------- */
+  .gallery {
+    position: sticky;
+    top: 100px;
+    max-width: 550px;
+  }
+
+  .main-image-wrap {
+    position: relative;
+    width: 100%;
+    aspect-ratio: 1 / 1;
+    background:#fff;
+    overflow: hidden;
+    cursor: crosshair;
+    margin-bottom: 16px;
+  }
+
+  .main-image-wrap img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: contain;
+    display: block;
+    transition: opacity .3s ease;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+    -ms-interpolation-mode: bicubic;
+  }
+
+  .zoom-lens {
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 0;
+    background-color: #fff;
+    background-repeat: no-repeat;
+    box-shadow: 0 0 0 1px rgba(255,255,255,0.35), 0 10px 40px rgba(0,0,0,0.6);
+    pointer-events: none;
+    opacity: 0;
+    transition: opacity .18s ease;
+    z-index: 5;
+    image-rendering: -webkit-optimize-contrast;
+    image-rendering: crisp-edges;
+  }
+  .main-image-wrap:hover .zoom-lens { opacity: 1; }
+
+  .thumb-strip {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 12px;
+  }
+  .thumb-strip .thumb-btn {
+    position: relative;
+    aspect-ratio: 1 / 1;
+    background:#fff;
+    overflow: hidden;
+    cursor: pointer;
+    border: 2px solid transparent;
+    transition: border-color .2s;
+  }
+  .thumb-strip .thumb-btn.active {
+    border-color: #fff;
+  }
+  .thumb-strip .thumb-btn img {
+    width: 100%; height: 100%;
+    object-fit: contain;
+    display: block;
+  }
+
+  /* ---------- RIGHT: INFO ---------- */
+  .info h1 {
+    font-family: 'Helvetica Neue', 'Arial Narrow', Impact, sans-serif;
+    font-size: clamp(1.6rem, 2.8vw, 2.2rem);
+    font-weight: 900;
+    line-height: 1.1;
+    margin-bottom: 14px;
+    letter-spacing: -0.01em;
+    text-transform: uppercase;
+  }
+  .info .price-line {
+    font-size: 1.4rem;
+    font-weight: 500;
+    color:#fff;
+    margin-bottom: 34px;
+    letter-spacing: 0.02em;
+  }
+
+  .opt-label {
+    font-size: 0.78rem;
+    color:#cfcfcf;
+    margin-bottom: 10px;
+  }
+  .opt-label strong { color:#fff; font-weight: 500; }
+
+  .size-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 8px;
+    margin-bottom: 26px;
+  }
+  .size-btn {
+    min-width: 46px;
+    padding: 11px 14px;
+    background: transparent;
+    border: 1px solid #333;
+    color:#d5d5d5;
+    font-size: 0.85rem;
+    font-family: inherit;
+    letter-spacing: 0.04em;
+    cursor: pointer;
+    transition: all .2s;
+    text-align: center;
+  }
+  .size-btn:hover { border-color: #888; color:#fff; }
+  .size-btn.active {
+    background: #fff;
+    color: #000;
+    border-color: #fff;
+  }
+  .size-btn:disabled {
+    opacity: 0.25;
+    cursor: not-allowed;
+    text-decoration: line-through;
+  }
+
+  .color-row {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 12px;
+    margin-bottom: 30px;
+  }
+  .color-btn {
+    width: 32px; height: 32px;
+    border-radius: 50%;
+    border: 2px solid #333;
+    cursor: pointer;
+    position: relative;
+    transition: all .2s;
+    background: #222;
+  }
+  .color-btn:hover { border-color: #888; transform: scale(1.08); }
+  .color-btn.active {
+    border-color: #fff;
+    box-shadow: 0 0 0 2px rgba(255,255,255,0.15);
+  }
+
+  .qty-row {
+    display: flex;
+    align-items: center;
+    gap: 0;
+    margin-bottom: 34px;
+  }
+  .qty-btn {
+    width: 44px; height: 44px;
+    background: transparent;
+    border: 1px solid #333;
+    color:#fff;
+    font-size: 1.1rem;
+    font-family: inherit;
+    cursor: pointer;
+    transition: all .2s;
+  }
+  .qty-btn:hover { border-color: #888; }
+  .qty-display {
+    width: 60px;
+    height: 44px;
+    border-top: 1px solid #333;
+    border-bottom: 1px solid #333;
+    border-left: none;
+    border-right: none;
+    background: transparent;
+    color: #fff;
+    font-family: inherit;
+    font-size: 0.95rem;
+    text-align: center;
+    outline: none;
+  }
+
+  .notice { margin-bottom: 28px; }
+  .notice .headline {
+    font-size: 0.95rem;
+    font-weight: 500;
+    color:#fff;
+    margin-bottom: 18px;
+  }
+  .notice label {
+    display: block;
+    font-size: 0.78rem;
+    color:#cfcfcf;
+    margin-bottom: 8px;
+    letter-spacing: 0.06em;
+  }
+  .notify-row { display: flex; gap: 10px; }
+  .notify-row input {
+    flex: 1;
+    background: transparent;
+    border: 1px solid #333;
+    color:#fff;
+    padding: 12px 16px;
+    font-family: inherit;
+    font-size: 0.85rem;
+    outline: none;
+    transition: border-color .2s;
+  }
+  .notify-row input::placeholder { color:#777; }
+  .notify-row input:focus { border-color: #666; }
+  .notify-row button {
+    background: #fff;
+    border: 1px solid #fff;
+    color:#000;
+    padding: 12px 22px;
+    font-family: inherit;
+    font-size: 0.78rem;
+    letter-spacing: 0.14em;
+    text-transform: uppercase;
+    cursor: pointer;
+    transition: all .2s;
+    white-space: nowrap;
+  }
+  .notify-row button:hover {
+    background: transparent;
+    color: #fff;
+  }
+
+  .trust {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 16px;
+    margin-bottom: 34px;
+    font-size: 0.78rem;
+    color:#b5b5b5;
+  }
+  .trust .icon-arrow {
+    display:inline-block;
+    transform: rotate(90deg);
+    margin-right: 4px;
+    color:#888;
+  }
+  .pay-badges {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    margin-top: 6px;
+  }
+  .pay-badge {
+    display:inline-block;
+    padding: 4px 10px;
+    background: #111;
+    border: 1px solid #333;
+    border-radius: 3px;
+    font-size: 0.62rem;
+    font-weight: 500;
+    letter-spacing: 0.04em;
+    color:#ccc;
+    text-transform: uppercase;
+  }
+
+  .description h2 {
+    font-size: 1.05rem;
+    font-weight: 500;
+    margin-bottom: 16px;
+    color:#fff;
+  }
+  .description-content {
+    font-size: 0.9rem;
+    line-height: 1.75;
+    color:#c0c0c0;
+    letter-spacing: 0.01em;
+  }
+  .description-content p { margin-bottom: 14px; }
+  .description-content strong { color:#fff; font-weight: 500; }
+  .description-content ul { margin-left: 20px; margin-bottom: 14px; }
+  .description-content li { margin-bottom: 6px; }
+  .description-content br { line-height: 1.75; }
+
+  .accordion {
+    margin-top: 34px;
+    border-top: 1px solid rgba(255,255,255,0.1);
+  }
+  .accordion-item {
+    border-bottom: 1px solid rgba(255,255,255,0.1);
+  }
+  .accordion-head {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 18px 0;
+    cursor: pointer;
+    font-size: 0.9rem;
+    color:#e0e0e0;
+    transition: color .2s;
+    user-select: none;
+  }
+  .accordion-head:hover { color:#fff; }
+  .accordion-head svg {
+    width: 14px; height: 14px;
+    stroke: currentColor; fill: none; stroke-width: 1.6;
+    transition: transform .25s;
+  }
+  .accordion-item.open .accordion-head svg { transform: rotate(180deg); }
+  .accordion-body {
+    max-height: 0;
+    overflow: hidden;
+    transition: max-height .3s ease;
+    font-size: 0.85rem;
+    color:#b5b5b5;
+    line-height: 1.75;
+  }
+  .accordion-item.open .accordion-body {
+    max-height: 500px;
+    padding-bottom: 20px;
+  }
+  .accordion-body a {
+    color:#fff;
+    text-decoration: underline;
+    text-underline-offset: 3px;
+  }
+
+  .report-link {
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    margin-top: 20px;
+    font-size: 0.82rem;
+    color:#999;
+    cursor: pointer;
+    transition: color .2s;
+  }
+  .report-link:hover { color:#fff; }
+  .report-link svg {
+    width: 14px; height: 14px;
+    stroke: currentColor; fill: none; stroke-width: 1.6;
+  }
+
+  /* ---------- FOOTER ---------- */
+  footer {
+    padding: 60px 40px 50px;
+    display:flex; flex-wrap:wrap; justify-content:space-between; align-items:center;
+    gap: 24px;
+    font-size: 0.68rem; text-transform: uppercase; letter-spacing: 0.22em; color:#888;
+    background: #000;
+    border-top: 1px solid rgba(255,255,255,0.08);
+  }
+  footer .socials { display:flex; gap: 30px; }
+  footer a { color:#888; transition: color .25s; }
+  footer a:hover { color:#fff; }
+
+  /* ---------- RESPONSIVE ---------- */
+  @media (max-width: 1000px) {
+    .product-page {
+      grid-template-columns: 1fr;
+      gap: 40px;
+      padding: 30px 22px 80px;
+    }
+    .gallery { position: relative; top: 0; max-width: 100%; }
+    .zoom-lens { display: none; }
+  }
+  @media (max-width: 900px) {
+    header { padding: 18px 22px; flex-wrap: wrap; gap: 16px; }
+    .header-left { gap: 22px; width: 100%; justify-content: space-between; }
+    nav ul { gap: 16px; }
+    nav a { font-size: 0.68rem; letter-spacing: 0.06em; }
+    .header-right { width: 100%; justify-content: flex-end; gap: 18px; }
+    .breadcrumb { padding: 18px 22px 0; }
+  }
+  @media (max-width: 640px) {
+    .logo { font-size: 1.15rem; }
+    nav ul { gap: 12px; flex-wrap: wrap; }
+    nav a { font-size: 0.62rem; }
+    .search-btn { padding: 8px 14px; font-size: 0.68rem; }
+    .icon-btn svg { width: 18px; height: 18px; }
+    .product-page { padding: 20px 18px 60px; gap: 30px; }
+    .thumb-strip { grid-template-columns: repeat(4, 1fr); gap: 8px; }
+    .info h1 { font-size: 1.3rem; }
+    footer { justify-content:center; text-align:center; }
+  }
+</style>
+</head>
+<body>
+
+  <!-- ================= HEADER ================= -->
+  <header>
+    <div class="header-left">
+      <a href="index.html" class="logo">VOIDSTUDIOS</a>
+      <nav>
+        <ul>
+          <li><a href="index.html">Home</a></li>
+          <li><a href="products.html">Shop</a></li>
+          <li><a href="products.html">T-Shirts</a></li>
+          <li><a href="products.html">Hoodies</a></li>
+          <li><a href="products.html">New Arrivals</a></li>
+        </ul>
+      </nav>
+    </div>
+
+    <div class="header-right">
+      <a href="#" class="search-btn">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="11" cy="11" r="7"/>
+          <line x1="21" y1="21" x2="16.65" y2="16.65"/>
+        </svg>
+        <span>Search</span>
+      </a>
+
+      <a href="#" class="icon-btn" aria-label="Wishlist">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M20.84 4.61a5.5 5.5 0 0 0-7.78 0L12 5.67l-1.06-1.06a5.5 5.5 0 0 0-7.78 7.78l1.06 1.06L12 21.23l7.78-7.78 1.06-1.06a5.5 5.5 0 0 0 0-7.78z"/>
+        </svg>
+      </a>
+
+      <a href="#" class="icon-btn" aria-label="Cart">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <path d="M4 7h16l-1.5 12.5a1.5 1.5 0 0 1-1.5 1.3H7a1.5 1.5 0 0 1-1.5-1.3L4 7z"/>
+          <path d="M9 7V5.5a3 3 0 0 1 6 0V7"/>
+        </svg>
+      </a>
+
+      <a href="#" class="icon-btn" aria-label="Account">
+        <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round">
+          <circle cx="12" cy="8" r="4"/>
+          <path d="M4 21v-1a6 6 0 0 1 6-6h4a6 6 0 0 1 6 6v1"/>
+        </svg>
+      </a>
+    </div>
+  </header>
+
+  <!-- ================= BREADCRUMB ================= -->
+  <div class="breadcrumb">
+    <a href="index.html">Home</a>
+    <span class="sep">›</span>
+    <a href="products.html">All Products</a>
+    <span class="sep">›</span>
+    <span id="breadcrumb-title">Product</span>
+  </div>
+
+  <!-- ================= PRODUCT PAGE ================= -->
+  <div class="product-page">
+
+    <div class="gallery">
+      <div class="main-image-wrap" id="main-image-wrap">
+        <img id="main-image" src="" alt="Product image">
+        <div class="zoom-lens" id="zoom-lens"></div>
+      </div>
+      <div class="thumb-strip" id="thumb-strip"></div>
+    </div>
+
+    <div class="info">
+      <h1 id="product-title">Loading…</h1>
+      <div class="price-line" id="product-price">$0.00</div>
+
+      <div class="opt-label">Sizes: <strong id="selected-size-label">—</strong></div>
+      <div class="size-row" id="size-row"></div>
+
+      <div class="opt-label">Colors: <strong id="selected-color-label">—</strong></div>
+      <div class="color-row" id="color-row"></div>
+
+      <div class="opt-label">Quantity</div>
+      <div class="qty-row">
+        <button class="qty-btn" id="qty-minus">−</button>
+        <input type="text" class="qty-display" id="qty-display" value="1" readonly>
+        <button class="qty-btn" id="qty-plus">+</button>
+      </div>
+
+      <div class="notice">
+        <div class="headline">This product is coming soon!</div>
+        <label>To get notified *</label>
+        <div class="notify-row">
+          <input type="email" placeholder="Enter your email">
+          <button type="button" onclick="alert('Thanks! We will notify you when this drops.')">Notify me</button>
+        </div>
+      </div>
+
+      <div class="trust">
+        <div>
+          <span class="icon-arrow">↻</span> 30 days return policy. See details
+        </div>
+        <div class="pay-badges">
+          <span class="pay-badge">VISA</span>
+          <span class="pay-badge">Mastercard</span>
+          <span class="pay-badge">AMEX</span>
+          <span class="pay-badge">Diners</span>
+          <span class="pay-badge">Apple Pay</span>
+          <span class="pay-badge">G Pay</span>
+        </div>
+      </div>
+
+      <div class="description">
+        <h2>About the product</h2>
+        <div class="description-content" id="description-content">
+          Loading description…
+        </div>
+      </div>
+
+      <div class="accordion">
+        <div class="accordion-item">
+          <div class="accordion-head">
+            Product details
+            <svg viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg>
+          </div>
+          <div class="accordion-body">
+            Premium construction details available upon request.
+          </div>
+        </div>
+        <div class="accordion-item">
+          <div class="accordion-head">
+            Care Instructions
+            <svg viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg>
+          </div>
+          <div class="accordion-body">
+            Machine wash cold. Do not bleach. Tumble dry low. Do not dry clean.
+          </div>
+        </div>
+        <div class="accordion-item">
+          <div class="accordion-head">
+            Shipping &amp; delivery
+            <svg viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg>
+          </div>
+          <div class="accordion-body">
+            Shipping times vary by location. Local delivery within Pakistan available at checkout.
+          </div>
+        </div>
+        <div class="accordion-item">
+          <div class="accordion-head">
+            30 day return policy
+            <svg viewBox="0 0 24 24"><path d="M6 9l6 6 6-6"/></svg>
+          </div>
+          <div class="accordion-body">
+            Returns accepted within 30 days if unworn and in original packaging.
+          </div>
+        </div>
+      </div>
+
+      <a class="report-link">
+        <svg viewBox="0 0 24 24"><circle cx="12" cy="12" r="10"/><path d="M12 8v4M12 16h.01"/></svg>
+        Report this product
+      </a>
+    </div>
+  </div>
+
+  <!-- ================= FOOTER ================= -->
+  <footer>
+    <div>© 2025 Void Studios — All Rights Reserved</div>
+    <div class="socials">
+      <a href="#">Instagram</a>
+      <a href="#">TikTok</a>
+      <a href="#">Twitter</a>
+      <a href="#">Contact</a>
+    </div>
+  </footer>
+
+  <script>
+    function upscaleImage(url) {
+      if (!url) return url;
+      if (!url.includes('images-api.printify.com') && !url.includes('cloudfront.net')) {
+        return url;
+      }
+      const [base, query] = url.split('?');
+      const params = new URLSearchParams(query || '');
+      params.set('width', '2000');
+      params.set('quality', '95');
+      return base + '?' + params.toString();
+    }
+
+    const params = new URLSearchParams(window.location.search);
+    const productId = params.get('id');
+
+    let product = null;
+    let selectedColor = null;
+    let selectedSize = null;
+    let quantity = 1;
+
+    fetch('products.json')
+      .then(r => r.json())
+      .then(all => {
+        product = all.find(p => p.id === productId) || all[0];
+        if (!product) {
+          document.querySelector('.product-page').innerHTML =
+            '<p style="color:#888;padding:80px 40px;">Product not found.</p>';
+          return;
+        }
+        renderProduct(product);
+        wireGalleryZoom();
+        wireQuantity();
+        wireAccordions();
+      })
+      .catch(err => {
+        console.error(err);
+        document.querySelector('.product-page').innerHTML =
+          '<p style="color:#888;padding:80px 40px;">Failed to load product.</p>';
+      });
+
+    function renderProduct(p) {
+      document.title = p.title + ' | Voidstudios';
+      document.getElementById('breadcrumb-title').textContent = p.title;
+      document.getElementById('product-title').textContent = p.title;
+      document.getElementById('product-price').textContent = '$' + p.price;
+      document.getElementById('description-content').innerHTML = p.description || 'No description.';
+
+      const images = [];
+      if (p.image) images.push(upscaleImage(p.image));
+      if (p.image_back && p.image_back !== p.image) images.push(upscaleImage(p.image_back));
+      (p.colors || []).forEach(c => {
+        if (c.image && !images.includes(upscaleImage(c.image))) images.push(upscaleImage(c.image));
+      });
+
+      const galleryImages = images.slice(0, 4);
+      setMainImage(galleryImages[0]);
+
+      const strip = document.getElementById('thumb-strip');
+      strip.innerHTML = galleryImages.map((src, i) => `
+        <div class="thumb-btn ${i === 0 ? 'active' : ''}" data-src="${src}">
+          <img src="${src}" alt="">
+        </div>
+      `).join('');
+
+      strip.querySelectorAll('.thumb-btn').forEach(btn => {
+        btn.addEventListener('click', () => {
+          strip.querySelectorAll('.thumb-btn').forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          setMainImage(btn.dataset.src);
+        });
+      });
+
+      const allSizes = p.all_sizes && p.all_sizes.length ? p.all_sizes : ['S','M','L','XL','2XL'];
+      renderSizes(allSizes, allSizes[0]);
+
+      const colors = (p.colors && p.colors.length) ? p.colors : [{ name: 'Default', sizes: [] }];
+      renderColors(colors, colors[0]);
+    }
+
+    function setMainImage(src) {
+      const main = document.getElementById('main-image');
+      main.style.opacity = 0;
+      setTimeout(() => {
+        main.src = src;
+        main.onload = () => { main.style.opacity = 1; };
+      }, 120);
+    }
+
+    function renderSizes(sizes, defaultSize) {
+      const row = document.getElementById('size-row');
+      row.innerHTML = sizes.map(s => `<button class="size-btn" data-size="${s}">${s}</button>`).join('');
+
+      const btns = row.querySelectorAll('.size-btn');
+      btns.forEach(btn => {
+        btn.addEventListener('click', () => {
+          btns.forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          selectedSize = btn.dataset.size;
+          document.getElementById('selected-size-label').textContent = selectedSize;
+        });
+      });
+
+      const target = btns[0];
+      if (target) target.click();
+    }
+
+    function renderColors(colors, defaultColor) {
+      const row = document.getElementById('color-row');
+      const colorMap = {
+        'black':'#000000','white':'#ffffff','heather grey':'#b8b8b8','heather gray':'#b8b8b8',
+        'grey':'#888888','gray':'#888888','charcoal':'#3a3a3a','cardinal':'#8b1f2b',
+        'khaki':'#c3b091','powder pink':'#e8c5c8','sky blue':'#87ceeb','navy':'#1a2238',
+        'forest':'#2f4f3f','olive':'#6b6b47','sand':'#d6c7a1','dark grey':'#3a3a3a',
+        'dark gray':'#3a3a3a','blue':'#4a6fa5','red':'#a03030','green':'#4a7a4a','beige':'#d9c9a8'
+      };
+
+      row.innerHTML = colors.map(c => {
+        const hex = colorMap[(c.name || '').toLowerCase()] || '#333333';
+        return `<button class="color-btn" data-color="${c.name}" style="background:${hex};" title="${c.name}"></button>`;
+      }).join('');
+
+      const btns = row.querySelectorAll('.color-btn');
+      btns.forEach(btn => {
+        btn.addEventListener('click', () => {
+          btns.forEach(b => b.classList.remove('active'));
+          btn.classList.add('active');
+          selectedColor = btn.dataset.color;
+          document.getElementById('selected-color-label').textContent = selectedColor;
+
+          const colorData = colors.find(c => c.name === selectedColor);
+          if (colorData && colorData.image) setMainImage(upscaleImage(colorData.image));
+
+          if (colorData && colorData.sizes && colorData.sizes.length) {
+            const availableSizes = colorData.sizes.map(s => s.size);
+            const sizeBtns = document.querySelectorAll('#size-row .size-btn');
+            sizeBtns.forEach(sb => {
+              if (availableSizes.includes(sb.dataset.size)) sb.disabled = false;
+              else { sb.disabled = true; sb.classList.remove('active'); }
+            });
+
+            const current = document.querySelector('#size-row .size-btn.active');
+            if (!current || current.disabled) {
+              const firstAvail = [...sizeBtns].find(b => !b.disabled);
+              if (firstAvail) firstAvail.click();
+            }
+
+            const minPrice = Math.min(...colorData.sizes.map(s => parseFloat(s.price)));
+            document.getElementById('product-price').textContent = '$' + minPrice.toFixed(2);
+          }
+        });
+      });
+
+      if (btns[0]) btns[0].click();
+    }
+
+    function wireQuantity() {
+      const display = document.getElementById('qty-display');
+      document.getElementById('qty-minus').addEventListener('click', () => {
+        quantity = Math.max(1, quantity - 1);
+        display.value = quantity;
+      });
+      document.getElementById('qty-plus').addEventListener('click', () => {
+        quantity += 1;
+        display.value = quantity;
+      });
+    }
+
+    function wireAccordions() {
+      document.querySelectorAll('.accordion-item').forEach(item => {
+        const head = item.querySelector('.accordion-head');
+        head.addEventListener('click', () => item.classList.toggle('open'));
+      });
+    }
+
+    function wireGalleryZoom() {
+      const wrap = document.getElementById('main-image-wrap');
+      const mainImg = document.getElementById('main-image');
+      const lens = document.getElementById('zoom-lens');
+
+      const LENS_SIZE = 200;
+      const ZOOM = 2.5;
+
+      function moveLens(e) {
+        const rect = wrap.getBoundingClientRect();
+        let x = e.clientX - rect.left;
+        let y = e.clientY - rect.top;
+        x = Math.max(0, Math.min(x, rect.width));
+        y = Math.max(0, Math.min(y, rect.height));
+
+        let lensLeft = x - LENS_SIZE / 2;
+        let lensTop  = y - LENS_SIZE / 2;
+        lensLeft = Math.max(0, Math.min(lensLeft, rect.width - LENS_SIZE));
+        lensTop  = Math.max(0, Math.min(lensTop,  rect.height - LENS_SIZE));
+
+        lens.style.left = lensLeft + 'px';
+        lens.style.top  = lensTop + 'px';
+
+        const bgX = (x / rect.width) * 100;
+        const bgY = (y / rect.height) * 100;
+        lens.style.backgroundImage = `url('${mainImg.src}')`;
+        lens.style.backgroundPosition = `${bgX}% ${bgY}%`;
+        lens.style.backgroundSize = `${ZOOM * 100}% ${ZOOM * 100}%`;
+      }
+
+      wrap.addEventListener('mouseenter', moveLens);
+      wrap.addEventListener('mousemove', moveLens);
+      wrap.addEventListener('mouseleave', () => { lens.style.opacity = 0; });
+      wrap.addEventListener('mouseenter', () => { lens.style.opacity = 1; });
+    }
+  </script>
+
+</body>
+</html>
