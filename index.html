@@ -334,7 +334,7 @@
   .carousel-arrow.left { left: 12px; }
   .carousel-arrow.right { right: 12px; }
 
-  /* ---------- DARK CARDS with dark grey thumbnail ---------- */
+  /* ---------- DARK CARDS ---------- */
   .carousel-card,
   .white-card {
     background: #0a0a0a;
@@ -355,9 +355,7 @@
     position: relative;
     width: 100%;
     aspect-ratio: 1 / 1;
-    /* Dark charcoal vignette — blends with black site
-       but still shows light shirts clearly */
-    background: radial-gradient(circle at 50% 45%, #262626 0%, #151515 70%);
+    background: #f5f5f5;
     display: flex;
     align-items: center;
     justify-content: center;
@@ -365,14 +363,11 @@
   }
   .carousel-card .thumb img,
   .white-card .thumb img {
-    width: 88%;
-    height: 88%;
+    width: 100%;
+    height: 100%;
     object-fit: contain;
     display: block;
     transition: transform .4s;
-    /* Round the corners slightly to blend the white mockup
-       edges into the dark thumbnail box */
-    border-radius: 4px;
   }
   .carousel-card:hover .thumb img,
   .white-card:hover .thumb img {
@@ -506,7 +501,7 @@
     color: #777;
   }
 
-  /* ---------- LIMITED COLLECTION ---------- */
+  /* ---------- LIMITED COLLECTION (split with FULL-BLEED image) ---------- */
   .limited {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -517,12 +512,12 @@
   .limited .image {
     aspect-ratio: 1 / 1;
     background: #0d0d0d;
-    display: flex;
-    align-items: center;
-    justify-content: center;
     overflow: hidden;
+    position: relative;
   }
-    .limited .image img {
+  .limited .image img {
+    position: absolute;
+    inset: 0;
     width: 100%;
     height: 100%;
     object-fit: cover;
@@ -804,7 +799,7 @@
   <section class="drop-banner">
     <div class="drop-banner-inner">
       <div class="image">
-         <img src="hope-model.jfif" alt="Hope Model Drop">
+        <img src="fatality.png" alt="FATALITY Drop">
       </div>
       <div class="content">
         <div class="section-eyebrow">03 — Upcoming Drop</div>
@@ -837,7 +832,7 @@
 
   <section class="limited">
     <div class="image">
-      <img src="vampire-model.png" alt="Vampire Tee">
+      <img src="hoodie.png" alt="Trust Issue Hoodie">
     </div>
     <div class="content">
       <div class="section-eyebrow">05 — Limited Collection</div>
@@ -879,100 +874,4 @@
         </ul>
       </div>
       <div class="footer-col">
-        <h4>Support</h4>
-        <ul>
-          <li><a href="#">Shipping Policy</a></li>
-          <li><a href="#">Return Policy</a></li>
-          <li><a href="#">Privacy Policy</a></li>
-          <li><a href="#">Terms & Conditions</a></li>
-        </ul>
-      </div>
-    </div>
-
-    <div class="footer-bottom">
-      <div>© 2025 Void Studios — All Rights Reserved</div>
-      <div class="socials">
-        <a href="#">Instagram</a>
-        <a href="#">TikTok</a>
-        <a href="#">Twitter</a>
-        <a href="#">Contact</a>
-      </div>
-    </div>
-
-    <div class="watermark">VOIDSTUDIOS</div>
-  </footer>
-
-  <script>
-    fetch('products.json')
-      .then(r => r.json())
-      .then(products => {
-        const carousel = document.getElementById('product-carousel');
-        const carouselList = products
-          .filter(p => (p.categories || []).includes('Tees'))
-          .slice(0, 13);
-
-        carousel.innerHTML = carouselList.map(p => {
-          const category = (p.categories && p.categories[0]) || 'Product';
-          const name = p.title.length > 44 ? p.title.slice(0, 44).trim() + '…' : p.title;
-          return `
-            <a href="product-detail.html?id=${p.id}" class="carousel-card">
-              <div class="thumb"><img src="${p.image}" alt="${p.title}"></div>
-              <div class="info">
-                <div class="left">
-                  <span class="name">${name}</span>
-                  <span class="cat">${category}</span>
-                </div>
-                <span class="price">$${p.price}</span>
-              </div>
-            </a>
-          `;
-        }).join('');
-
-        const mostWanted = document.getElementById('most-wanted-grid');
-        const gridList = products.slice(0, 4);
-
-        mostWanted.innerHTML = gridList.map(p => {
-          const category = (p.categories && p.categories[0]) || 'Product';
-          const name = p.title.length > 40 ? p.title.slice(0, 40).trim() + '…' : p.title;
-          return `
-            <a href="product-detail.html?id=${p.id}" class="white-card">
-              <div class="thumb">
-                <span class="badge">Featured</span>
-                <img src="${p.image}" alt="${p.title}">
-              </div>
-              <div class="info">
-                <div class="left">
-                  <span class="name">${name}</span>
-                  <span class="cat">${category}</span>
-                </div>
-                <span class="price">$${p.price}</span>
-              </div>
-            </a>
-          `;
-        }).join('');
-
-        function smoothScrollBy(el, amount, duration = 600) {
-          const start = el.scrollLeft;
-          const target = start + amount;
-          const startTime = performance.now();
-          function step(now) {
-            const t = Math.min((now - startTime) / duration, 1);
-            const eased = 1 - Math.pow(1 - t, 3);
-            el.scrollLeft = start + (target - start) * eased;
-            if (t < 1) requestAnimationFrame(step);
-          }
-          requestAnimationFrame(step);
-        }
-
-        const prev = document.getElementById('carousel-prev');
-        const next = document.getElementById('carousel-next');
-        const scrollAmount = 340;
-
-        prev.addEventListener('click', () => smoothScrollBy(carousel, -scrollAmount));
-        next.addEventListener('click', () => smoothScrollBy(carousel, scrollAmount));
-      })
-      .catch(err => console.error('Failed to load products:', err));
-  </script>
-
-</body>
-</html>
+        <h4>Support</h
