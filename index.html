@@ -432,7 +432,7 @@
     gap: 22px;
   }
 
-  /* ---------- DROP BANNER ---------- */
+  /* ---------- DROP BANNER (now uses hope-model.png) ---------- */
   .drop-banner {
     background: #050505;
     border-top: 1px solid rgba(255,255,255,0.08);
@@ -455,10 +455,12 @@
     position: relative;
   }
   .drop-banner .image img {
+    position: absolute;
+    inset: 0;
     width: 100%;
     height: 100%;
     object-fit: cover;
-    object-position: center 35%;
+    object-position: center 30%;
     display: block;
   }
   .drop-banner .content .section-eyebrow { margin-bottom: 24px; }
@@ -501,7 +503,7 @@
     color: #777;
   }
 
-  /* ---------- LIMITED COLLECTION (split with FULL-BLEED image) ---------- */
+  /* ---------- LIMITED COLLECTION (now uses vampire-model.png) ---------- */
   .limited {
     display: grid;
     grid-template-columns: 1fr 1fr;
@@ -799,7 +801,7 @@
   <section class="drop-banner">
     <div class="drop-banner-inner">
       <div class="image">
-        <img src="fatality.png" alt="FATALITY Drop">
+        <img src="hope-model.png" alt="Hope Model Drop">
       </div>
       <div class="content">
         <div class="section-eyebrow">03 — Upcoming Drop</div>
@@ -832,7 +834,7 @@
 
   <section class="limited">
     <div class="image">
-      <img src="hoodie.png" alt="Trust Issue Hoodie">
+      <img src="vampire-model.png" alt="Vampire Bite Tee">
     </div>
     <div class="content">
       <div class="section-eyebrow">05 — Limited Collection</div>
@@ -874,4 +876,100 @@
         </ul>
       </div>
       <div class="footer-col">
-        <h4>Support</h
+        <h4>Support</h4>
+        <ul>
+          <li><a href="#">Shipping Policy</a></li>
+          <li><a href="#">Return Policy</a></li>
+          <li><a href="#">Privacy Policy</a></li>
+          <li><a href="#">Terms & Conditions</a></li>
+        </ul>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <div>© 2025 Void Studios — All Rights Reserved</div>
+      <div class="socials">
+        <a href="#">Instagram</a>
+        <a href="#">TikTok</a>
+        <a href="#">Twitter</a>
+        <a href="#">Contact</a>
+      </div>
+    </div>
+
+    <div class="watermark">VOIDSTUDIOS</div>
+  </footer>
+
+  <script>
+    fetch('products.json')
+      .then(r => r.json())
+      .then(products => {
+        const carousel = document.getElementById('product-carousel');
+        const carouselList = products
+          .filter(p => (p.categories || []).includes('Tees'))
+          .slice(0, 13);
+
+        carousel.innerHTML = carouselList.map(p => {
+          const category = (p.categories && p.categories[0]) || 'Product';
+          const name = p.title.length > 44 ? p.title.slice(0, 44).trim() + '…' : p.title;
+          return `
+            <a href="product-detail.html?id=${p.id}" class="carousel-card">
+              <div class="thumb"><img src="${p.image}" alt="${p.title}"></div>
+              <div class="info">
+                <div class="left">
+                  <span class="name">${name}</span>
+                  <span class="cat">${category}</span>
+                </div>
+                <span class="price">$${p.price}</span>
+              </div>
+            </a>
+          `;
+        }).join('');
+
+        const mostWanted = document.getElementById('most-wanted-grid');
+        const gridList = products.slice(0, 4);
+
+        mostWanted.innerHTML = gridList.map(p => {
+          const category = (p.categories && p.categories[0]) || 'Product';
+          const name = p.title.length > 40 ? p.title.slice(0, 40).trim() + '…' : p.title;
+          return `
+            <a href="product-detail.html?id=${p.id}" class="white-card">
+              <div class="thumb">
+                <span class="badge">Featured</span>
+                <img src="${p.image}" alt="${p.title}">
+              </div>
+              <div class="info">
+                <div class="left">
+                  <span class="name">${name}</span>
+                  <span class="cat">${category}</span>
+                </div>
+                <span class="price">$${p.price}</span>
+              </div>
+            </a>
+          `;
+        }).join('');
+
+        function smoothScrollBy(el, amount, duration = 600) {
+          const start = el.scrollLeft;
+          const target = start + amount;
+          const startTime = performance.now();
+          function step(now) {
+            const t = Math.min((now - startTime) / duration, 1);
+            const eased = 1 - Math.pow(1 - t, 3);
+            el.scrollLeft = start + (target - start) * eased;
+            if (t < 1) requestAnimationFrame(step);
+          }
+          requestAnimationFrame(step);
+        }
+
+        const prev = document.getElementById('carousel-prev');
+        const next = document.getElementById('carousel-next');
+        const scrollAmount = 340;
+
+        prev.addEventListener('click', () => smoothScrollBy(carousel, -scrollAmount));
+        next.addEventListener('click', () => smoothScrollBy(carousel, scrollAmount));
+      })
+      .catch(err => console.error('Failed to load products:', err));
+  </script>
+
+</body>
+</html>
