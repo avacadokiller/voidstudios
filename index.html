@@ -66,16 +66,12 @@
 
   .header-right { display: flex; align-items: center; gap: 22px; }
   .search-btn {
-    display: inline-flex;
-    align-items: center;
-    gap: 10px;
+    display: inline-flex; align-items: center; gap: 10px;
     padding: 10px 20px;
     border: 1px solid rgba(255,255,255,0.35);
     color: #fff;
-    font-size: 0.75rem;
-    font-weight: 700;
-    text-transform: uppercase;
-    letter-spacing: 0.12em;
+    font-size: 0.75rem; font-weight: 700;
+    text-transform: uppercase; letter-spacing: 0.12em;
     transition: all .25s;
   }
   .search-btn svg { width: 15px; height: 15px; stroke: currentColor; }
@@ -84,8 +80,7 @@
   .icon-btn {
     display: inline-flex; align-items: center; justify-content: center;
     width: 26px; height: 26px;
-    color: #e0e0e0;
-    transition: color .2s;
+    color: #e0e0e0; transition: color .2s;
   }
   .icon-btn svg { width: 20px; height: 20px; stroke: currentColor; }
   .icon-btn:hover { color: #fff; }
@@ -96,8 +91,7 @@
     position: relative;
     overflow: hidden;
     background-color: #000;
-    display: flex;
-    align-items: center;
+    display: flex; align-items: center;
     padding: 80px 40px 140px;
   }
   .hero .bg {
@@ -141,8 +135,8 @@
     display: inline-block;
     font-size: 0.72rem; text-transform: uppercase;
     letter-spacing: 0.22em; padding: 15px 34px;
-    background: #fff; color: #000; border: 1px solid #fff;
-    transition: all .25s;
+    background: #fff; color: #000;
+    border: 1px solid #fff; transition: all .25s;
   }
   .btn-solid:hover { background: transparent; color: #fff; }
   .btn-ghost {
@@ -361,13 +355,17 @@
     letter-spacing: 0.24em; color: #777;
   }
 
-  /* ---------- LIMITED COLLECTION (fixed 600px tall) ---------- */
+  /* ---------- LIMITED COLLECTION (now contained) ---------- */
+  .limited-wrap {
+    padding: 0 40px;
+    max-width: 1480px;
+    margin: 0 auto;
+  }
   .limited {
     display: grid;
     grid-template-columns: 1fr 1fr;
     gap: 0;
-    border-top: 1px solid rgba(255,255,255,0.08);
-    border-bottom: 1px solid rgba(255,255,255,0.08);
+    border: 1px solid rgba(255,255,255,0.08);
     height: 600px;
     overflow: hidden;
   }
@@ -507,6 +505,7 @@
     .hero .bg { width: 90%; top: -12%; right: -25%; }
     .drop-banner-inner { grid-template-columns: 1fr; }
     .drop-banner .image { height: 400px; }
+    .limited-wrap { padding: 0 22px; }
     .limited { grid-template-columns: 1fr; height: auto; }
     .limited .image { aspect-ratio: 4 / 5; height: auto; }
     .limited .content { height: auto; padding: 60px 40px; }
@@ -537,6 +536,7 @@
     .carousel-arrow { width: 32px; height: 32px; }
     .carousel-arrow svg { width: 12px; height: 12px; }
     .limited .content { padding: 50px 22px; }
+    .limited-wrap { padding: 0 18px; }
   }
 </style>
 </head>
@@ -657,16 +657,18 @@
     <div class="product-grid" id="most-wanted-grid"></div>
   </section>
 
-  <section class="limited">
-    <div class="image">
-      <img src="vampire-model.png" alt="Vampire Bite Tee">
-    </div>
-    <div class="content">
-      <div class="section-eyebrow">05 — Limited Collection</div>
-      <h2>Made in small numbers, on purpose.</h2>
-      <p>Every drop is produced in short runs — hand screen-printed, one piece at a time. When it's gone, we don't bring it back. What you wear is what only a few others will ever own.</p>
-      <div class="ctas">
-        <a href="products.html" class="btn-ghost">Read Our Story</a>
+  <section class="limited-wrap">
+    <div class="limited">
+      <div class="image">
+        <img src="vampire-model.png" alt="Vampire Bite Tee">
+      </div>
+      <div class="content">
+        <div class="section-eyebrow">05 — Limited Collection</div>
+        <h2>Made in small numbers, on purpose.</h2>
+        <p>Every drop is produced in short runs — hand screen-printed, one piece at a time. When it's gone, we don't bring it back. What you wear is what only a few others will ever own.</p>
+        <div class="ctas">
+          <a href="products.html" class="btn-ghost">Read Our Story</a>
+        </div>
       </div>
     </div>
   </section>
