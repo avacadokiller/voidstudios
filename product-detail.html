@@ -688,7 +688,7 @@
     let selectedSize = null;
     let quantity = 1;
 
-    fetch('products.json')
+    fetch('products.json?v=2')
       .then(r => r.json())
       .then(all => {
         product = all.find(p => p.id === productId) || all[0];
