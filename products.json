@@ -1,5 +1,1493 @@
 [
   {
+    "id": "6ad0a4c59145a2da8502f409",
+    "title": "STARCASM “The Elements Required to Deal with Stupidity” Champion Hoodie",
+    "description": "A witty Champion hoodie for sharp minds, science lovers, and anyone who appreciates a little dry humor. The chest design reads “Sarcasm: The Elements Required to Deal with Stupidity,” turning a familiar chemistry-inspired layout into a clever everyday statement. Wear it through chilly commutes, study sessions, coffee runs, or quiet moments when your hoodie says what you’re thinking. The medium-heavy cotton-polyester fleece brings warmth and coziness, while the relaxed fit, adjustable drawstring hood, and kangaroo pocket make it easy to live in. Finished with Champion’s iconic C logo on the left sleeve, this hoodie pairs practical comfort with unmistakable sarcasm.<br/><br/>Product features<br/>- 50% cotton and 50% polyester fabric with a strong, smooth surface<br/>- Medium-heavy 9 oz/yd² (310 g/m²) construction for warmth and coziness<br/>- Adjustable two-ply hood with drawstrings, metal grommets, and a spacious kangaroo pocket<br/>- Tubular knit construction without side seams to reduce fabric waste<br/>- Relaxed regular fit with Champion C logo on the left sleeve and up to 5% recycled plastic content<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Do not tumble dry<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
+    "image": "https://images-api.printify.com/mockup/6ad0a4c59145a2da8502f409/68876/109444/starcasm-the-elements-required-to-deal-with-stupidity-champion-hoodie.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6ad0a4c59145a2da8502f409/68876/109445/starcasm-the-elements-required-to-deal-with-stupidity-champion-hoodie.jpg?camera_label=back",
+    "price": "62.02",
+    "categories": [
+      "Hoodies"
+    ],
+    "colors": [
+      {
+        "name": "3XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 71067,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "2XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68892,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "M",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68868,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "S",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68860,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "L",
+        "image": "https://images-api.printify.com/mockup/6ad0a4c59145a2da8502f409/68876/109444/starcasm-the-elements-required-to-deal-with-stupidity-champion-hoodie.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ad0a4c59145a2da8502f409/68876/109444/starcasm-the-elements-required-to-deal-with-stupidity-champion-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad0a4c59145a2da8502f409/68876/109445/starcasm-the-elements-required-to-deal-with-stupidity-champion-hoodie.jpg?camera_label=back"
+        ],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68876,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68884,
+            "price": "62.02"
+          }
+        ]
+      }
+    ],
+    "all_sizes": [
+      "White"
+    ],
+    "buy_url": "https://printify.com/app/store/products/6ad0a4c59145a2da8502f409"
+  },
+  {
+    "id": "6ad0a440acc7ef505107cb10",
+    "title": "Parental Advisory Explicit Content Champion Hoodie",
+    "description": "A clean white Champion hoodie with a bold black “Parental Advisory: Explicit Content” graphic across the chest. It has the unmistakable feel of a late-night studio session, underground show, or playlist made for turning the volume up. The relaxed fit and medium-heavy 9 oz fabric bring warmth and structure, while the adjustable hood and roomy kangaroo pocket keep it easy to wear through rehearsals, record-store runs, and cool evening hangs. Finished with Champion’s iconic C logo on the left sleeve, this hoodie carries a sharp music-inspired edge without losing everyday comfort.<br/><br/>Product features<br/>- 50% cotton, 50% polyester medium-heavy fabric weighing 9 oz/yd² (310 g/m²) for warmth and coziness<br/>- Adjustable 2-ply hood with self-colored drawcord and metal grommets<br/>- Spacious kangaroo pouch pocket for convenient storage and hand warmth<br/>- Tubular knit construction with no side seams to reduce fabric waste<br/>- Relaxed regular fit with Champion C logo on the left sleeve and up to 5% recycled plastic content<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Do not tumble dry<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
+    "image": "https://images-api.printify.com/mockup/6ad0a440acc7ef505107cb10/68876/109444/parental-advisory-explicit-content-champion-hoodie.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6ad0a440acc7ef505107cb10/68876/109445/parental-advisory-explicit-content-champion-hoodie.jpg?camera_label=back",
+    "price": "62.02",
+    "categories": [
+      "Hoodies"
+    ],
+    "colors": [
+      {
+        "name": "3XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Stone Grey",
+            "variant_id": 117859,
+            "price": "73.48"
+          },
+          {
+            "size": "White",
+            "variant_id": 71067,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "2XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68892,
+            "price": "73.48"
+          },
+          {
+            "size": "Stone Grey",
+            "variant_id": 117858,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "S",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Stone Grey",
+            "variant_id": 117854,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68860,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "M",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68868,
+            "price": "62.02"
+          },
+          {
+            "size": "Stone Grey",
+            "variant_id": 117855,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Stone Grey",
+            "variant_id": 117857,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68884,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "L",
+        "image": "https://images-api.printify.com/mockup/6ad0a440acc7ef505107cb10/68876/109444/parental-advisory-explicit-content-champion-hoodie.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ad0a440acc7ef505107cb10/68876/109444/parental-advisory-explicit-content-champion-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad0a440acc7ef505107cb10/117856/109444/parental-advisory-explicit-content-champion-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad0a440acc7ef505107cb10/68876/109445/parental-advisory-explicit-content-champion-hoodie.jpg?camera_label=back",
+          "https://images-api.printify.com/mockup/6ad0a440acc7ef505107cb10/117856/109445/parental-advisory-explicit-content-champion-hoodie.jpg?camera_label=back"
+        ],
+        "sizes": [
+          {
+            "size": "Stone Grey",
+            "variant_id": 117856,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68876,
+            "price": "62.02"
+          }
+        ]
+      }
+    ],
+    "all_sizes": [
+      "Stone Grey",
+      "White"
+    ],
+    "buy_url": "https://printify.com/app/store/products/6ad0a440acc7ef505107cb10"
+  },
+  {
+    "id": "6ad0a3bdc7fd5301830aed34",
+    "title": "Doom Graphic Champion Hoodie",
+    "description": "A bold Champion hoodie featuring a striking dark-hooded figure and the word “DOOM” in a rugged green graphic. The design carries a mysterious, heavy atmosphere for fans drawn to darker visuals, metal-inspired artwork, and unapologetic streetwear. Built for late-night listening sessions, live shows, gaming marathons, and everyday layering, it brings a strong underground edge to a comfortable, laid-back fit. The medium-heavy cotton-polyester fabric feels warm and cozy, while the adjustable hood and kangaroo pocket make it easy to settle into. Finished with Champion’s iconic C logo on the left sleeve, this hoodie feels made for anyone who prefers their style with a little shadow and attitude.<br/><br/>Product features<br/>- Medium-heavy 50% cotton, 50% polyester fabric for warmth and coziness<br/>- Adjustable 2-ply hood with self-colored drawstring and metal grommets<br/>- Spacious kangaroo pouch pocket on the lower front<br/>- Laid-back regular fit with tubular knit construction and no side seams<br/>- Iconic Champion C logo on the left sleeve; made with up to 5% recycled plastic bottles<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Do not tumble dry<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
+    "image": "https://images-api.printify.com/mockup/6ad0a3bdc7fd5301830aed34/68876/109444/doom-graphic-champion-hoodie.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6ad0a3bdc7fd5301830aed34/68876/109445/doom-graphic-champion-hoodie.jpg?camera_label=back",
+    "price": "62.02",
+    "categories": [
+      "Hoodies"
+    ],
+    "colors": [
+      {
+        "name": "3XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 71067,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "2XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68892,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "M",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68868,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "S",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68860,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "L",
+        "image": "https://images-api.printify.com/mockup/6ad0a3bdc7fd5301830aed34/68876/109444/doom-graphic-champion-hoodie.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ad0a3bdc7fd5301830aed34/68876/109444/doom-graphic-champion-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad0a3bdc7fd5301830aed34/68876/109445/doom-graphic-champion-hoodie.jpg?camera_label=back"
+        ],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68876,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68884,
+            "price": "62.02"
+          }
+        ]
+      }
+    ],
+    "all_sizes": [
+      "White"
+    ],
+    "buy_url": "https://printify.com/app/store/products/6ad0a3bdc7fd5301830aed34"
+  },
+  {
+    "id": "6ad0a3329145a2da8502f2bb",
+    "title": "It’s All Any Little Thing Anime-Inspired Champion Hoodie",
+    "description": "A laid-back Champion hoodie for people who see a little chaos as part of the creative process. The back graphic reads “It’s an anxiety thing,” giving the design a candid, understated voice that feels at home on late-night walks, coffee runs, studio days, or quiet weekends in. Made from a warm medium-heavy cotton-polyester blend, it has a relaxed regular fit, adjustable drawstring hood, and spacious kangaroo pocket for easy comfort. The iconic Champion “C” logo on the sleeve adds a familiar finishing touch, while the tubular knit construction keeps the silhouette clean and minimizes fabric waste.<br/><br/>Product features<br/>- 50% cotton, 50% polyester blend with strong, smooth fibers<br/>- Medium-heavy 9 oz/yd² (310 g/m²) fabric for warmth and coziness<br/>- Adjustable two-ply hood with drawstrings, metal grommets, and self-colored woven cord<br/>- Spacious kangaroo pouch pocket for convenient storage and hand warmth<br/>- Laid-back regular fit with seamless tubular-knit construction and iconic Champion “C” sleeve logo<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Do not tumble dry<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
+    "image": "https://images-api.printify.com/mockup/6ad0a3329145a2da8502f2bb/68876/109444/its-all-any-little-thing-anime-inspired-champion-hoodie.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6ad0a3329145a2da8502f2bb/68876/109445/its-all-any-little-thing-anime-inspired-champion-hoodie.jpg?camera_label=back",
+    "price": "62.02",
+    "categories": [
+      "Hoodies"
+    ],
+    "colors": [
+      {
+        "name": "3XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Light Steel",
+            "variant_id": 71061,
+            "price": "73.48"
+          },
+          {
+            "size": "White",
+            "variant_id": 71067,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "2XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Light Steel",
+            "variant_id": 68887,
+            "price": "73.48"
+          },
+          {
+            "size": "White",
+            "variant_id": 68892,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "L",
+        "image": "https://images-api.printify.com/mockup/6ad0a3329145a2da8502f2bb/68876/109444/its-all-any-little-thing-anime-inspired-champion-hoodie.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ad0a3329145a2da8502f2bb/68876/109444/its-all-any-little-thing-anime-inspired-champion-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad0a3329145a2da8502f2bb/68871/109444/its-all-any-little-thing-anime-inspired-champion-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad0a3329145a2da8502f2bb/68876/109445/its-all-any-little-thing-anime-inspired-champion-hoodie.jpg?camera_label=back",
+          "https://images-api.printify.com/mockup/6ad0a3329145a2da8502f2bb/68871/109445/its-all-any-little-thing-anime-inspired-champion-hoodie.jpg?camera_label=back"
+        ],
+        "sizes": [
+          {
+            "size": "Light Steel",
+            "variant_id": 68871,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68876,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "S",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Light Steel",
+            "variant_id": 68855,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68860,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Light Steel",
+            "variant_id": 68879,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68884,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "M",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Light Steel",
+            "variant_id": 68863,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68868,
+            "price": "62.02"
+          }
+        ]
+      }
+    ],
+    "all_sizes": [
+      "Light Steel",
+      "White"
+    ],
+    "buy_url": "https://printify.com/app/store/products/6ad0a3329145a2da8502f2bb"
+  },
+  {
+    "id": "6ad0a2924fdcde14c009dc3d",
+    "title": "Champion Hoodie – One Piece Anime Streetwear Hoodie",
+    "description": "A laid-back Champion hoodie featuring a bold black-and-white One Piece-inspired graphic across the chest. The design brings an unmistakable anime edge to an everyday layer—easy to throw on for anime marathons, convention days, gaming sessions, or cool evenings out. Its medium-heavy cotton-polyester fabric feels warm and cozy, while the adjustable hood and spacious kangaroo pocket keep comfort close. Finished with the iconic Champion “C” logo on the left sleeve, this hoodie is made for fans who carry their favorite world with them.<br/><br/>Product features<br/>- Medium-heavy 9 oz (310 g/m²) fabric made from a durable 50% cotton and 50% polyester blend<br/>- Adjustable 2-ply hood with matching drawcord and metal grommets<br/>- Spacious kangaroo pouch pocket for convenient storage and hand warmth<br/>- Tubular knit construction without side seams helps reduce fabric waste<br/>- Laid-back regular fit with the iconic Champion “C” logo on the left sleeve<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Do not tumble dry<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
+    "image": "https://images-api.printify.com/mockup/6ad0a2924fdcde14c009dc3d/68876/109444/champion-hoodie-one-piece-anime-streetwear-hoodie.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6ad0a2924fdcde14c009dc3d/68876/109445/champion-hoodie-one-piece-anime-streetwear-hoodie.jpg?camera_label=back",
+    "price": "62.02",
+    "categories": [
+      "Hoodies"
+    ],
+    "colors": [
+      {
+        "name": "3XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 71057,
+            "price": "73.48"
+          },
+          {
+            "size": "White",
+            "variant_id": 71067,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "2XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68885,
+            "price": "73.48"
+          },
+          {
+            "size": "White",
+            "variant_id": 68892,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68877,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68884,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "S",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68853,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68860,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "L",
+        "image": "https://images-api.printify.com/mockup/6ad0a2924fdcde14c009dc3d/68876/109444/champion-hoodie-one-piece-anime-streetwear-hoodie.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ad0a2924fdcde14c009dc3d/68876/109444/champion-hoodie-one-piece-anime-streetwear-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad0a2924fdcde14c009dc3d/68869/109444/champion-hoodie-one-piece-anime-streetwear-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad0a2924fdcde14c009dc3d/68876/109445/champion-hoodie-one-piece-anime-streetwear-hoodie.jpg?camera_label=back",
+          "https://images-api.printify.com/mockup/6ad0a2924fdcde14c009dc3d/68869/109445/champion-hoodie-one-piece-anime-streetwear-hoodie.jpg?camera_label=back"
+        ],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68869,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68876,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "M",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68861,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68868,
+            "price": "62.02"
+          }
+        ]
+      }
+    ],
+    "all_sizes": [
+      "Black",
+      "White"
+    ],
+    "buy_url": "https://printify.com/app/store/products/6ad0a2924fdcde14c009dc3d"
+  },
+  {
+    "id": "6ad0a1adacc7ef505107c8b2",
+    "title": "Born to Make History Champion Hoodie",
+    "description": "A laid-back Champion hoodie featuring bold “Born to Make History” lettering across the back. The message feels made for dreamers, creators, and determined everyday trailblazers—something to pull on when you’re heading to class, meeting friends, working on your next idea, or stepping into a new chapter. The medium-heavy fabric brings warmth and coziness, while the adjustable hood and kangaroo pocket keep the feel relaxed and practical. Finished with the iconic Champion “C” logo on the sleeve, this hoodie carries a quiet reminder to make your mark wherever the day leads.<br/><br/>Product features<br/>- 50% cotton and 50% polyester fabric with a strong, smooth surface suited for printing<br/>- Medium-heavy 9 oz/yd² (310 g/m²) fabric for added warmth and coziness<br/>- Adjustable 2-ply hood with matching drawcord and metal grommets<br/>- Spacious kangaroo pouch pocket for convenient storage and hand warmth<br/>- Regular fit with tubular knit construction and no side seams to reduce fabric waste<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Do not tumble dry<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
+    "image": "https://images-api.printify.com/mockup/6ad0a1adacc7ef505107c8b2/68876/109444/born-to-make-history-champion-hoodie.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6ad0a1adacc7ef505107c8b2/68876/109445/born-to-make-history-champion-hoodie.jpg?camera_label=back",
+    "price": "62.02",
+    "categories": [
+      "Hoodies"
+    ],
+    "colors": [
+      {
+        "name": "3XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 71067,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "2XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68892,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "M",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68868,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "S",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68860,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "L",
+        "image": "https://images-api.printify.com/mockup/6ad0a1adacc7ef505107c8b2/68876/109444/born-to-make-history-champion-hoodie.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ad0a1adacc7ef505107c8b2/68876/109444/born-to-make-history-champion-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad0a1adacc7ef505107c8b2/68876/109445/born-to-make-history-champion-hoodie.jpg?camera_label=back"
+        ],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68876,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "White",
+            "variant_id": 68884,
+            "price": "62.02"
+          }
+        ]
+      }
+    ],
+    "all_sizes": [
+      "White"
+    ],
+    "buy_url": "https://printify.com/app/store/products/6ad0a1adacc7ef505107c8b2"
+  },
+  {
+    "id": "6ad0a10e0a0b132ad00bbbf1",
+    "title": "Dragon Ball Z Graphic Champion Hoodie",
+    "description": "Bring bold anime energy to everyday comfort with this white Champion hoodie featuring a colorful Dragon Ball-inspired chest graphic. The striking red, orange, and green artwork stands out against the clean white base, while the relaxed fit and cozy medium-heavy fabric make it easy to wear for gaming sessions, anime conventions, casual streetwear, or cool evenings with fellow fans. Pull up the adjustable drawstring hood, settle your hands into the spacious kangaroo pocket, and let the iconic Champion details—including the signature C logo on the sleeve—complete the look. Made for fans who carry their favorite worlds with them, this hoodie blends nostalgic character with dependable everyday warmth.<br/><br/>Product features<br/>- Adjustable 2-ply hood with matching drawstring and metal grommets<br/>- Spacious kangaroo pouch pocket for convenient hand storage<br/>- Medium-heavy 9 oz/yd² (310 g/m²) cotton-polyester blend for warmth and coziness<br/>- Regular laid-back fit with seamless tubular-knit construction<br/>- Iconic Champion C logo on the left sleeve; made with up to 5% recycled plastic bottles<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Do not tumble dry<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
+    "image": "https://images-api.printify.com/mockup/6ad0a10e0a0b132ad00bbbf1/68876/109444/dragon-ball-z-graphic-champion-hoodie.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6ad0a10e0a0b132ad00bbbf1/68876/109445/dragon-ball-z-graphic-champion-hoodie.jpg?camera_label=back",
+    "price": "62.02",
+    "categories": [
+      "Hoodies"
+    ],
+    "colors": [
+      {
+        "name": "3XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 71057,
+            "price": "73.48"
+          },
+          {
+            "size": "White",
+            "variant_id": 71067,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "2XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68885,
+            "price": "73.48"
+          },
+          {
+            "size": "White",
+            "variant_id": 68892,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68877,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68884,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "S",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68853,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68860,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "L",
+        "image": "https://images-api.printify.com/mockup/6ad0a10e0a0b132ad00bbbf1/68876/109444/dragon-ball-z-graphic-champion-hoodie.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ad0a10e0a0b132ad00bbbf1/68876/109444/dragon-ball-z-graphic-champion-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad0a10e0a0b132ad00bbbf1/68869/109444/dragon-ball-z-graphic-champion-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad0a10e0a0b132ad00bbbf1/68876/109445/dragon-ball-z-graphic-champion-hoodie.jpg?camera_label=back",
+          "https://images-api.printify.com/mockup/6ad0a10e0a0b132ad00bbbf1/68869/109445/dragon-ball-z-graphic-champion-hoodie.jpg?camera_label=back"
+        ],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68869,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68876,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "M",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68861,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68868,
+            "price": "62.02"
+          }
+        ]
+      }
+    ],
+    "all_sizes": [
+      "Black",
+      "White"
+    ],
+    "buy_url": "https://printify.com/app/store/products/6ad0a10e0a0b132ad00bbbf1"
+  },
+  {
+    "id": "6ad0a048c7fd5301830ae9d6",
+    "title": "Dragon Ball Z Goku Riding Shenron Champion Hoodie",
+    "description": "A playful nod to laid-back days and sunny nostalgia, this Champion Hoodie features a small illustrated pineapple-and-palm design centered on the chest. The warm orange graphic pops against the clean white backdrop, bringing a little tropical energy to cool mornings, beach-town walks, casual weekends, and relaxed travel days. Its regular fit and medium-heavy construction make it an easy layer when you want warmth without losing that effortless streetwear feel. Pull the adjustable hood tight, settle your hands into the kangaroo pocket, and carry a little island mood wherever the day leads.<br/><br/>Product features<br/>- 50% cotton and 50% polyester blend with a medium-heavy 9 oz/yd² (310 g/m²) construction<br/>- Adjustable two-ply hood with matching drawstring and metal grommets<br/>- Spacious front kangaroo pocket for convenient storage and hand warmth<br/>- Tubular knit construction without side seams to reduce fabric waste<br/>- Regular fit with the iconic Champion “C” logo on the left sleeve<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Do not tumble dry<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
+    "image": "https://images-api.printify.com/mockup/6ad0a048c7fd5301830ae9d6/68876/109444/dragon-ball-z-goku-riding-shenron-champion-hoodie.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6ad0a048c7fd5301830ae9d6/68876/109445/dragon-ball-z-goku-riding-shenron-champion-hoodie.jpg?camera_label=back",
+    "price": "62.02",
+    "categories": [
+      "Hoodies"
+    ],
+    "colors": [
+      {
+        "name": "3XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 71057,
+            "price": "73.48"
+          },
+          {
+            "size": "White",
+            "variant_id": 71067,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "2XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68885,
+            "price": "73.48"
+          },
+          {
+            "size": "White",
+            "variant_id": 68892,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68877,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68884,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "S",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68853,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68860,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "L",
+        "image": "https://images-api.printify.com/mockup/6ad0a048c7fd5301830ae9d6/68876/109444/dragon-ball-z-goku-riding-shenron-champion-hoodie.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ad0a048c7fd5301830ae9d6/68876/109444/dragon-ball-z-goku-riding-shenron-champion-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad0a048c7fd5301830ae9d6/68869/109444/dragon-ball-z-goku-riding-shenron-champion-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad0a048c7fd5301830ae9d6/68876/109445/dragon-ball-z-goku-riding-shenron-champion-hoodie.jpg?camera_label=back",
+          "https://images-api.printify.com/mockup/6ad0a048c7fd5301830ae9d6/68869/109445/dragon-ball-z-goku-riding-shenron-champion-hoodie.jpg?camera_label=back"
+        ],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68869,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68876,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "M",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68861,
+            "price": "62.02"
+          },
+          {
+            "size": "White",
+            "variant_id": 68868,
+            "price": "62.02"
+          }
+        ]
+      }
+    ],
+    "all_sizes": [
+      "Black",
+      "White"
+    ],
+    "buy_url": "https://printify.com/app/store/products/6ad0a048c7fd5301830ae9d6"
+  },
+  {
+    "id": "6ad09f0c1b871a16b90f81e2",
+    "title": "Champion Hoodie with Colorful Cartoon Graphic",
+    "description": "A cozy Champion Hoodie featuring a bold, colorful front graphic with a playful retro character scene. The design brings an expressive, nostalgic energy to everyday streetwear—easy to throw on for late-night hangs, casual outings, creative work sessions, or relaxed weekends. Its medium-heavy construction offers dependable warmth, while the laid-back regular fit keeps the look comfortable and effortless. The adjustable hood and kangaroo pocket make it practical for cool-weather layering, and the iconic Champion “C” logo on the sleeve adds a recognizable finishing touch.<br/><br/>Product features<br/>- Medium-heavy 50% cotton, 50% polyester fabric for warmth and coziness<br/>- Adjustable 2-ply hood with matching drawcord and metal grommets<br/>- Spacious kangaroo pouch pocket for convenient storage and hand warmth<br/>- Tubular knit construction with no side seams to reduce fabric waste<br/>- Laid-back regular fit with the iconic Champion “C” logo on the left sleeve<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Do not tumble dry<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
+    "image": "https://images-api.printify.com/mockup/6ad09f0c1b871a16b90f81e2/68871/109444/champion-hoodie-with-colorful-cartoon-graphic.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6ad09f0c1b871a16b90f81e2/68871/109445/champion-hoodie-with-colorful-cartoon-graphic.jpg?camera_label=back",
+    "price": "62.02",
+    "categories": [
+      "Hoodies"
+    ],
+    "colors": [
+      {
+        "name": "3XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 71057,
+            "price": "73.48"
+          },
+          {
+            "size": "Light Steel",
+            "variant_id": 71061,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "2XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68885,
+            "price": "73.48"
+          },
+          {
+            "size": "Light Steel",
+            "variant_id": 68887,
+            "price": "73.48"
+          }
+        ]
+      },
+      {
+        "name": "L",
+        "image": "https://images-api.printify.com/mockup/6ad09f0c1b871a16b90f81e2/68871/109444/champion-hoodie-with-colorful-cartoon-graphic.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ad09f0c1b871a16b90f81e2/68871/109444/champion-hoodie-with-colorful-cartoon-graphic.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad09f0c1b871a16b90f81e2/68869/109444/champion-hoodie-with-colorful-cartoon-graphic.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad09f0c1b871a16b90f81e2/68871/109445/champion-hoodie-with-colorful-cartoon-graphic.jpg?camera_label=back",
+          "https://images-api.printify.com/mockup/6ad09f0c1b871a16b90f81e2/68869/109445/champion-hoodie-with-colorful-cartoon-graphic.jpg?camera_label=back"
+        ],
+        "sizes": [
+          {
+            "size": "Light Steel",
+            "variant_id": 68871,
+            "price": "62.02"
+          },
+          {
+            "size": "Black",
+            "variant_id": 68869,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68877,
+            "price": "62.02"
+          },
+          {
+            "size": "Light Steel",
+            "variant_id": 68879,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "S",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68853,
+            "price": "62.02"
+          },
+          {
+            "size": "Light Steel",
+            "variant_id": 68855,
+            "price": "62.02"
+          }
+        ]
+      },
+      {
+        "name": "M",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 68861,
+            "price": "62.02"
+          },
+          {
+            "size": "Light Steel",
+            "variant_id": 68863,
+            "price": "62.02"
+          }
+        ]
+      }
+    ],
+    "all_sizes": [
+      "Black",
+      "Light Steel"
+    ],
+    "buy_url": "https://printify.com/app/store/products/6ad09f0c1b871a16b90f81e2"
+  },
+  {
+    "id": "6ad09e301b871a16b90f8105",
+    "title": "Take It Easy Floral Graphic Sweatshirt",
+    "description": "A quiet reminder to slow down, this oversized sweatshirt features the message “TAKE IT EASY” layered with a muted botanical graphic. Its soft, neutral look carries an effortless, lived-in feel—made for slow mornings, creative afternoons, and anyone who prefers a little more calm in the everyday. The relaxed dropped-shoulder fit makes it easy to settle into, while the understated design pairs naturally with denim, lounge pants, or your favorite layers.<br/><br/>Product features<br/>- Soft 80/20 cotton and recycled polyester fleece blend<br/>- Smooth 100% cotton face<br/>- Relaxed oversized fit with dropped shoulders<br/>- Stretch-retaining 2x2 rib knit collar, cuffs, and hem<br/>- Side-seamed construction helps maintain the garment’s shape<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Non-chlorine: bleach as needed<br/>- Tumble dry: low heat<br/>- Do not dryclean<br/>- Do not iron<br/>",
+    "image": "https://images-api.printify.com/mockup/6ad09e301b871a16b90f8105/199443/154627/take-it-easy-floral-graphic-sweatshirt.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6ad09e301b871a16b90f8105/199443/154628/take-it-easy-floral-graphic-sweatshirt.jpg?camera_label=back",
+    "price": "64.92",
+    "categories": [
+      "Hoodies",
+      "Tees"
+    ],
+    "colors": [
+      {
+        "name": "Clay",
+        "image": "https://images-api.printify.com/mockup/6ad09e301b871a16b90f8105/199443/154627/take-it-easy-floral-graphic-sweatshirt.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ad09e301b871a16b90f8105/199443/154627/take-it-easy-floral-graphic-sweatshirt.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad09e301b871a16b90f8105/199443/154628/take-it-easy-floral-graphic-sweatshirt.jpg?camera_label=back"
+        ],
+        "sizes": [
+          {
+            "size": "XS",
+            "variant_id": 199443,
+            "price": "64.92"
+          },
+          {
+            "size": "S",
+            "variant_id": 199548,
+            "price": "64.92"
+          },
+          {
+            "size": "M",
+            "variant_id": 199570,
+            "price": "64.92"
+          },
+          {
+            "size": "L",
+            "variant_id": 199587,
+            "price": "64.92"
+          },
+          {
+            "size": "XL",
+            "variant_id": 199631,
+            "price": "64.92"
+          },
+          {
+            "size": "2XL",
+            "variant_id": 199674,
+            "price": "69.58"
+          },
+          {
+            "size": "3XL",
+            "variant_id": 199693,
+            "price": "72.60"
+          }
+        ]
+      },
+      {
+        "name": "Tan",
+        "image": "https://images-api.printify.com/mockup/6ad09e301b871a16b90f8105/199461/154627/take-it-easy-floral-graphic-sweatshirt.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ad09e301b871a16b90f8105/199461/154627/take-it-easy-floral-graphic-sweatshirt.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad09e301b871a16b90f8105/199461/154628/take-it-easy-floral-graphic-sweatshirt.jpg?camera_label=back"
+        ],
+        "sizes": [
+          {
+            "size": "XS",
+            "variant_id": 199461,
+            "price": "64.92"
+          },
+          {
+            "size": "S",
+            "variant_id": 199553,
+            "price": "64.92"
+          },
+          {
+            "size": "M",
+            "variant_id": 199573,
+            "price": "64.92"
+          },
+          {
+            "size": "L",
+            "variant_id": 199598,
+            "price": "64.92"
+          },
+          {
+            "size": "XL",
+            "variant_id": 199644,
+            "price": "64.92"
+          },
+          {
+            "size": "2XL",
+            "variant_id": 199676,
+            "price": "69.58"
+          },
+          {
+            "size": "3XL",
+            "variant_id": 199698,
+            "price": "72.60"
+          }
+        ]
+      },
+      {
+        "name": "Heather Gray",
+        "image": "https://images-api.printify.com/mockup/6ad09e301b871a16b90f8105/199525/154627/take-it-easy-floral-graphic-sweatshirt.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ad09e301b871a16b90f8105/199525/154627/take-it-easy-floral-graphic-sweatshirt.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ad09e301b871a16b90f8105/199525/154628/take-it-easy-floral-graphic-sweatshirt.jpg?camera_label=back"
+        ],
+        "sizes": [
+          {
+            "size": "XS",
+            "variant_id": 199525,
+            "price": "64.92"
+          },
+          {
+            "size": "S",
+            "variant_id": 199564,
+            "price": "64.92"
+          },
+          {
+            "size": "M",
+            "variant_id": 199581,
+            "price": "64.92"
+          },
+          {
+            "size": "L",
+            "variant_id": 199618,
+            "price": "64.92"
+          },
+          {
+            "size": "XL",
+            "variant_id": 199662,
+            "price": "64.92"
+          },
+          {
+            "size": "2XL",
+            "variant_id": 199683,
+            "price": "69.58"
+          },
+          {
+            "size": "3XL",
+            "variant_id": 199721,
+            "price": "72.60"
+          }
+        ]
+      }
+    ],
+    "all_sizes": [
+      "XS",
+      "S",
+      "M",
+      "L",
+      "XL",
+      "2XL",
+      "3XL"
+    ],
+    "buy_url": "https://printify.com/app/store/products/6ad09e301b871a16b90f8105"
+  },
+  {
+    "id": "6aca0bdd1ee5accd9506382b",
+    "title": "Goku Super Saiyan Back-Print Zip Hoodie",
+    "description": "This zip-up hoodie carries an unmistakable energy — raw, loud, and made to move with you. The soft 80/20 fleece cradles the body while the jersey-lined hood and ribbed cuffs hold warmth where you need it. A bold, high-contrast graphic on the back channels unleashed intensity for fans who want their wardrobe to speak for them. Built with reinforced double-needle stitching, twill neck tape, and a smooth metal zipper, it stands up to repeat wear and travel. Wear it layered over a tee on late-night drives, to conventions, or during training sessions — it’s a piece that keeps comfort and attitude in equal measure.<br/><br/>Product features<br/>- 80% cotton / 20% polyester fleece (soft, mid-weight 8.5 oz./yd²)<br/>- Jersey-lined hood with metal eyelets and metal kissing zipper<br/>- Durable double-needle and split-stitch construction with twill neck tape<br/>- 1x1 ribbed cuffs and waistband for secure fit and recovery<br/>- Available heather variations with adjusted cotton/poly blends (Grey Heather 75/25, Charcoal Heather 55/45)<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Non-chlorine: bleach as needed<br/>- Tumble dry: low heat<br/>- Do not iron<br/>- Do not dryclean<br/>",
+    "image": "https://images-api.printify.com/mockup/6aca0bdd1ee5accd9506382b/119548/109874/goku-super-saiyan-back-print-zip-hoodie.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6aca0bdd1ee5accd9506382b/119548/109875/goku-super-saiyan-back-print-zip-hoodie.jpg?camera_label=back",
+    "price": "71.99",
+    "categories": [
+      "Hoodies"
+    ],
+    "colors": [
+      {
+        "name": "2XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 119542,
+            "price": "75.99"
+          }
+        ]
+      },
+      {
+        "name": "L",
+        "image": "https://images-api.printify.com/mockup/6aca0bdd1ee5accd9506382b/119548/109874/goku-super-saiyan-back-print-zip-hoodie.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6aca0bdd1ee5accd9506382b/119548/109874/goku-super-saiyan-back-print-zip-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6aca0bdd1ee5accd9506382b/119548/109875/goku-super-saiyan-back-print-zip-hoodie.jpg?camera_label=back",
+          "https://images-api.printify.com/mockup/6aca0bdd1ee5accd9506382b/119548/138919/goku-super-saiyan-back-print-zip-hoodie.jpg?camera_label=left-sleeve",
+          "https://images-api.printify.com/mockup/6aca0bdd1ee5accd9506382b/119548/138920/goku-super-saiyan-back-print-zip-hoodie.jpg?camera_label=right-sleeve"
+        ],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 119548,
+            "price": "71.99"
+          }
+        ]
+      },
+      {
+        "name": "M",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 119554,
+            "price": "71.99"
+          }
+        ]
+      },
+      {
+        "name": "S",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 119560,
+            "price": "71.99"
+          }
+        ]
+      },
+      {
+        "name": "XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 119566,
+            "price": "71.99"
+          }
+        ]
+      }
+    ],
+    "all_sizes": [
+      "Black"
+    ],
+    "buy_url": "https://printify.com/app/store/products/6aca0bdd1ee5accd9506382b"
+  },
+  {
+    "id": "6ac9ffb922797533d10e3860",
+    "title": "Black Zip-Up Hoodie — Minimal Fleece Zip Hoodie",
+    "description": "This zip-up fleece hoodie is built for everyday comfort and quiet confidence. The soft 80/20 cotton-poly blend fleece holds its shape while feeling warm against the skin. A jersey-lined hood and metal kissing zipper add small, thoughtful details that elevate simple layering. The fit keeps movement easy without looking bulky — sleeves end in ribbed cuffs that spring back after wear, and the waistband offers a clean, structured silhouette. Double-needle stitching and twill neck tape reinforce stress points so this hoodie stays reliable through repeated wear and washes. Wear it on cool morning walks, coffee runs between meetings, or late-night studio sessions; it settles into your rhythm and gets better with time.<br/><br/>Product features<br/>- 80% cotton / 20% polyester fleece (soft, durable 8.5 oz./yd²)<br/>- Jersey-lined hood with metal eyelets and metal kissing zipper<br/>- Durable construction: double-needle and split-stitch seams with twill neck tape<br/>- 1x1 ribbed cuffs and waistband for stretch-and-recovery fit<br/>- Available heathers with adjusted blends: Grey Heather 75/25, Charcoal Heather 55/45<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Non-chlorine: bleach as needed<br/>- Tumble dry: low heat<br/>- Do not iron<br/>- Do not dryclean<br/>",
+    "image": "https://images-api.printify.com/mockup/6ac9ffb922797533d10e3860/119548/109874/black-zip-up-hoodie-minimal-fleece-zip-hoodie.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6ac9ffb922797533d10e3860/119548/109875/black-zip-up-hoodie-minimal-fleece-zip-hoodie.jpg?camera_label=back",
+    "price": "71.99",
+    "categories": [
+      "Hoodies"
+    ],
+    "colors": [
+      {
+        "name": "2XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 119542,
+            "price": "75.99"
+          }
+        ]
+      },
+      {
+        "name": "L",
+        "image": "https://images-api.printify.com/mockup/6ac9ffb922797533d10e3860/119548/109874/black-zip-up-hoodie-minimal-fleece-zip-hoodie.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ac9ffb922797533d10e3860/119548/109874/black-zip-up-hoodie-minimal-fleece-zip-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ac9ffb922797533d10e3860/119548/109875/black-zip-up-hoodie-minimal-fleece-zip-hoodie.jpg?camera_label=back",
+          "https://images-api.printify.com/mockup/6ac9ffb922797533d10e3860/119548/138919/black-zip-up-hoodie-minimal-fleece-zip-hoodie.jpg?camera_label=left-sleeve",
+          "https://images-api.printify.com/mockup/6ac9ffb922797533d10e3860/119548/138920/black-zip-up-hoodie-minimal-fleece-zip-hoodie.jpg?camera_label=right-sleeve"
+        ],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 119548,
+            "price": "71.99"
+          }
+        ]
+      },
+      {
+        "name": "M",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 119554,
+            "price": "71.99"
+          }
+        ]
+      },
+      {
+        "name": "S",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 119560,
+            "price": "71.99"
+          }
+        ]
+      },
+      {
+        "name": "XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Black",
+            "variant_id": 119566,
+            "price": "71.99"
+          }
+        ]
+      }
+    ],
+    "all_sizes": [
+      "Black"
+    ],
+    "buy_url": "https://printify.com/app/store/products/6ac9ffb922797533d10e3860"
+  },
+  {
+    "id": "6ac8c128506501923e089be1",
+    "title": "Unisex Max Heavyweight Short Sleeve",
+    "description": "<p>Straight out 90s aesthetics, this Shaka Wear tee is the most versatile heavyweight short sleeve your wardrobe needs.&nbsp;</p><p>Oversized, heavyweight, with a boxy fit in true streetwear fashion, this tee is equal parts comfort and attitude. Made with 100% US cotton that doesn't shrink, reinforced stitching, and comes available in sizes S-7XL so that you find the best fit possible.&nbsp;</p><br/><p>.: 100% USA Cotton (7.5 oz / 245 - 255 GSM)<br/>.: Yarn Count: 16 Singles<br/>.: Available Sizes S - 7XL<br/>.: Shoulder-to-shoulder neck tape and double-needle stitched neck<br/>.: 1\" double-needle stitched sleeve and bottom hems<br/>.: 1\" stretch-proof neck collar with satin/woven label.<br/>.: Forward-thrusted shoulder seam for comfortable neck fit<br/>.: Oversized/Relaxed with slight drop shoulder<br/>.: Quarter-turned to eliminate center crease<br/>.: Heather Grey: 90% USA Cotton / 10% Polyester<br/>.: Charcoal Grey: 50% USA Cotton / 50% Polyester</p>",
+    "image": "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
+    "price": "29.66",
+    "categories": [
+      "Tees"
+    ],
+    "colors": [
+      {
+        "name": "Black",
+        "image": "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
+          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/137315/unisex-max-heavyweight-short-sleeve.jpg?camera_label=left-sleeve",
+          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/137316/unisex-max-heavyweight-short-sleeve.jpg?camera_label=right-sleeve"
+        ],
+        "sizes": [
+          {
+            "size": "2XL",
+            "variant_id": 117437,
+            "price": "35.21"
+          },
+          {
+            "size": "3XL",
+            "variant_id": 117438,
+            "price": "39.15"
+          },
+          {
+            "size": "4XL",
+            "variant_id": 117439,
+            "price": "39.81"
+          },
+          {
+            "size": "5XL",
+            "variant_id": 117440,
+            "price": "42.83"
+          },
+          {
+            "size": "L",
+            "variant_id": 117441,
+            "price": "29.66"
+          },
+          {
+            "size": "M",
+            "variant_id": 117442,
+            "price": "29.66"
+          },
+          {
+            "size": "S",
+            "variant_id": 117443,
+            "price": "29.66"
+          },
+          {
+            "size": "XL",
+            "variant_id": 117444,
+            "price": "29.66"
+          },
+          {
+            "size": "7XL",
+            "variant_id": 117613,
+            "price": "41.65"
+          }
+        ]
+      },
+      {
+        "name": "Charcoal Grey",
+        "image": "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117471/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117471/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117471/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
+          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117471/137315/unisex-max-heavyweight-short-sleeve.jpg?camera_label=left-sleeve",
+          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117471/137316/unisex-max-heavyweight-short-sleeve.jpg?camera_label=right-sleeve"
+        ],
+        "sizes": [
+          {
+            "size": "S",
+            "variant_id": 117469,
+            "price": "29.66"
+          },
+          {
+            "size": "M",
+            "variant_id": 117470,
+            "price": "29.66"
+          },
+          {
+            "size": "L",
+            "variant_id": 117471,
+            "price": "29.66"
+          },
+          {
+            "size": "XL",
+            "variant_id": 117472,
+            "price": "29.66"
+          },
+          {
+            "size": "2XL",
+            "variant_id": 117473,
+            "price": "35.21"
+          },
+          {
+            "size": "3XL",
+            "variant_id": 117474,
+            "price": "39.15"
+          },
+          {
+            "size": "4XL",
+            "variant_id": 117475,
+            "price": "39.81"
+          },
+          {
+            "size": "5XL",
+            "variant_id": 117476,
+            "price": "42.83"
+          },
+          {
+            "size": "7XL",
+            "variant_id": 117617,
+            "price": "41.65"
+          }
+        ]
+      }
+    ],
+    "all_sizes": [
+      "2XL",
+      "3XL",
+      "4XL",
+      "5XL",
+      "L",
+      "M",
+      "S",
+      "XL",
+      "7XL"
+    ],
+    "buy_url": "https://printify.com/app/store/products/6ac8c128506501923e089be1"
+  },
+  {
     "id": "6aaa81b062f4372904014134",
     "title": "Chaos Graphic T‑Shirt — Distorted Back Print Tee",
     "description": "This heavyweight short sleeve tee carries presence — substantial cotton weight, relaxed drape, and bold back graphics that read like a statement. The oversized fit and forward-thrusted shoulder seam sit like a lived-in favorite, while the thick, smooth 100% USA-spun cotton gives the print a clean, tactile backdrop. Wear it to slow afternoons at a café, late-night record runs, or crowded shows where the silhouette and chunky lettering do the talking. It settles heavy and assured on the shoulders, aging into softness with every wear.<br/><br/>Product features<br/>- 100% USA-spun cotton (7.5 oz / 245–255 GSM) for durable, smooth fabric<br/>- Oversized relaxed fit with slight drop shoulder and sizes S–7XL<br/>- Reinforced details: double-needle stitched hems and shoulder-to-shoulder neck tape<br/>- Stretch-proof 1\" collar and forward-thrusted shoulder seam for comfortable fit<br/>- Heather/Charcoal blends include polyester; quarter-turned to eliminate center crease<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Non-chlorine: bleach as needed<br/>- Tumble dry: no heat<br/>- Do not iron<br/>- Do not dryclean<br/>",
