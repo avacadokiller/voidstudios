@@ -236,7 +236,7 @@
   .carousel-arrow.left { left: 12px; }
   .carousel-arrow.right { right: 12px; }
 
-  /* ---------- DARK CARDS ---------- */
+  /* ---------- DARK CARDS (thumbnails now pure black) ---------- */
   .carousel-card, .white-card {
     background: #0a0a0a; color: #fff;
     border: 1px solid rgba(255,255,255,0.06);
@@ -251,7 +251,8 @@
   }
   .carousel-card .thumb, .white-card .thumb {
     position: relative; width: 100%;
-    aspect-ratio: 1 / 1; background: #f5f5f5;
+    aspect-ratio: 1 / 1;
+    background: #000;
     display: flex; align-items: center; justify-content: center;
     overflow: hidden;
   }
@@ -302,7 +303,7 @@
     gap: 22px;
   }
 
-  /* ---------- DROP BANNER (100vh, max 1100px) ---------- */
+  /* ---------- DROP BANNER ---------- */
   .drop-banner {
     background: #050505;
     border-top: 1px solid rgba(255,255,255,0.08);
@@ -356,7 +357,7 @@
     letter-spacing: 0.24em; color: #777;
   }
 
-  /* ---------- LIMITED COLLECTION (100vh, max 1100px) ---------- */
+  /* ---------- LIMITED COLLECTION ---------- */
   .limited-wrap {
     padding: 0 40px;
     max-width: 1480px;
