@@ -1212,9 +1212,7 @@
         "image": "https://images-api.printify.com/mockup/6aca0bdd1ee5accd9506382b/119548/109874/goku-super-saiyan-back-print-zip-hoodie.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aca0bdd1ee5accd9506382b/119548/109874/goku-super-saiyan-back-print-zip-hoodie.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aca0bdd1ee5accd9506382b/119548/109875/goku-super-saiyan-back-print-zip-hoodie.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aca0bdd1ee5accd9506382b/119548/138919/goku-super-saiyan-back-print-zip-hoodie.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aca0bdd1ee5accd9506382b/119548/138920/goku-super-saiyan-back-print-zip-hoodie.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6aca0bdd1ee5accd9506382b/119548/109875/goku-super-saiyan-back-print-zip-hoodie.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -1294,9 +1292,7 @@
         "image": "https://images-api.printify.com/mockup/6ac9ffb922797533d10e3860/119548/109874/black-zip-up-hoodie-minimal-fleece-zip-hoodie.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6ac9ffb922797533d10e3860/119548/109874/black-zip-up-hoodie-minimal-fleece-zip-hoodie.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6ac9ffb922797533d10e3860/119548/109875/black-zip-up-hoodie-minimal-fleece-zip-hoodie.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6ac9ffb922797533d10e3860/119548/138919/black-zip-up-hoodie-minimal-fleece-zip-hoodie.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6ac9ffb922797533d10e3860/119548/138920/black-zip-up-hoodie-minimal-fleece-zip-hoodie.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6ac9ffb922797533d10e3860/119548/109875/black-zip-up-hoodie-minimal-fleece-zip-hoodie.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -1352,9 +1348,9 @@
     "id": "6ac8c128506501923e089be1",
     "title": "Unisex Max Heavyweight Short Sleeve",
     "description": "<p>Straight out 90s aesthetics, this Shaka Wear tee is the most versatile heavyweight short sleeve your wardrobe needs.&nbsp;</p><p>Oversized, heavyweight, with a boxy fit in true streetwear fashion, this tee is equal parts comfort and attitude. Made with 100% US cotton that doesn't shrink, reinforced stitching, and comes available in sizes S-7XL so that you find the best fit possible.&nbsp;</p><br/><p>.: 100% USA Cotton (7.5 oz / 245 - 255 GSM)<br/>.: Yarn Count: 16 Singles<br/>.: Available Sizes S - 7XL<br/>.: Shoulder-to-shoulder neck tape and double-needle stitched neck<br/>.: 1\" double-needle stitched sleeve and bottom hems<br/>.: 1\" stretch-proof neck collar with satin/woven label.<br/>.: Forward-thrusted shoulder seam for comfortable neck fit<br/>.: Oversized/Relaxed with slight drop shoulder<br/>.: Quarter-turned to eliminate center crease<br/>.: Heather Grey: 90% USA Cotton / 10% Polyester<br/>.: Charcoal Grey: 50% USA Cotton / 50% Polyester</p>",
-    "image": "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
-    "image_back": "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
-    "price": "29.66",
+    "image": "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117471/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117471/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
+    "price": "29.67",
     "categories": [
       "Tees"
     ],
@@ -1364,15 +1360,13 @@
         "image": "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/137315/unisex-max-heavyweight-short-sleeve.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/137316/unisex-max-heavyweight-short-sleeve.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117441/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back"
         ],
         "sizes": [
           {
             "size": "2XL",
             "variant_id": 117437,
-            "price": "35.21"
+            "price": "35.22"
           },
           {
             "size": "3XL",
@@ -1382,7 +1376,7 @@
           {
             "size": "4XL",
             "variant_id": 117439,
-            "price": "39.81"
+            "price": "39.82"
           },
           {
             "size": "5XL",
@@ -1392,22 +1386,22 @@
           {
             "size": "L",
             "variant_id": 117441,
-            "price": "29.66"
+            "price": "29.67"
           },
           {
             "size": "M",
             "variant_id": 117442,
-            "price": "29.66"
+            "price": "29.67"
           },
           {
             "size": "S",
             "variant_id": 117443,
-            "price": "29.66"
+            "price": "29.67"
           },
           {
             "size": "XL",
             "variant_id": 117444,
-            "price": "29.66"
+            "price": "29.67"
           },
           {
             "size": "7XL",
@@ -1421,35 +1415,33 @@
         "image": "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117471/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117471/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117471/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117471/137315/unisex-max-heavyweight-short-sleeve.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117471/137316/unisex-max-heavyweight-short-sleeve.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6ac8c128506501923e089be1/117471/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back"
         ],
         "sizes": [
           {
             "size": "S",
             "variant_id": 117469,
-            "price": "29.66"
+            "price": "29.67"
           },
           {
             "size": "M",
             "variant_id": 117470,
-            "price": "29.66"
+            "price": "29.67"
           },
           {
             "size": "L",
             "variant_id": 117471,
-            "price": "29.66"
+            "price": "29.67"
           },
           {
             "size": "XL",
             "variant_id": 117472,
-            "price": "29.66"
+            "price": "29.67"
           },
           {
             "size": "2XL",
             "variant_id": 117473,
-            "price": "35.21"
+            "price": "35.22"
           },
           {
             "size": "3XL",
@@ -1459,7 +1451,7 @@
           {
             "size": "4XL",
             "variant_id": 117475,
-            "price": "39.81"
+            "price": "39.82"
           },
           {
             "size": "5XL",
@@ -1783,9 +1775,7 @@
         "image": "https://images-api.printify.com/mockup/6aaa7b5e6d201c725106f17e/244708/123928/sunflower-embroidered-baseball-cap-washed-cotton-vintage-dad-hat.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aaa7b5e6d201c725106f17e/244708/123928/sunflower-embroidered-baseball-cap-washed-cotton-vintage-dad-hat.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aaa7b5e6d201c725106f17e/244708/123929/sunflower-embroidered-baseball-cap-washed-cotton-vintage-dad-hat.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aaa7b5e6d201c725106f17e/244708/124087/sunflower-embroidered-baseball-cap-washed-cotton-vintage-dad-hat.jpg?camera_label=right",
-          "https://images-api.printify.com/mockup/6aaa7b5e6d201c725106f17e/244708/124088/sunflower-embroidered-baseball-cap-washed-cotton-vintage-dad-hat.jpg?camera_label=left"
+          "https://images-api.printify.com/mockup/6aaa7b5e6d201c725106f17e/244708/123929/sunflower-embroidered-baseball-cap-washed-cotton-vintage-dad-hat.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -1800,9 +1790,7 @@
         "image": "https://images-api.printify.com/mockup/6aaa7b5e6d201c725106f17e/244709/123928/sunflower-embroidered-baseball-cap-washed-cotton-vintage-dad-hat.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aaa7b5e6d201c725106f17e/244709/123928/sunflower-embroidered-baseball-cap-washed-cotton-vintage-dad-hat.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aaa7b5e6d201c725106f17e/244709/123929/sunflower-embroidered-baseball-cap-washed-cotton-vintage-dad-hat.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aaa7b5e6d201c725106f17e/244709/124087/sunflower-embroidered-baseball-cap-washed-cotton-vintage-dad-hat.jpg?camera_label=right",
-          "https://images-api.printify.com/mockup/6aaa7b5e6d201c725106f17e/244709/124088/sunflower-embroidered-baseball-cap-washed-cotton-vintage-dad-hat.jpg?camera_label=left"
+          "https://images-api.printify.com/mockup/6aaa7b5e6d201c725106f17e/244709/123929/sunflower-embroidered-baseball-cap-washed-cotton-vintage-dad-hat.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -1834,9 +1822,7 @@
         "image": "https://images-api.printify.com/mockup/6aaa6686e7f55acd140b7b55/244708/123928/washed-baseball-cap-silver-glitter-wave-patch.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aaa6686e7f55acd140b7b55/244708/123928/washed-baseball-cap-silver-glitter-wave-patch.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aaa6686e7f55acd140b7b55/244708/123929/washed-baseball-cap-silver-glitter-wave-patch.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aaa6686e7f55acd140b7b55/244708/124087/washed-baseball-cap-silver-glitter-wave-patch.jpg?camera_label=right",
-          "https://images-api.printify.com/mockup/6aaa6686e7f55acd140b7b55/244708/124088/washed-baseball-cap-silver-glitter-wave-patch.jpg?camera_label=left"
+          "https://images-api.printify.com/mockup/6aaa6686e7f55acd140b7b55/244708/123929/washed-baseball-cap-silver-glitter-wave-patch.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -1851,9 +1837,7 @@
         "image": "https://images-api.printify.com/mockup/6aaa6686e7f55acd140b7b55/244714/123928/washed-baseball-cap-silver-glitter-wave-patch.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aaa6686e7f55acd140b7b55/244714/123928/washed-baseball-cap-silver-glitter-wave-patch.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aaa6686e7f55acd140b7b55/244714/123929/washed-baseball-cap-silver-glitter-wave-patch.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aaa6686e7f55acd140b7b55/244714/124087/washed-baseball-cap-silver-glitter-wave-patch.jpg?camera_label=right",
-          "https://images-api.printify.com/mockup/6aaa6686e7f55acd140b7b55/244714/124088/washed-baseball-cap-silver-glitter-wave-patch.jpg?camera_label=left"
+          "https://images-api.printify.com/mockup/6aaa6686e7f55acd140b7b55/244714/123929/washed-baseball-cap-silver-glitter-wave-patch.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -1870,474 +1854,11 @@
     "buy_url": "https://printify.com/app/store/products/6aaa6686e7f55acd140b7b55"
   },
   {
-    "id": "6aa6478c461472e5fd0056af",
-    "title": "Gold Leaf Tiger Chest Pocket T-Shirt",
-    "description": "A lightweight, breathable tee with a subtle chest emblem that feels lived-in from the first wear. This crew-neck shirt drapes cleanly thanks to side seams and a retail fit that sits neatly for layering or wearing solo. The small, detailed patch-style design adds a touch of personality without shouting — a quiet nod for those who prefer restrained, artful graphics. Built from soft Airlume combed and ring-spun cotton, with a ribbed knit collar and shoulder tape for structure, it moves with you while keeping its shape. Responsibly made and REACH certified, it’s designed for adults seeking comfortable everyday style with thoughtful construction.<br/><br/>Product features<br/>- 100% Airlume combed and ring-spun cotton (lightweight 4.2 oz/yd²)<br/>- Retail fit with crew neckline and side seams for shape retention<br/>- Ribbed knit collar, shoulder tape, and tear-away label for comfort and durability<br/>- Small detailed chest print using crisp DTF/DTG techniques depending on provider<br/>- REACH certified; responsibly manufactured with Fair Labor and WRAP commitments<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Non-chlorine: bleach as needed<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: medium heat<br/>- Do not dryclean<br/>",
-    "image": "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18102/102044/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=front-2",
-    "image_back": "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18102/102045/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=back-2",
-    "price": "30.10",
-    "categories": [
-      "Tees"
-    ],
-    "colors": [
-      {
-        "name": "S",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Army",
-            "variant_id": 18060,
-            "price": "30.10"
-          },
-          {
-            "size": "Asphalt",
-            "variant_id": 18068,
-            "price": "30.10"
-          },
-          {
-            "size": "Athletic Heather",
-            "variant_id": 18076,
-            "price": "30.10"
-          },
-          {
-            "size": "Black",
-            "variant_id": 18100,
-            "price": "30.10"
-          },
-          {
-            "size": "Dark Grey",
-            "variant_id": 18140,
-            "price": "30.10"
-          },
-          {
-            "size": "Dark Grey Heather",
-            "variant_id": 18148,
-            "price": "30.10"
-          },
-          {
-            "size": "Silver",
-            "variant_id": 18452,
-            "price": "30.10"
-          },
-          {
-            "size": "Solid Black Blend",
-            "variant_id": 18476,
-            "price": "30.10"
-          },
-          {
-            "size": "Vintage Black",
-            "variant_id": 18532,
-            "price": "30.10"
-          },
-          {
-            "size": "Ash",
-            "variant_id": 38602,
-            "price": "30.10"
-          }
-        ]
-      },
-      {
-        "name": "M",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Army",
-            "variant_id": 18061,
-            "price": "30.10"
-          },
-          {
-            "size": "Asphalt",
-            "variant_id": 18069,
-            "price": "30.10"
-          },
-          {
-            "size": "Athletic Heather",
-            "variant_id": 18077,
-            "price": "30.10"
-          },
-          {
-            "size": "Black",
-            "variant_id": 18101,
-            "price": "30.10"
-          },
-          {
-            "size": "Burnt Orange",
-            "variant_id": 18109,
-            "price": "30.10"
-          },
-          {
-            "size": "Dark Grey",
-            "variant_id": 18141,
-            "price": "30.10"
-          },
-          {
-            "size": "Dark Grey Heather",
-            "variant_id": 18149,
-            "price": "30.10"
-          },
-          {
-            "size": "Silver",
-            "variant_id": 18453,
-            "price": "30.10"
-          },
-          {
-            "size": "Solid Black Blend",
-            "variant_id": 18477,
-            "price": "30.10"
-          },
-          {
-            "size": "Vintage Black",
-            "variant_id": 18533,
-            "price": "30.10"
-          },
-          {
-            "size": "Ash",
-            "variant_id": 38605,
-            "price": "30.10"
-          }
-        ]
-      },
-      {
-        "name": "L",
-        "image": "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18102/102044/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=front-2",
-        "images": [
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18102/102044/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=front-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18102/102045/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=back-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/38608/102044/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=front-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/38608/102045/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=back-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18478/102044/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=front-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18478/102045/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=back-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18454/102044/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=front-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18454/102045/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=back-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18110/102044/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=front-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18110/102045/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=back-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18062/102044/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=front-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18062/102045/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=back-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18142/102044/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=front-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18142/102045/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=back-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18534/102044/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=front-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18534/102045/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=back-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18078/102044/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=front-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18078/102045/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=back-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18070/102044/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=front-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18070/102045/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=back-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18150/102044/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=front-2",
-          "https://images-api.printify.com/mockup/6aa6478c461472e5fd0056af/18150/102045/gold-leaf-tiger-chest-pocket-t-shirt.jpg?camera_label=back-2"
-        ],
-        "sizes": [
-          {
-            "size": "Army",
-            "variant_id": 18062,
-            "price": "30.10"
-          },
-          {
-            "size": "Asphalt",
-            "variant_id": 18070,
-            "price": "30.10"
-          },
-          {
-            "size": "Athletic Heather",
-            "variant_id": 18078,
-            "price": "30.10"
-          },
-          {
-            "size": "Black",
-            "variant_id": 18102,
-            "price": "30.10"
-          },
-          {
-            "size": "Burnt Orange",
-            "variant_id": 18110,
-            "price": "30.10"
-          },
-          {
-            "size": "Dark Grey",
-            "variant_id": 18142,
-            "price": "30.10"
-          },
-          {
-            "size": "Dark Grey Heather",
-            "variant_id": 18150,
-            "price": "30.10"
-          },
-          {
-            "size": "Silver",
-            "variant_id": 18454,
-            "price": "30.10"
-          },
-          {
-            "size": "Solid Black Blend",
-            "variant_id": 18478,
-            "price": "30.10"
-          },
-          {
-            "size": "Vintage Black",
-            "variant_id": 18534,
-            "price": "30.10"
-          },
-          {
-            "size": "Ash",
-            "variant_id": 38608,
-            "price": "30.10"
-          }
-        ]
-      },
-      {
-        "name": "XL",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Army",
-            "variant_id": 18063,
-            "price": "30.10"
-          },
-          {
-            "size": "Asphalt",
-            "variant_id": 18071,
-            "price": "30.10"
-          },
-          {
-            "size": "Athletic Heather",
-            "variant_id": 18079,
-            "price": "30.10"
-          },
-          {
-            "size": "Black",
-            "variant_id": 18103,
-            "price": "30.10"
-          },
-          {
-            "size": "Burnt Orange",
-            "variant_id": 18111,
-            "price": "30.10"
-          },
-          {
-            "size": "Dark Grey",
-            "variant_id": 18143,
-            "price": "30.10"
-          },
-          {
-            "size": "Dark Grey Heather",
-            "variant_id": 18151,
-            "price": "30.10"
-          },
-          {
-            "size": "Silver",
-            "variant_id": 18455,
-            "price": "30.10"
-          },
-          {
-            "size": "Solid Black Blend",
-            "variant_id": 18479,
-            "price": "30.10"
-          },
-          {
-            "size": "Vintage Black",
-            "variant_id": 18535,
-            "price": "30.10"
-          },
-          {
-            "size": "Ash",
-            "variant_id": 38611,
-            "price": "30.10"
-          }
-        ]
-      },
-      {
-        "name": "2XL",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Army",
-            "variant_id": 18064,
-            "price": "33.67"
-          },
-          {
-            "size": "Asphalt",
-            "variant_id": 18072,
-            "price": "33.67"
-          },
-          {
-            "size": "Athletic Heather",
-            "variant_id": 18080,
-            "price": "33.67"
-          },
-          {
-            "size": "Black",
-            "variant_id": 18104,
-            "price": "33.67"
-          },
-          {
-            "size": "Burnt Orange",
-            "variant_id": 18112,
-            "price": "33.67"
-          },
-          {
-            "size": "Dark Grey",
-            "variant_id": 18144,
-            "price": "33.67"
-          },
-          {
-            "size": "Dark Grey Heather",
-            "variant_id": 18152,
-            "price": "33.67"
-          },
-          {
-            "size": "Silver",
-            "variant_id": 18456,
-            "price": "33.67"
-          },
-          {
-            "size": "Solid Black Blend",
-            "variant_id": 18480,
-            "price": "33.67"
-          },
-          {
-            "size": "Vintage Black",
-            "variant_id": 18536,
-            "price": "33.67"
-          },
-          {
-            "size": "Ash",
-            "variant_id": 38614,
-            "price": "33.67"
-          }
-        ]
-      },
-      {
-        "name": "3XL",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Army",
-            "variant_id": 18065,
-            "price": "37.20"
-          },
-          {
-            "size": "Asphalt",
-            "variant_id": 18073,
-            "price": "37.20"
-          },
-          {
-            "size": "Athletic Heather",
-            "variant_id": 18081,
-            "price": "37.20"
-          },
-          {
-            "size": "Black",
-            "variant_id": 18105,
-            "price": "37.20"
-          },
-          {
-            "size": "Dark Grey Heather",
-            "variant_id": 18153,
-            "price": "37.20"
-          },
-          {
-            "size": "Ash",
-            "variant_id": 38617,
-            "price": "37.20"
-          }
-        ]
-      },
-      {
-        "name": "XS",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Athletic Heather",
-            "variant_id": 18075,
-            "price": "30.10"
-          },
-          {
-            "size": "Black",
-            "variant_id": 18099,
-            "price": "30.10"
-          },
-          {
-            "size": "Burnt Orange",
-            "variant_id": 18107,
-            "price": "30.10"
-          },
-          {
-            "size": "Dark Grey Heather",
-            "variant_id": 18147,
-            "price": "30.10"
-          },
-          {
-            "size": "Solid Black Blend",
-            "variant_id": 18475,
-            "price": "30.10"
-          },
-          {
-            "size": "Vintage Black",
-            "variant_id": 18531,
-            "price": "30.10"
-          }
-        ]
-      },
-      {
-        "name": "4XL",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Athletic Heather",
-            "variant_id": 18082,
-            "price": "40.77"
-          },
-          {
-            "size": "Black",
-            "variant_id": 18106,
-            "price": "40.77"
-          },
-          {
-            "size": "Dark Grey Heather",
-            "variant_id": 18154,
-            "price": "40.77"
-          }
-        ]
-      },
-      {
-        "name": "5XL",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Black",
-            "variant_id": 101666,
-            "price": "44.33"
-          }
-        ]
-      }
-    ],
-    "all_sizes": [
-      "Army",
-      "Asphalt",
-      "Athletic Heather",
-      "Black",
-      "Burnt Orange",
-      "Dark Grey",
-      "Dark Grey Heather",
-      "Silver",
-      "Solid Black Blend",
-      "Vintage Black",
-      "Ash"
-    ],
-    "buy_url": "https://printify.com/app/store/products/6aa6478c461472e5fd0056af"
-  },
-  {
     "id": "6aa646b54bde1907ef0c3c34",
     "title": "Vampire Bite Tee — Distressed White Fang Graphic T-Shirt",
     "description": "A relaxed, heavyweight tee stamped with a bold, hand-painted smile of teeth — equal parts gritty and playful. The oversized silhouette drapes easily over the shoulders and feels substantial without sacrificing comfort. That stark white tooth motif pops against deep, muted fabric, lending an artful, slightly rebellious edge that reads like wearable street art. Wear it with lived-in denim, layered under an open flannel, or solo when you want your outfit to do the talking. Suits evenings at shows, late-night hangs, or any moment you want attitude with a tactile, substantial tee.<br/><br/>Product features<br/>- 100% USA cotton heavyweight (7.5 oz / 245–255 GSM) for a sturdy, durable feel<br/>- Relaxed, oversized cut with slight drop shoulder for an effortless fit<br/>- Reinforced neck and hems: double-needle stitching and stretch-proof collar<br/>- Wide size range S–7XL; quarter-turned to remove center crease<br/>- Heather/charcoal options include polyester blends; blank sourced and made in USA<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Non-chlorine: bleach as needed<br/>- Tumble dry: no heat<br/>- Do not iron<br/>- Do not dryclean<br/>",
-    "image": "https://images-api.printify.com/mockup/6aa646b54bde1907ef0c3c34/117441/127480/vampire-bite-tee-distressed-white-fang-graphic-t-shirt.jpg?camera_label=front",
-    "image_back": "https://images-api.printify.com/mockup/6aa646b54bde1907ef0c3c34/117441/127482/vampire-bite-tee-distressed-white-fang-graphic-t-shirt.jpg?camera_label=back",
+    "image": "https://images-api.printify.com/mockup/6aa646b54bde1907ef0c3c34/117479/127480/vampire-bite-tee-distressed-white-fang-graphic-t-shirt.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6aa646b54bde1907ef0c3c34/117479/127482/vampire-bite-tee-distressed-white-fang-graphic-t-shirt.jpg?camera_label=back",
     "price": "29.67",
     "categories": [
       "Tees"
@@ -2538,9 +2059,7 @@
         "image": "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117441/127480/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117441/127480/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117441/127482/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117441/137315/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117441/137316/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117441/127482/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -2595,9 +2114,7 @@
         "image": "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117471/127480/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117471/127480/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117471/127482/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117471/137315/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117471/137316/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117471/127482/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -2652,9 +2169,7 @@
         "image": "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117479/127480/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117479/127480/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117479/127482/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117479/137315/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117479/137316/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117479/127482/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -2709,9 +2224,7 @@
         "image": "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117527/127480/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117527/127480/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117527/127482/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117527/137315/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117527/137316/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6aa6438d0ebaea9d4603b2c6/117527/127482/re-life-graphic-t-shirt-minimal-front-text-with-cosmic-rebirth-back-art.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -2779,8 +2292,8 @@
     "id": "6aa543fc9850129ec30647e5",
     "title": "Hope Butterfly T-Shirt – Inspirational Cancer Awareness Tee",
     "description": "A relaxed, heavyweight tee that feels grounded and steady the moment you put it on. The oversized cut and forward-thrusted shoulder seam create an easy, drapey silhouette that suits layered streetwear or quiet weekend wear. A bold, hopeful graphic sits across the chest—clean white lettering with a burst of cool blue tones—giving the shirt subtle visual impact without shouting. Thick 7.5 oz USA-spun cotton and reinforced stitching at the neck, sleeves, and hem mean this shirt holds shape and print through repeat wear. Wear it while running errands, meeting friends for a low-key coffee, or as a calm, steady layer during cause-driven meetups and community events.<br/><br/>Product features<br/>- 100% USA-spun heavyweight cotton (7.5 oz / 245–255 GSM) for durability and smooth print surface<br/>- Oversized, relaxed fit with slight drop shoulder and forward-thrusted shoulder seam for comfortable drape<br/>- Reinforced construction: shoulder-to-shoulder neck tape, double-needle stitched neck, sleeve, and bottom hems<br/>- Stretch-proof 1\" collar with satin/woven label; quarter-turned to eliminate center crease<br/>- Size range S–7XL; Heather and Charcoal blends contain polyester (Heather 90/10, Charcoal 50/50)<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Non-chlorine: bleach as needed<br/>- Tumble dry: no heat<br/>- Do not iron<br/>- Do not dryclean<br/>",
-    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015114839-1f1c88e5-cf5e-62bc-bed4-fa73963e5905.jpg",
-    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015114839-1f1c88e5-cbab-6cc8-9f59-a2dfece614b5.jpg",
+    "image": "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117495/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117495/127482/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=back",
     "price": "29.67",
     "categories": [
       "Tees"
@@ -2788,8 +2301,11 @@
     "colors": [
       {
         "name": "Black",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117441/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117441/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117441/127482/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "2XL",
@@ -2840,8 +2356,11 @@
       },
       {
         "name": "Charcoal Grey",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117471/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117471/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117471/127482/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "S",
@@ -2892,8 +2411,11 @@
       },
       {
         "name": "Heather Grey",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117495/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117495/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117495/127482/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "S",
@@ -2960,8 +2482,8 @@
     "id": "6aa4bf30599a820a760aa022",
     "title": "I Can't Hold Back My Tears Anymore T-Shirt — Monochrome Eye Graphic Tee",
     "description": "This heavyweight short sleeve shirt carries quiet intensity. Printed on a robust 100% USA cotton body, the design stacks four distressed eye panels down the back—each set of eyes like a memory, a stare, a small confession. The muted black-on-white print and slightly oversized cut create a lived-in, gallery-meets-streetwear mood. Wear it when you want your look to feel thoughtful and a little confrontational: paired with worn denim, layered under an open flannel, or simply worn alone to let the artwork speak. The relaxed drop shoulder and forward-thrusted seam keep the neck comfortable while the heavy 7.5 oz fabric holds shape and print detail through washes.<br/><br/>Product features<br/>- 7.5 oz (245–255 GSM) 100% USA cotton for durability and clear printing<br/>- Oversized relaxed fit with slight drop shoulder and forward-thrusted shoulder seam<br/>- Reinforced details: double-needle stitched neck, sleeves, and bottom hems with shoulder-to-shoulder neck tape<br/>- Available in sizes S–7XL; quarter-turned to avoid center crease<br/>- Heather and charcoal options include polyester blends for heathered tones<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Non-chlorine: bleach as needed<br/>- Tumble dry: no heat<br/>- Do not iron<br/>- Do not dryclean<br/>",
-    "image": "https://images-api.printify.com/mockup/6aa4bf30599a820a760aa022/117441/127480/i-cant-hold-back-my-tears-anymore-t-shirt-monochrome-eye-graphic-tee.jpg?camera_label=front",
-    "image_back": "https://images-api.printify.com/mockup/6aa4bf30599a820a760aa022/117441/127482/i-cant-hold-back-my-tears-anymore-t-shirt-monochrome-eye-graphic-tee.jpg?camera_label=back",
+    "image": "https://images-api.printify.com/mockup/6aa4bf30599a820a760aa022/117471/127480/i-cant-hold-back-my-tears-anymore-t-shirt-monochrome-eye-graphic-tee.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6aa4bf30599a820a760aa022/117471/127482/i-cant-hold-back-my-tears-anymore-t-shirt-monochrome-eye-graphic-tee.jpg?camera_label=back",
     "price": "29.67",
     "categories": [
       "Tees"
@@ -3292,9 +2814,7 @@
         "image": "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117441/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117441/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117441/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117441/137315/unisex-max-heavyweight-short-sleeve.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117441/137316/unisex-max-heavyweight-short-sleeve.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117441/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -3315,7 +2835,7 @@
           {
             "size": "5XL",
             "variant_id": 117440,
-            "price": "56.11"
+            "price": "56.12"
           },
           {
             "size": "L",
@@ -3340,7 +2860,7 @@
           {
             "size": "7XL",
             "variant_id": 117613,
-            "price": "52.26"
+            "price": "52.27"
           }
         ]
       },
@@ -3349,9 +2869,7 @@
         "image": "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117447/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117447/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117447/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117447/137315/unisex-max-heavyweight-short-sleeve.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117447/137316/unisex-max-heavyweight-short-sleeve.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117447/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -3392,12 +2910,12 @@
           {
             "size": "5XL",
             "variant_id": 117452,
-            "price": "56.11"
+            "price": "56.12"
           },
           {
             "size": "7XL",
             "variant_id": 117614,
-            "price": "52.26"
+            "price": "52.27"
           }
         ]
       },
@@ -3406,9 +2924,7 @@
         "image": "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117479/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117479/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117479/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117479/137315/unisex-max-heavyweight-short-sleeve.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117479/137316/unisex-max-heavyweight-short-sleeve.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117479/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -3449,12 +2965,12 @@
           {
             "size": "5XL",
             "variant_id": 117484,
-            "price": "56.11"
+            "price": "56.12"
           },
           {
             "size": "7XL",
             "variant_id": 117618,
-            "price": "52.26"
+            "price": "52.27"
           }
         ]
       },
@@ -3463,9 +2979,7 @@
         "image": "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117503/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117503/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117503/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117503/137315/unisex-max-heavyweight-short-sleeve.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117503/137316/unisex-max-heavyweight-short-sleeve.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117503/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -3506,12 +3020,12 @@
           {
             "size": "5XL",
             "variant_id": 117508,
-            "price": "56.11"
+            "price": "56.12"
           },
           {
             "size": "7XL",
             "variant_id": 117621,
-            "price": "52.26"
+            "price": "52.27"
           }
         ]
       },
@@ -3520,9 +3034,7 @@
         "image": "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117527/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117527/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117527/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117527/137315/unisex-max-heavyweight-short-sleeve.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117527/137316/unisex-max-heavyweight-short-sleeve.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6aa4bb52ba7a2753500e3631/117527/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -3563,12 +3075,12 @@
           {
             "size": "5XL",
             "variant_id": 117532,
-            "price": "56.11"
+            "price": "56.12"
           },
           {
             "size": "7XL",
             "variant_id": 117624,
-            "price": "52.26"
+            "price": "52.27"
           }
         ]
       }
@@ -3602,9 +3114,7 @@
         "image": "https://images-api.printify.com/mockup/6aa3c4cb80766d1c6e0f510f/117441/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6aa3c4cb80766d1c6e0f510f/117441/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa3c4cb80766d1c6e0f510f/117441/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa3c4cb80766d1c6e0f510f/117441/137315/unisex-max-heavyweight-short-sleeve.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa3c4cb80766d1c6e0f510f/117441/137316/unisex-max-heavyweight-short-sleeve.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6aa3c4cb80766d1c6e0f510f/117441/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -3625,7 +3135,7 @@
           {
             "size": "5XL",
             "variant_id": 117440,
-            "price": "56.11"
+            "price": "56.12"
           },
           {
             "size": "L",
@@ -3650,7 +3160,7 @@
           {
             "size": "7XL",
             "variant_id": 117613,
-            "price": "52.26"
+            "price": "52.27"
           }
         ]
       }
@@ -3684,9 +3194,7 @@
         "image": "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117495/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117495/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117495/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117495/137315/unisex-max-heavyweight-short-sleeve.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117495/137316/unisex-max-heavyweight-short-sleeve.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117495/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -3717,7 +3225,7 @@
           {
             "size": "3XL",
             "variant_id": 117498,
-            "price": "49.76"
+            "price": "49.77"
           },
           {
             "size": "4XL",
@@ -3732,7 +3240,7 @@
           {
             "size": "7XL",
             "variant_id": 117620,
-            "price": "52.26"
+            "price": "52.27"
           }
         ]
       },
@@ -3741,9 +3249,7 @@
         "image": "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117519/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117519/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117519/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117519/137315/unisex-max-heavyweight-short-sleeve.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117519/137316/unisex-max-heavyweight-short-sleeve.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117519/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -3774,7 +3280,7 @@
           {
             "size": "3XL",
             "variant_id": 117522,
-            "price": "49.76"
+            "price": "49.77"
           },
           {
             "size": "4XL",
@@ -3793,9 +3299,7 @@
         "image": "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117607/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
         "images": [
           "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117607/127480/unisex-max-heavyweight-short-sleeve.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117607/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117607/137315/unisex-max-heavyweight-short-sleeve.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117607/137316/unisex-max-heavyweight-short-sleeve.jpg?camera_label=right-sleeve"
+          "https://images-api.printify.com/mockup/6a9e8589d2bdcb2df600880a/117607/127482/unisex-max-heavyweight-short-sleeve.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -3821,7 +3325,7 @@
           {
             "size": "2XL",
             "variant_id": 117609,
-            "price": "43.31"
+            "price": "43.32"
           },
           {
             "size": "3XL",
@@ -3836,12 +3340,12 @@
           {
             "size": "5XL",
             "variant_id": 117612,
-            "price": "50.41"
+            "price": "50.42"
           },
           {
             "size": "7XL",
             "variant_id": 117634,
-            "price": "49.21"
+            "price": "49.22"
           }
         ]
       }
@@ -3863,8 +3367,8 @@
     "id": "6a9ab3922599dacaea0e83c2",
     "title": "PEAK-CAP",
     "description": "A clean, breathable trucker cap designed for sunny days on the road or low-key evenings around the fire. The structured mid-profile front holds its shape while the hard buckram gives a crisp, classic silhouette. A row of subtle embroidered dots across the front adds quiet, modern detail — an understated emblem that reads as minimalist and thoughtful. The curved Permacurv® visor keeps sun out of your eyes; the matching undervisor keeps the look cohesive. Lightweight mesh at the back lets air pass through so your head stays cool when the pace picks up. Adjustable snap closure means easy sizing for most adults. Wear it on morning coffee runs, weekend drives, or while swapping stories with friends — it blends into active, outdoorsy rhythms without shouting for attention.<br/><br/>Product features<br/>- Structured mid-profile six-panel with hard buckram front for a crisp shape<br/>- Pre-curved Permacurv® visor with matching undervisor and eight rows of stitching<br/>- Breathable 100% polyester mesh back to reduce heat and sweat<br/>- Adjustable plastic snap closure and cotton sweatband for comfort and fit<br/>- Front panel: 60% cotton/40% polyester; meets lead, bisphenols and phthalates requirements<br/><br/>Care instructions<br/>- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.<br/>",
-    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015112439-1f1c88b0-265e-6764-8761-3ee05d0d2e22.jpg",
-    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015112439-1f1c88b0-2ce4-6df4-90b9-fa73963e5905.jpg",
+    "image": "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102226/peak-cap.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102253/peak-cap.jpg?camera_label=back",
     "price": "25.29",
     "categories": [
       "Peak Caps"
@@ -3872,8 +3376,11 @@
     "colors": [
       {
         "name": "Khaki",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102226/peak-cap.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102226/peak-cap.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102253/peak-cap.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "Brown",
@@ -3884,8 +3391,11 @@
       },
       {
         "name": "White",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105364/102226/peak-cap.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105364/102226/peak-cap.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105364/102253/peak-cap.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "Black",
@@ -4153,8 +3663,8 @@
     "id": "6a9804a3b3f0d4a9ed017e23",
     "title": "LIFE",
     "description": "This heavyweight garment-dyed tee feels lived-in from the first wear. The front reads a stark, single-word statement while the back bursts with colorful, hand-lettered energy—“Can’t Stop Won’t Stop”—framed by lush botanical swirls and retro flourishes. The relaxed fit and soft, post-dye finish make it a go-to for days when you want comfort without losing personality. It’s the kind of shirt you pull on for long creative sessions, weekend road trips, or nights out when the vibe is louder than words. The sewn-in label and durable double-needle stitching mean this tee becomes part of your rotation for seasons, not just a moment. Available in a wide palette of muted, washed colors so the print pops and the fabric feels supple from wash one.<br/><br/>Product features<br/>- 100% ring-spun US cotton with garment-dyed softness<br/>- Heavyweight 6.1 oz fabric with relaxed, pre-shrunk fit<br/>- Double-needle stitched seams for long-lasting wear<br/>- Tubular knit (no side seams) and sewn-in label for clean finish<br/>- Sizes S–4XL; available in 58 washed colors<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
-    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015110606-1f1c8886-b5b9-62e4-853b-d69ca974248e.jpg",
-    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015110607-1f1c8886-baae-6a4c-98f4-4e57d93f594a.jpg",
+    "image": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98445/life.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98446/life.jpg?camera_label=back",
     "price": "25.63",
     "categories": [
       "Tees"
@@ -4162,8 +3672,11 @@
     "colors": [
       {
         "name": "Graphite",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98445/life.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98445/life.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98446/life.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -4204,8 +3717,11 @@
       },
       {
         "name": "Hemp",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78983/98445/life.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78983/98445/life.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78983/98446/life.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -4255,142 +3771,6 @@
       "4XL"
     ],
     "buy_url": "https://printify.com/app/store/products/6a9804a3b3f0d4a9ed017e23"
-  },
-  {
-    "id": "6a9804a2b3f0d4a9ed017e22",
-    "title": "Amazing Embroidered Trucker Cap",
-    "description": "A classic trucker cap with a sun-warmed, outdoorsy vibe. The structured mid-profile silhouette and precurved Permacurv® visor keep the shape crisp while the breathable mesh back keeps air moving on long summer drives, hikes, or busy weekends. Soft cotton on the sweatband and a secure plastic snap let you wear it all day without fuss. Subtle embroidered lettering on the front adds a handcrafted touch that reads like a small, confident statement rather than shouting for attention. This cap settles into your rotation for afternoons by the lake, backyard barbecues, and laid-back road trips.<br/><br/>Product features<br/>- Structured six-panel body with hard buckram front panels<br/>- Precurved Permacurv® visor with matching undervisor and eight-row stitching<br/>- Breathable 100% polyester mesh back for airflow<br/>- Adjustable plastic snap closure and comfortable 100% cotton sweatband<br/>- Front fabric blend: 60% cotton / 40% polyester; meets safety compliance standards<br/><br/>Care instructions<br/>- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.<br/>",
-    "image": "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105367/102226/amazing-embroidered-trucker-cap.jpg?camera_label=front",
-    "image_back": "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105367/102253/amazing-embroidered-trucker-cap.jpg?camera_label=back",
-    "price": "30.63",
-    "categories": [
-      "Peak Caps"
-    ],
-    "colors": [
-      {
-        "name": "White",
-        "image": "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105367/102226/amazing-embroidered-trucker-cap.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105367/102226/amazing-embroidered-trucker-cap.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105369/102226/amazing-embroidered-trucker-cap.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105371/102226/amazing-embroidered-trucker-cap.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/244907/102226/amazing-embroidered-trucker-cap.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105364/102226/amazing-embroidered-trucker-cap.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105367/102253/amazing-embroidered-trucker-cap.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105367/102254/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105367/102257/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-back",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105369/102253/amazing-embroidered-trucker-cap.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105369/102254/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105369/102257/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-back",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105371/102253/amazing-embroidered-trucker-cap.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105371/102254/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105371/102257/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-back",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/244907/102253/amazing-embroidered-trucker-cap.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/244907/102254/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/244907/102257/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-back",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105364/102253/amazing-embroidered-trucker-cap.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105364/102254/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/105364/102257/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-back"
-        ],
-        "sizes": [
-          {
-            "size": "Black",
-            "variant_id": 105364,
-            "price": "30.63"
-          },
-          {
-            "size": "Charcoal",
-            "variant_id": 105367,
-            "price": "38.29"
-          },
-          {
-            "size": "Navy",
-            "variant_id": 105371,
-            "price": "38.29"
-          },
-          {
-            "size": "Heather Grey",
-            "variant_id": 105369,
-            "price": "38.29"
-          },
-          {
-            "size": "Royal",
-            "variant_id": 244907,
-            "price": "32.03"
-          }
-        ]
-      },
-      {
-        "name": "Khaki",
-        "image": "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/117871/102226/amazing-embroidered-trucker-cap.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/117871/102226/amazing-embroidered-trucker-cap.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/117871/102253/amazing-embroidered-trucker-cap.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/117871/102254/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/117871/102257/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-back"
-        ],
-        "sizes": [
-          {
-            "size": "Moss",
-            "variant_id": 117871,
-            "price": "38.29"
-          }
-        ]
-      },
-      {
-        "name": "One size",
-        "image": "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/117877/102226/amazing-embroidered-trucker-cap.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/117877/102226/amazing-embroidered-trucker-cap.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/117872/102226/amazing-embroidered-trucker-cap.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/117877/102253/amazing-embroidered-trucker-cap.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/117877/102254/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/117877/102257/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-back",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/117872/102253/amazing-embroidered-trucker-cap.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/117872/102254/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/117872/102257/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-back"
-        ],
-        "sizes": [
-          {
-            "size": "Dark Heather Grey",
-            "variant_id": 117877,
-            "price": "30.63"
-          },
-          {
-            "size": "Navy",
-            "variant_id": 117872,
-            "price": "30.63"
-          }
-        ]
-      },
-      {
-        "name": "Silver",
-        "image": "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/244906/102226/amazing-embroidered-trucker-cap.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/244906/102226/amazing-embroidered-trucker-cap.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/244906/102253/amazing-embroidered-trucker-cap.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/244906/102254/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-front",
-          "https://images-api.printify.com/mockup/6a9804a2b3f0d4a9ed017e22/244906/102257/amazing-embroidered-trucker-cap.jpg?camera_label=person-1-back"
-        ],
-        "sizes": [
-          {
-            "size": "Navy",
-            "variant_id": 244906,
-            "price": "32.03"
-          }
-        ]
-      }
-    ],
-    "all_sizes": [
-      "Black",
-      "Charcoal",
-      "Navy",
-      "Heather Grey",
-      "Moss",
-      "Dark Heather Grey",
-      "Royal"
-    ],
-    "buy_url": "https://printify.com/app/store/products/6a9804a2b3f0d4a9ed017e22"
   },
   {
     "id": "6a98049fb3f0d4a9ed017e21",
@@ -4982,8 +4362,8 @@
     "id": "6a980479b3f0d4a9ed017e11",
     "title": "DON'T OVERTHINK IT!!",
     "description": "This relaxed, garment-dyed tee carries a calm, reassuring message: “Don’t overthink it.” The warm, earthy color and soft, worn-in texture invite slow breathes and easy afternoons. Heavyweight ring-spun cotton gives the shirt substance without stiffness; the slightly boxy, relaxed cut drapes casually over jeans, an oversized cardigan, or layered under a flannel. The minimalist typographic design reads like a friend nudging you back into the moment — an everyday reminder to choose presence over worry. Wear it to errands, weekend coffee runs, creative sessions, or low-key gatherings when you want comfort and quiet confidence to speak for you.<br/><br/>Product features<br/>- 100% ring-spun US cotton for durable, breathable comfort<br/>- Garment-dyed finish for a soft, lived-in color and texture<br/>- Heavyweight 6.1 oz fabric with relaxed fit for substantial, casual wear<br/>- Tubular knit (no side seams) and double-needle stitching for lasting construction<br/>- Available S–4XL with pre-shrunk sizing and sewn-in label<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
-    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015113845-1f1c88cf-a9e7-6cec-9acb-d6c25deb4c43.jpg",
-    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015113846-1f1c88cf-ba65-6db2-b49d-267f034efd08.jpg",
+    "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98445/dont-overthink-it.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98446/dont-overthink-it.jpg?camera_label=back",
     "price": "20.68",
     "categories": [
       "Tees"
@@ -4991,8 +4371,11 @@
     "colors": [
       {
         "name": "Graphite",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98445/dont-overthink-it.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98445/dont-overthink-it.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98446/dont-overthink-it.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -5033,8 +4416,11 @@
       },
       {
         "name": "Yam",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/79108/98445/dont-overthink-it.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/79108/98445/dont-overthink-it.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/79108/98446/dont-overthink-it.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -5075,8 +4461,11 @@
       },
       {
         "name": "Navy",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/73205/98445/dont-overthink-it.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/73205/98445/dont-overthink-it.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/73205/98446/dont-overthink-it.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -5117,8 +4506,11 @@
       },
       {
         "name": "Hemp",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78983/98445/dont-overthink-it.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78983/98445/dont-overthink-it.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78983/98446/dont-overthink-it.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -5173,8 +4565,8 @@
     "id": "6a980472b3f0d4a9ed017e10",
     "title": "Hoodie — Minimal Vertical Kanji Fleece Hoodie",
     "description": "A clean, cozy hoodie built for everyday wear and quiet moments. The medium-heavy fleece wraps you in a soft, brushed interior while the structured hood and adjustable drawcords let you dial comfort and coverage. A roomy kangaroo pocket keeps hands warm or stashes small essentials. Subtle chest embroidery gives a minimal, thoughtful accent without shouting; the smooth cotton exterior prints beautifully or stands on its own as a pared-back staple. Durable construction—double-needle seams and twill necktape—keeps this hoodie holding its shape through repeated wear and washes. It fits true to size with a regular cut that layers easily over tees or under jackets.<br/><br/>Product features<br/>- Soft 3-end fleece with a plush hand-feel and brushed interior<br/>- Medium-heavy weight (≈8.25 oz/yd²) for warmth without bulk<br/>- Kangaroo pouch pocket to warm hands and carry small items<br/>- Adjustable hood with self-colored drawstrings and metal grommets<br/>- Durable details: twill necktape, double-needle topstitching, and tear-away label<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
-    "image": "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/68046/99231/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=front",
-    "image_back": "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/68046/99232/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=back",
+    "image": "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/115124/99231/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/115124/99232/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=back",
     "price": "53.21",
     "categories": [
       "Hoodies"
@@ -5182,16 +4574,16 @@
     "colors": [
       {
         "name": "L",
-        "image": "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/68046/99231/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=front",
+        "image": "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/115124/99231/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=front",
         "images": [
+          "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/115124/99231/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=front",
           "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/68046/99231/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=front",
           "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/62277/99231/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=front",
           "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/115131/99231/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/115124/99231/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/115124/99232/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=back",
           "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/68046/99232/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=back",
           "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/62277/99232/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/115131/99232/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/115124/99232/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=back"
+          "https://images-api.printify.com/mockup/6a980472b3f0d4a9ed017e10/115131/99232/hoodie-minimal-vertical-kanji-fleece-hoodie.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -5427,17 +4819,20 @@
     "id": "6a98046cb3f0d4a9ed017e0f",
     "title": "FATALITY",
     "description": "A heavyweight garment-dyed tee that wears in like an old favorite. The relaxed cut and soft, washed color give it a lived-in feel while the bold “FATALITY” text and floral skull artwork bring a moody, artful edge. Picture this shirt tossed on for a late-night drive, a low-lit show, or a weekend of crate-digging — it layers easily under a worn denim jacket or stands out on its own. The muted earth tone and coral-accent print age together as the cotton softens, so each wear adds character. It’s for people who collect stories in shirts and prefer pieces that look like they’ve been part of the story from the start.<br/><br/>Product features<br/>- 100% ring-spun US cotton — pre-shrunk and heavyweight for durability and a substantial feel<br/>- Garment-dyed finish for a soft, vintage color and lived-in texture<br/>- Relaxed fit with no side seams and double-needle stitched hems for long-lasting construction<br/>- Available in sizes S–4XL with sewn-in label and a broad palette of 58 colors<br/>- 6.1 oz/yd² heavyweight fabric that layers well and holds graphic detail<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
-    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015113207-1f1c88c0-d975-6626-88bb-62c1c2644b53.jpg",
-    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015113207-1f1c88c0-d9bc-6a9e-aa64-fa73963e5905.jpg",
+    "image": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98445/fatality.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98446/fatality.jpg?camera_label=back",
     "price": "21.13",
     "categories": [
-      "Tees"
+      "New Arrivals"
     ],
     "colors": [
       {
         "name": "Graphite",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98445/fatality.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98445/fatality.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98446/fatality.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -5478,8 +4873,11 @@
       },
       {
         "name": "Black",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/73204/98445/fatality.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/73204/98445/fatality.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/73204/98446/fatality.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -5520,8 +4918,11 @@
       },
       {
         "name": "Hemp",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78983/98445/fatality.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78983/98445/fatality.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78983/98446/fatality.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -5577,7 +4978,7 @@
     "title": "Sailor Hoodie — \"Listen to the Ocean\" Graphic Pullover",
     "description": "This relaxed, garment-dyed hoodie carries the calm and force of the sea. The front shows a small, understated wordmark while the back opens into a bold, sun-bright square: crashing blue waves against a warm orange sky with the phrase “LISTEN TO THE ocean.” It feels like stepping into a coastal morning — heavy, cozy fabric that settles around you, hood up against wind, sleeves ready for a brisk walk by the shore. For someone who collects moments of salt air and long horizons, this hoodie reads like a wearable memory. The weight and structure give it a lived-in, durable presence while the graphic keeps the look fresh and expressive.<br/><br/>Product features<br/>- 80% ringspun cotton / 20% polyester heavy knit (9.5 oz /yd²) for a substantial, soft hand<br/>- Relaxed fit with 1x1 ribbed cuffs and bottom hem to retain shape<br/>- Hood lined with jersey and self-colored flatcord drawstrings for comfortable coverage<br/>- Necktape and half-moon back patch for added stability and long-lasting wear<br/>- Sewn-in twill label and durable construction optimized for high-quality printing<br/><br/>Care instructions<br/>- Do not dryclean<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>",
     "image": "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98494/101143/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=front",
-    "image_back": "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98494/101145/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=person-1-front",
+    "image_back": "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98494/101144/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=back",
     "price": "75.55",
     "categories": [
       "Hoodies",
@@ -5635,12 +5036,9 @@
           "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98494/101143/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=front",
           "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98499/101143/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=front",
           "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98484/101143/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98494/101145/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=person-1-front",
-          "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98494/101147/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=person-1-close-up",
-          "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98499/101145/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=person-1-front",
-          "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98499/101147/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=person-1-close-up",
-          "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98484/101145/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=person-1-front",
-          "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98484/101147/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=person-1-close-up"
+          "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98494/101144/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=back",
+          "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98499/101144/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=back",
+          "https://images-api.printify.com/mockup/6a980467b3f0d4a9ed017e0e/98484/101144/sailor-hoodie-listen-to-the-ocean-graphic-pullover.jpg?camera_label=back"
         ],
         "sizes": [
           {
@@ -5735,157 +5133,11 @@
     "buy_url": "https://printify.com/app/store/products/6a980467b3f0d4a9ed017e0e"
   },
   {
-    "id": "6a980463b3f0d4a9ed017e0d",
-    "title": "Embroidered Cat & Blue Forest Polo",
-    "description": "This lightweight pique polo brings quiet charm to everyday wear. Soft, ring-spun cotton feels smooth against the skin while a semi-fitted cut keeps the silhouette neat without feeling restrictive. Subtle embroidered artwork — a small, attentive cat on the chest and a moody, watercolor-like forest strip across the upper back — adds personality without shouting. Wear it to slow mornings at the café, easy hikes that end at a lakeside, or low-key gatherings where comfort and detail matter. The breathable fabric and classic two-button placket make it easy to layer under a sweater or wear alone when the day warms. Thoughtful construction like side seams and OEKO-TEX® certified fabric means it’s built to feel good and last.<br/><br/>Product features<br/>- 100% ring-spun cotton for a strong, smooth hand<br/>- Lightweight fabric (5.2 oz / yd²) keeps you cool<br/>- Semi-fitted silhouette with side-seamed construction<br/>- Two-button placket with dyed-to-match buttons<br/>- OEKO-TEX® STANDARD 100 certified for safer textiles<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Do not iron<br/>- Do not dryclean<br/>",
-    "image": "https://images-api.printify.com/mockup/6a980463b3f0d4a9ed017e0d/118931/109621/embroidered-cat-blue-forest-polo.jpg?camera_label=front",
-    "image_back": "https://images-api.printify.com/mockup/6a980463b3f0d4a9ed017e0d/118931/109622/embroidered-cat-blue-forest-polo.jpg?camera_label=back",
-    "price": "43.85",
-    "categories": [
-      "New Arrivals"
-    ],
-    "colors": [
-      {
-        "name": "2XL",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Navy",
-            "variant_id": 118918,
-            "price": "46.95"
-          },
-          {
-            "size": "Sport Grey",
-            "variant_id": 118919,
-            "price": "46.95"
-          }
-        ]
-      },
-      {
-        "name": "3XL",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Navy",
-            "variant_id": 118922,
-            "price": "50.07"
-          },
-          {
-            "size": "Sport Grey",
-            "variant_id": 118923,
-            "price": "50.07"
-          }
-        ]
-      },
-      {
-        "name": "4XL",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Navy",
-            "variant_id": 118926,
-            "price": "53.18"
-          },
-          {
-            "size": "Sport Grey",
-            "variant_id": 118927,
-            "price": "53.18"
-          }
-        ]
-      },
-      {
-        "name": "L",
-        "image": "https://images-api.printify.com/mockup/6a980463b3f0d4a9ed017e0d/118931/109621/embroidered-cat-blue-forest-polo.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a980463b3f0d4a9ed017e0d/118931/109621/embroidered-cat-blue-forest-polo.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a980463b3f0d4a9ed017e0d/118931/109622/embroidered-cat-blue-forest-polo.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a980463b3f0d4a9ed017e0d/118931/110220/embroidered-cat-blue-forest-polo.jpg?camera_label=front-2",
-          "https://images-api.printify.com/mockup/6a980463b3f0d4a9ed017e0d/118931/110221/embroidered-cat-blue-forest-polo.jpg?camera_label=back-2",
-          "https://images-api.printify.com/mockup/6a980463b3f0d4a9ed017e0d/118930/109621/embroidered-cat-blue-forest-polo.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a980463b3f0d4a9ed017e0d/118930/109622/embroidered-cat-blue-forest-polo.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a980463b3f0d4a9ed017e0d/118930/110220/embroidered-cat-blue-forest-polo.jpg?camera_label=front-2",
-          "https://images-api.printify.com/mockup/6a980463b3f0d4a9ed017e0d/118930/110221/embroidered-cat-blue-forest-polo.jpg?camera_label=back-2"
-        ],
-        "sizes": [
-          {
-            "size": "Navy",
-            "variant_id": 118930,
-            "price": "43.85"
-          },
-          {
-            "size": "Sport Grey",
-            "variant_id": 118931,
-            "price": "43.85"
-          }
-        ]
-      },
-      {
-        "name": "M",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Navy",
-            "variant_id": 118934,
-            "price": "43.85"
-          },
-          {
-            "size": "Sport Grey",
-            "variant_id": 118935,
-            "price": "43.85"
-          }
-        ]
-      },
-      {
-        "name": "S",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Navy",
-            "variant_id": 118938,
-            "price": "43.85"
-          },
-          {
-            "size": "Sport Grey",
-            "variant_id": 118939,
-            "price": "43.85"
-          }
-        ]
-      },
-      {
-        "name": "XL",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Navy",
-            "variant_id": 118942,
-            "price": "43.85"
-          },
-          {
-            "size": "Sport Grey",
-            "variant_id": 118943,
-            "price": "43.85"
-          }
-        ]
-      }
-    ],
-    "all_sizes": [
-      "Navy",
-      "Sport Grey"
-    ],
-    "buy_url": "https://printify.com/app/store/products/6a980463b3f0d4a9ed017e0d"
-  },
-  {
     "id": "6a9801a3b3f0d4a9ed017dc5",
     "title": "TRUST-ISSUES",
     "description": "A mid-weight fleece hoodie with a bold, graphic front that channels underground music and streetwear energy. The soft three-end fleece interior and smooth cotton exterior make this hoodie feel lived-in from day one. A roomy kangaroo pocket and adjustable hood with metal-grommet drawstrings add everyday utility, while clean construction—double-needle topstitching, necktape, and a tear-away label—keeps the silhouette tidy through regular wear. Subtle heather options and optional chest embroidery let you dial the look toward muted texture or crisp detail. Wear it to band practice, late-night drives, or when you want a quiet statement that still speaks loud.<br/><br/>Product features<br/>- Soft three-end fleece with smooth cotton exterior for a luxurious hand-feel<br/>- Adjustable hood with self-colored drawstrings and metal grommets<br/>- Roomy kangaroo pouch pocket to keep hands warm<br/>- Medium-heavy 8.25 oz fabric with under 5% shrinkage and durable double-needle seams<br/>- Available embroidery placement (left or center chest) and multiple heather blends including recycled fibers<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
-    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015115235-1f1c88ee-99ae-6384-ab12-7a4876d4f2e0.jpg",
-    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015115236-1f1c88ee-a2c5-6ca6-a240-d6c25deb4c43.jpg",
+    "image": "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99231/trust-issues.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99232/trust-issues.jpg?camera_label=back",
     "price": "32.77",
     "categories": [
       "New Arrivals"
@@ -5910,8 +5162,13 @@
       },
       {
         "name": "L",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99231/trust-issues.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99231/trust-issues.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/113117/99231/trust-issues.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99232/trust-issues.jpg?camera_label=back",
+          "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/113117/99232/trust-issues.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "Heather Grey",
