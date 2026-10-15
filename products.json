@@ -2776,180 +2776,11 @@
     "buy_url": "https://printify.com/app/store/products/6aa6438d0ebaea9d4603b2c6"
   },
   {
-    "id": "6aa641f310b7a229cd05b658",
-    "title": "Women's Boxy Tee — HOPE Blue Butterfly Graphic Crop Top",
-    "description": "This lightly cropped boxy tee brings a soft vintage vibe to everyday wear. The pigment-dyed cotton has a lived-in color and a sturdy weight that drapes with structure, while the slightly cropped, square silhouette gives it a modern, relaxed attitude. A subtle, artful graphic sits across the chest, adding quiet optimism without shouting for attention. Wear it with high-waisted jeans, layered under an open cardigan, or as a cool contrast to tailored pieces—this tee slips into routines where comfort meets thoughtful style.<br/><br/>Product features<br/>- 100% ring-spun cotton for a smooth, durable print surface<br/>- Boxy, slightly cropped fit for a modern, relaxed silhouette<br/>- Heavy fabric (6.1 oz/yd²) that holds shape and layers well<br/>- Pigment-dyed finish for a vintage, lived-in color with natural shade variation<br/>- Shoulder-to-shoulder twill tape and sewn-in label for long-lasting structure<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Non-chlorine: bleach as needed<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
-    "image": "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103828/100714/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=front",
-    "image_back": "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103828/100715/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=back",
-    "price": "31.22",
-    "categories": [
-      "Tees"
-    ],
-    "colors": [
-      {
-        "name": "Chalky Mint",
-        "image": "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103833/100714/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103833/100714/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103833/100715/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103833/100997/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=person-front",
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103833/101127/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=person-back"
-        ],
-        "sizes": [
-          {
-            "size": "XL",
-            "variant_id": 103834,
-            "price": "31.22"
-          },
-          {
-            "size": "L",
-            "variant_id": 103833,
-            "price": "31.22"
-          },
-          {
-            "size": "2XL",
-            "variant_id": 103835,
-            "price": "34.63"
-          },
-          {
-            "size": "S",
-            "variant_id": 103831,
-            "price": "31.22"
-          },
-          {
-            "size": "M",
-            "variant_id": 103832,
-            "price": "31.22"
-          }
-        ]
-      },
-      {
-        "name": "Pepper",
-        "image": "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103848/100714/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103848/100714/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103848/100715/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103848/100997/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=person-front",
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103848/101127/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=person-back"
-        ],
-        "sizes": [
-          {
-            "size": "L",
-            "variant_id": 103848,
-            "price": "31.22"
-          },
-          {
-            "size": "2XL",
-            "variant_id": 103850,
-            "price": "34.63"
-          },
-          {
-            "size": "M",
-            "variant_id": 103847,
-            "price": "31.22"
-          },
-          {
-            "size": "S",
-            "variant_id": 103846,
-            "price": "31.22"
-          },
-          {
-            "size": "XL",
-            "variant_id": 103849,
-            "price": "31.22"
-          }
-        ]
-      },
-      {
-        "name": "Butter",
-        "image": "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103828/100714/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103828/100714/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103828/100715/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103828/100997/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=person-front",
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/103828/101127/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=person-back"
-        ],
-        "sizes": [
-          {
-            "size": "2XL",
-            "variant_id": 103830,
-            "price": "34.63"
-          },
-          {
-            "size": "S",
-            "variant_id": 103826,
-            "price": "31.22"
-          },
-          {
-            "size": "L",
-            "variant_id": 103828,
-            "price": "31.22"
-          },
-          {
-            "size": "M",
-            "variant_id": 103827,
-            "price": "31.22"
-          },
-          {
-            "size": "XL",
-            "variant_id": 103829,
-            "price": "31.22"
-          }
-        ]
-      },
-      {
-        "name": "Black",
-        "image": "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/115090/100714/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/115090/100714/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/115090/100715/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/115090/100997/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=person-front",
-          "https://images-api.printify.com/mockup/6aa641f310b7a229cd05b658/115090/101127/womens-boxy-tee-hope-blue-butterfly-graphic-crop-top.jpg?camera_label=person-back"
-        ],
-        "sizes": [
-          {
-            "size": "2XL",
-            "variant_id": 115092,
-            "price": "34.63"
-          },
-          {
-            "size": "M",
-            "variant_id": 115089,
-            "price": "31.22"
-          },
-          {
-            "size": "L",
-            "variant_id": 115090,
-            "price": "31.22"
-          },
-          {
-            "size": "S",
-            "variant_id": 115088,
-            "price": "31.22"
-          },
-          {
-            "size": "XL",
-            "variant_id": 115091,
-            "price": "31.22"
-          }
-        ]
-      }
-    ],
-    "all_sizes": [
-      "XL",
-      "L",
-      "2XL",
-      "M",
-      "S"
-    ],
-    "buy_url": "https://printify.com/app/store/products/6aa641f310b7a229cd05b658"
-  },
-  {
     "id": "6aa543fc9850129ec30647e5",
     "title": "Hope Butterfly T-Shirt – Inspirational Cancer Awareness Tee",
     "description": "A relaxed, heavyweight tee that feels grounded and steady the moment you put it on. The oversized cut and forward-thrusted shoulder seam create an easy, drapey silhouette that suits layered streetwear or quiet weekend wear. A bold, hopeful graphic sits across the chest—clean white lettering with a burst of cool blue tones—giving the shirt subtle visual impact without shouting. Thick 7.5 oz USA-spun cotton and reinforced stitching at the neck, sleeves, and hem mean this shirt holds shape and print through repeat wear. Wear it while running errands, meeting friends for a low-key coffee, or as a calm, steady layer during cause-driven meetups and community events.<br/><br/>Product features<br/>- 100% USA-spun heavyweight cotton (7.5 oz / 245–255 GSM) for durability and smooth print surface<br/>- Oversized, relaxed fit with slight drop shoulder and forward-thrusted shoulder seam for comfortable drape<br/>- Reinforced construction: shoulder-to-shoulder neck tape, double-needle stitched neck, sleeve, and bottom hems<br/>- Stretch-proof 1\" collar with satin/woven label; quarter-turned to eliminate center crease<br/>- Size range S–7XL; Heather and Charcoal blends contain polyester (Heather 90/10, Charcoal 50/50)<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Non-chlorine: bleach as needed<br/>- Tumble dry: no heat<br/>- Do not iron<br/>- Do not dryclean<br/>",
-    "image": "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117479/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
-    "image_back": "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117479/127482/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=back",
+    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015114839-1f1c88e5-cf5e-62bc-bed4-fa73963e5905.jpg",
+    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015114839-1f1c88e5-cbab-6cc8-9f59-a2dfece614b5.jpg",
     "price": "29.67",
     "categories": [
       "Tees"
@@ -2957,13 +2788,8 @@
     "colors": [
       {
         "name": "Black",
-        "image": "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117441/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117441/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117441/127482/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117441/137315/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117441/137316/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=right-sleeve"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "2XL",
@@ -3014,13 +2840,8 @@
       },
       {
         "name": "Charcoal Grey",
-        "image": "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117471/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117471/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117471/127482/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117471/137315/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117471/137316/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=right-sleeve"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "S",
@@ -3070,71 +2891,9 @@
         ]
       },
       {
-        "name": "Dark Grey",
-        "image": "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117479/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117479/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117479/127482/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117479/137315/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117479/137316/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=right-sleeve"
-        ],
-        "sizes": [
-          {
-            "size": "S",
-            "variant_id": 117477,
-            "price": "29.67"
-          },
-          {
-            "size": "M",
-            "variant_id": 117478,
-            "price": "29.67"
-          },
-          {
-            "size": "L",
-            "variant_id": 117479,
-            "price": "29.67"
-          },
-          {
-            "size": "XL",
-            "variant_id": 117480,
-            "price": "29.67"
-          },
-          {
-            "size": "2XL",
-            "variant_id": 117481,
-            "price": "35.22"
-          },
-          {
-            "size": "3XL",
-            "variant_id": 117482,
-            "price": "39.15"
-          },
-          {
-            "size": "4XL",
-            "variant_id": 117483,
-            "price": "39.82"
-          },
-          {
-            "size": "5XL",
-            "variant_id": 117484,
-            "price": "42.83"
-          },
-          {
-            "size": "7XL",
-            "variant_id": 117618,
-            "price": "41.65"
-          }
-        ]
-      },
-      {
         "name": "Heather Grey",
-        "image": "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117495/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117495/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117495/127482/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117495/137315/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117495/137316/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=right-sleeve"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "S",
@@ -3179,120 +2938,6 @@
           {
             "size": "7XL",
             "variant_id": 117620,
-            "price": "41.65"
-          }
-        ]
-      },
-      {
-        "name": "Hunter Green",
-        "image": "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117503/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117503/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117503/127482/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117503/137315/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117503/137316/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=right-sleeve"
-        ],
-        "sizes": [
-          {
-            "size": "S",
-            "variant_id": 117501,
-            "price": "29.67"
-          },
-          {
-            "size": "M",
-            "variant_id": 117502,
-            "price": "29.67"
-          },
-          {
-            "size": "L",
-            "variant_id": 117503,
-            "price": "29.67"
-          },
-          {
-            "size": "XL",
-            "variant_id": 117504,
-            "price": "29.67"
-          },
-          {
-            "size": "2XL",
-            "variant_id": 117505,
-            "price": "35.22"
-          },
-          {
-            "size": "3XL",
-            "variant_id": 117506,
-            "price": "39.15"
-          },
-          {
-            "size": "4XL",
-            "variant_id": 117507,
-            "price": "39.82"
-          },
-          {
-            "size": "5XL",
-            "variant_id": 117508,
-            "price": "42.83"
-          },
-          {
-            "size": "7XL",
-            "variant_id": 117621,
-            "price": "41.65"
-          }
-        ]
-      },
-      {
-        "name": "Navy",
-        "image": "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117527/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117527/127480/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117527/127482/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117527/137315/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=left-sleeve",
-          "https://images-api.printify.com/mockup/6aa543fc9850129ec30647e5/117527/137316/hope-butterfly-t-shirt-inspirational-cancer-awareness-tee.jpg?camera_label=right-sleeve"
-        ],
-        "sizes": [
-          {
-            "size": "S",
-            "variant_id": 117525,
-            "price": "29.67"
-          },
-          {
-            "size": "M",
-            "variant_id": 117526,
-            "price": "29.67"
-          },
-          {
-            "size": "L",
-            "variant_id": 117527,
-            "price": "29.67"
-          },
-          {
-            "size": "XL",
-            "variant_id": 117528,
-            "price": "29.67"
-          },
-          {
-            "size": "2XL",
-            "variant_id": 117529,
-            "price": "35.22"
-          },
-          {
-            "size": "3XL",
-            "variant_id": 117530,
-            "price": "39.15"
-          },
-          {
-            "size": "4XL",
-            "variant_id": 117531,
-            "price": "39.82"
-          },
-          {
-            "size": "5XL",
-            "variant_id": 117532,
-            "price": "42.83"
-          },
-          {
-            "size": "7XL",
-            "variant_id": 117624,
             "price": "41.65"
           }
         ]
@@ -4218,8 +3863,8 @@
     "id": "6a9ab3922599dacaea0e83c2",
     "title": "PEAK-CAP",
     "description": "A clean, breathable trucker cap designed for sunny days on the road or low-key evenings around the fire. The structured mid-profile front holds its shape while the hard buckram gives a crisp, classic silhouette. A row of subtle embroidered dots across the front adds quiet, modern detail — an understated emblem that reads as minimalist and thoughtful. The curved Permacurv® visor keeps sun out of your eyes; the matching undervisor keeps the look cohesive. Lightweight mesh at the back lets air pass through so your head stays cool when the pace picks up. Adjustable snap closure means easy sizing for most adults. Wear it on morning coffee runs, weekend drives, or while swapping stories with friends — it blends into active, outdoorsy rhythms without shouting for attention.<br/><br/>Product features<br/>- Structured mid-profile six-panel with hard buckram front for a crisp shape<br/>- Pre-curved Permacurv® visor with matching undervisor and eight rows of stitching<br/>- Breathable 100% polyester mesh back to reduce heat and sweat<br/>- Adjustable plastic snap closure and cotton sweatband for comfort and fit<br/>- Front panel: 60% cotton/40% polyester; meets lead, bisphenols and phthalates requirements<br/><br/>Care instructions<br/>- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.<br/>",
-    "image": "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102226/peak-cap.jpg?camera_label=front",
-    "image_back": "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102253/peak-cap.jpg?camera_label=back",
+    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015112439-1f1c88b0-265e-6764-8761-3ee05d0d2e22.jpg",
+    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015112439-1f1c88b0-2ce4-6df4-90b9-fa73963e5905.jpg",
     "price": "25.29",
     "categories": [
       "Peak Caps"
@@ -4227,11 +3872,8 @@
     "colors": [
       {
         "name": "Khaki",
-        "image": "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102226/peak-cap.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102226/peak-cap.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102253/peak-cap.jpg?camera_label=back"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "Brown",
@@ -4242,11 +3884,8 @@
       },
       {
         "name": "White",
-        "image": "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105364/102226/peak-cap.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105364/102226/peak-cap.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105364/102253/peak-cap.jpg?camera_label=back"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "Black",
@@ -5343,8 +4982,8 @@
     "id": "6a980479b3f0d4a9ed017e11",
     "title": "DON'T OVERTHINK IT!!",
     "description": "This relaxed, garment-dyed tee carries a calm, reassuring message: “Don’t overthink it.” The warm, earthy color and soft, worn-in texture invite slow breathes and easy afternoons. Heavyweight ring-spun cotton gives the shirt substance without stiffness; the slightly boxy, relaxed cut drapes casually over jeans, an oversized cardigan, or layered under a flannel. The minimalist typographic design reads like a friend nudging you back into the moment — an everyday reminder to choose presence over worry. Wear it to errands, weekend coffee runs, creative sessions, or low-key gatherings when you want comfort and quiet confidence to speak for you.<br/><br/>Product features<br/>- 100% ring-spun US cotton for durable, breathable comfort<br/>- Garment-dyed finish for a soft, lived-in color and texture<br/>- Heavyweight 6.1 oz fabric with relaxed fit for substantial, casual wear<br/>- Tubular knit (no side seams) and double-needle stitching for lasting construction<br/>- Available S–4XL with pre-shrunk sizing and sewn-in label<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
-    "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98445/dont-overthink-it.jpg?camera_label=front",
-    "image_back": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98446/dont-overthink-it.jpg?camera_label=back",
+    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015113845-1f1c88cf-a9e7-6cec-9acb-d6c25deb4c43.jpg",
+    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015113846-1f1c88cf-ba65-6db2-b49d-267f034efd08.jpg",
     "price": "20.68",
     "categories": [
       "Tees"
@@ -5352,11 +4991,8 @@
     "colors": [
       {
         "name": "Graphite",
-        "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98445/dont-overthink-it.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98445/dont-overthink-it.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98446/dont-overthink-it.jpg?camera_label=back"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "3XL",
@@ -5397,11 +5033,8 @@
       },
       {
         "name": "Yam",
-        "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/79108/98445/dont-overthink-it.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/79108/98445/dont-overthink-it.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/79108/98446/dont-overthink-it.jpg?camera_label=back"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "3XL",
@@ -5442,11 +5075,8 @@
       },
       {
         "name": "Navy",
-        "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/73205/98445/dont-overthink-it.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/73205/98445/dont-overthink-it.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/73205/98446/dont-overthink-it.jpg?camera_label=back"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "3XL",
@@ -5487,11 +5117,8 @@
       },
       {
         "name": "Hemp",
-        "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78983/98445/dont-overthink-it.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78983/98445/dont-overthink-it.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78983/98446/dont-overthink-it.jpg?camera_label=back"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "3XL",
@@ -5800,8 +5427,8 @@
     "id": "6a98046cb3f0d4a9ed017e0f",
     "title": "FATALITY",
     "description": "A heavyweight garment-dyed tee that wears in like an old favorite. The relaxed cut and soft, washed color give it a lived-in feel while the bold “FATALITY” text and floral skull artwork bring a moody, artful edge. Picture this shirt tossed on for a late-night drive, a low-lit show, or a weekend of crate-digging — it layers easily under a worn denim jacket or stands out on its own. The muted earth tone and coral-accent print age together as the cotton softens, so each wear adds character. It’s for people who collect stories in shirts and prefer pieces that look like they’ve been part of the story from the start.<br/><br/>Product features<br/>- 100% ring-spun US cotton — pre-shrunk and heavyweight for durability and a substantial feel<br/>- Garment-dyed finish for a soft, vintage color and lived-in texture<br/>- Relaxed fit with no side seams and double-needle stitched hems for long-lasting construction<br/>- Available in sizes S–4XL with sewn-in label and a broad palette of 58 colors<br/>- 6.1 oz/yd² heavyweight fabric that layers well and holds graphic detail<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
-    "image": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98445/fatality.jpg?camera_label=front",
-    "image_back": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98446/fatality.jpg?camera_label=back",
+    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015113207-1f1c88c0-d975-6626-88bb-62c1c2644b53.jpg",
+    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015113207-1f1c88c0-d9bc-6a9e-aa64-fa73963e5905.jpg",
     "price": "21.13",
     "categories": [
       "Tees"
@@ -5809,11 +5436,8 @@
     "colors": [
       {
         "name": "Graphite",
-        "image": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98445/fatality.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98445/fatality.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98446/fatality.jpg?camera_label=back"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "3XL",
@@ -5854,11 +5478,8 @@
       },
       {
         "name": "Black",
-        "image": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/73204/98445/fatality.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/73204/98445/fatality.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/73204/98446/fatality.jpg?camera_label=back"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "3XL",
@@ -5899,11 +5520,8 @@
       },
       {
         "name": "Hemp",
-        "image": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78983/98445/fatality.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78983/98445/fatality.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78983/98446/fatality.jpg?camera_label=back"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "3XL",
@@ -6266,8 +5884,8 @@
     "id": "6a9801a3b3f0d4a9ed017dc5",
     "title": "TRUST-ISSUES",
     "description": "A mid-weight fleece hoodie with a bold, graphic front that channels underground music and streetwear energy. The soft three-end fleece interior and smooth cotton exterior make this hoodie feel lived-in from day one. A roomy kangaroo pocket and adjustable hood with metal-grommet drawstrings add everyday utility, while clean construction—double-needle topstitching, necktape, and a tear-away label—keeps the silhouette tidy through regular wear. Subtle heather options and optional chest embroidery let you dial the look toward muted texture or crisp detail. Wear it to band practice, late-night drives, or when you want a quiet statement that still speaks loud.<br/><br/>Product features<br/>- Soft three-end fleece with smooth cotton exterior for a luxurious hand-feel<br/>- Adjustable hood with self-colored drawstrings and metal grommets<br/>- Roomy kangaroo pouch pocket to keep hands warm<br/>- Medium-heavy 8.25 oz fabric with under 5% shrinkage and durable double-needle seams<br/>- Available embroidery placement (left or center chest) and multiple heather blends including recycled fibers<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
-    "image": "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99231/trust-issues.jpg?camera_label=front",
-    "image_back": "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99232/trust-issues.jpg?camera_label=back",
+    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015115235-1f1c88ee-99ae-6384-ab12-7a4876d4f2e0.jpg",
+    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015115236-1f1c88ee-a2c5-6ca6-a240-d6c25deb4c43.jpg",
     "price": "32.77",
     "categories": [
       "New Arrivals"
@@ -6292,13 +5910,8 @@
       },
       {
         "name": "L",
-        "image": "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99231/trust-issues.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99231/trust-issues.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/113117/99231/trust-issues.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99232/trust-issues.jpg?camera_label=back",
-          "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/113117/99232/trust-issues.jpg?camera_label=back"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "Heather Grey",
