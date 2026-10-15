@@ -4218,8 +4218,8 @@
     "id": "6a9ab3922599dacaea0e83c2",
     "title": "PEAK-CAP",
     "description": "A clean, breathable trucker cap designed for sunny days on the road or low-key evenings around the fire. The structured mid-profile front holds its shape while the hard buckram gives a crisp, classic silhouette. A row of subtle embroidered dots across the front adds quiet, modern detail — an understated emblem that reads as minimalist and thoughtful. The curved Permacurv® visor keeps sun out of your eyes; the matching undervisor keeps the look cohesive. Lightweight mesh at the back lets air pass through so your head stays cool when the pace picks up. Adjustable snap closure means easy sizing for most adults. Wear it on morning coffee runs, weekend drives, or while swapping stories with friends — it blends into active, outdoorsy rhythms without shouting for attention.<br/><br/>Product features<br/>- Structured mid-profile six-panel with hard buckram front for a crisp shape<br/>- Pre-curved Permacurv® visor with matching undervisor and eight rows of stitching<br/>- Breathable 100% polyester mesh back to reduce heat and sweat<br/>- Adjustable plastic snap closure and cotton sweatband for comfort and fit<br/>- Front panel: 60% cotton/40% polyester; meets lead, bisphenols and phthalates requirements<br/><br/>Care instructions<br/>- Use warm water and dish soap and clean spots off your hat. It's not necessary to soak the whole item. For hard to clean spots use a soft bristled brush.<br/>",
-    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/09/20260907085239-1f1aa997-b257-6972-a720-329fce6c26b7.png",
-    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/09/20260908100307-1f1ab6c7-d362-6af8-a30f-86600736e4ba.png",
+    "image": "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102226/peak-cap.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102253/peak-cap.jpg?camera_label=back",
     "price": "25.29",
     "categories": [
       "Peak Caps"
@@ -4227,8 +4227,11 @@
     "colors": [
       {
         "name": "Khaki",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102226/peak-cap.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102226/peak-cap.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105365/102253/peak-cap.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "Brown",
@@ -4239,29 +4242,15 @@
       },
       {
         "name": "White",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105364/102226/peak-cap.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105364/102226/peak-cap.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a9ab3922599dacaea0e83c2/105364/102253/peak-cap.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "Black",
             "variant_id": 105364,
-            "price": "25.29"
-          },
-          {
-            "size": "Navy",
-            "variant_id": 105371,
-            "price": "25.29"
-          }
-        ]
-      },
-      {
-        "name": "One size",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Charcoal",
-            "variant_id": 117876,
             "price": "25.29"
           }
         ]
@@ -4269,9 +4258,7 @@
     ],
     "all_sizes": [
       "Brown",
-      "Black",
-      "Navy",
-      "Charcoal"
+      "Black"
     ],
     "buy_url": "https://printify.com/app/store/products/6a9ab3922599dacaea0e83c2"
   },
@@ -4527,8 +4514,8 @@
     "id": "6a9804a3b3f0d4a9ed017e23",
     "title": "LIFE",
     "description": "This heavyweight garment-dyed tee feels lived-in from the first wear. The front reads a stark, single-word statement while the back bursts with colorful, hand-lettered energy—“Can’t Stop Won’t Stop”—framed by lush botanical swirls and retro flourishes. The relaxed fit and soft, post-dye finish make it a go-to for days when you want comfort without losing personality. It’s the kind of shirt you pull on for long creative sessions, weekend road trips, or nights out when the vibe is louder than words. The sewn-in label and durable double-needle stitching mean this tee becomes part of your rotation for seasons, not just a moment. Available in a wide palette of muted, washed colors so the print pops and the fabric feels supple from wash one.<br/><br/>Product features<br/>- 100% ring-spun US cotton with garment-dyed softness<br/>- Heavyweight 6.1 oz fabric with relaxed, pre-shrunk fit<br/>- Double-needle stitched seams for long-lasting wear<br/>- Tubular knit (no side seams) and sewn-in label for clean finish<br/>- Sizes S–4XL; available in 58 washed colors<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
-    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/09/20260902115329-1f1a6c4e-a1b8-6336-b082-4286d1bb8132.png",
-    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/09/20260902124109-1f1a6cb9-2e0b-6710-8648-0e3cf4364f20.png",
+    "image": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98445/life.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98446/life.jpg?camera_label=back",
     "price": "25.63",
     "categories": [
       "Tees"
@@ -4536,8 +4523,11 @@
     "colors": [
       {
         "name": "Graphite",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98445/life.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98445/life.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98446/life.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -4578,8 +4568,11 @@
       },
       {
         "name": "Chili",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78928/98445/life.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78928/98445/life.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78928/98446/life.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -4620,8 +4613,11 @@
       },
       {
         "name": "Berry",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78883/98445/life.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78883/98445/life.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78883/98446/life.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -4662,8 +4658,11 @@
       },
       {
         "name": "Hemp",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78983/98445/life.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78983/98445/life.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78983/98446/life.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -5440,17 +5439,20 @@
     "id": "6a980479b3f0d4a9ed017e11",
     "title": "DON'T OVERTHINK IT!!",
     "description": "This relaxed, garment-dyed tee carries a calm, reassuring message: “Don’t overthink it.” The warm, earthy color and soft, worn-in texture invite slow breathes and easy afternoons. Heavyweight ring-spun cotton gives the shirt substance without stiffness; the slightly boxy, relaxed cut drapes casually over jeans, an oversized cardigan, or layered under a flannel. The minimalist typographic design reads like a friend nudging you back into the moment — an everyday reminder to choose presence over worry. Wear it to errands, weekend coffee runs, creative sessions, or low-key gatherings when you want comfort and quiet confidence to speak for you.<br/><br/>Product features<br/>- 100% ring-spun US cotton for durable, breathable comfort<br/>- Garment-dyed finish for a soft, lived-in color and texture<br/>- Heavyweight 6.1 oz fabric with relaxed fit for substantial, casual wear<br/>- Tubular knit (no side seams) and double-needle stitching for lasting construction<br/>- Available S–4XL with pre-shrunk sizing and sewn-in label<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
-    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/09/20260904113801-1f1a8551-5a7d-61f8-9d08-1252edfa0a86.png",
-    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/09/20260904113728-1f1a8550-1faf-6bf8-98c4-3a317b0fa6aa.png",
-    "price": "25.85",
+    "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98445/dont-overthink-it.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98446/dont-overthink-it.jpg?camera_label=back",
+    "price": "20.68",
     "categories": [
       "Tees"
     ],
     "colors": [
       {
         "name": "Graphite",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98445/dont-overthink-it.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98445/dont-overthink-it.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78963/98446/dont-overthink-it.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -5490,51 +5492,12 @@
         ]
       },
       {
-        "name": "True Navy",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "3XL",
-            "variant_id": 79164,
-            "price": "32.73"
-          },
-          {
-            "size": "L",
-            "variant_id": 79083,
-            "price": "25.85"
-          },
-          {
-            "size": "S",
-            "variant_id": 79081,
-            "price": "25.85"
-          },
-          {
-            "size": "M",
-            "variant_id": 79082,
-            "price": "25.85"
-          },
-          {
-            "size": "XL",
-            "variant_id": 79084,
-            "price": "25.85"
-          },
-          {
-            "size": "2XL",
-            "variant_id": 79085,
-            "price": "28.48"
-          },
-          {
-            "size": "4XL",
-            "variant_id": 101471,
-            "price": "36.79"
-          }
-        ]
-      },
-      {
         "name": "Yam",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/79108/98445/dont-overthink-it.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/79108/98445/dont-overthink-it.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/79108/98446/dont-overthink-it.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -5574,135 +5537,57 @@
         ]
       },
       {
-        "name": "Berry",
-        "image": null,
-        "images": [],
+        "name": "Navy",
+        "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/73205/98445/dont-overthink-it.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/73205/98445/dont-overthink-it.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/73205/98446/dont-overthink-it.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
-            "variant_id": 79113,
-            "price": "32.73"
-          },
-          {
-            "size": "L",
-            "variant_id": 78883,
-            "price": "25.85"
-          },
-          {
-            "size": "XL",
-            "variant_id": 78884,
-            "price": "25.85"
+            "variant_id": 79152,
+            "price": "26.18"
           },
           {
             "size": "S",
-            "variant_id": 78881,
-            "price": "25.85"
-          },
-          {
-            "size": "M",
-            "variant_id": 78882,
-            "price": "25.85"
-          },
-          {
-            "size": "2XL",
-            "variant_id": 78885,
-            "price": "28.48"
-          },
-          {
-            "size": "4XL",
-            "variant_id": 101422,
-            "price": "36.79"
-          }
-        ]
-      },
-      {
-        "name": "Khaki",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "3XL",
-            "variant_id": 79143,
-            "price": "32.73"
-          },
-          {
-            "size": "L",
-            "variant_id": 78998,
-            "price": "25.85"
-          },
-          {
-            "size": "M",
-            "variant_id": 78997,
-            "price": "25.85"
+            "variant_id": 73197,
+            "price": "20.68"
           },
           {
             "size": "XL",
-            "variant_id": 78999,
-            "price": "25.85"
-          },
-          {
-            "size": "S",
-            "variant_id": 78996,
-            "price": "25.85"
-          },
-          {
-            "size": "2XL",
-            "variant_id": 79000,
-            "price": "28.48"
-          },
-          {
-            "size": "4XL",
-            "variant_id": 101451,
-            "price": "36.79"
-          }
-        ]
-      },
-      {
-        "name": "Denim",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "3XL",
-            "variant_id": 79130,
-            "price": "32.73"
+            "variant_id": 73209,
+            "price": "20.68"
           },
           {
             "size": "M",
-            "variant_id": 78947,
-            "price": "25.85"
-          },
-          {
-            "size": "XL",
-            "variant_id": 78949,
-            "price": "25.85"
+            "variant_id": 73201,
+            "price": "20.68"
           },
           {
             "size": "L",
-            "variant_id": 78948,
-            "price": "25.85"
-          },
-          {
-            "size": "S",
-            "variant_id": 78946,
-            "price": "25.85"
+            "variant_id": 73205,
+            "price": "20.68"
           },
           {
             "size": "2XL",
-            "variant_id": 78950,
-            "price": "28.48"
+            "variant_id": 73213,
+            "price": "22.78"
           },
           {
             "size": "4XL",
-            "variant_id": 101439,
-            "price": "36.79"
+            "variant_id": 101460,
+            "price": "29.43"
           }
         ]
       },
       {
         "name": "Hemp",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78983/98445/dont-overthink-it.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78983/98445/dont-overthink-it.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a980479b3f0d4a9ed017e11/78983/98446/dont-overthink-it.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -5744,10 +5629,10 @@
     ],
     "all_sizes": [
       "3XL",
+      "S",
+      "XL",
       "M",
       "L",
-      "XL",
-      "S",
       "2XL",
       "4XL"
     ],
@@ -6011,8 +5896,8 @@
     "id": "6a98046cb3f0d4a9ed017e0f",
     "title": "FATALITY",
     "description": "A heavyweight garment-dyed tee that wears in like an old favorite. The relaxed cut and soft, washed color give it a lived-in feel while the bold “FATALITY” text and floral skull artwork bring a moody, artful edge. Picture this shirt tossed on for a late-night drive, a low-lit show, or a weekend of crate-digging — it layers easily under a worn denim jacket or stands out on its own. The muted earth tone and coral-accent print age together as the cotton softens, so each wear adds character. It’s for people who collect stories in shirts and prefer pieces that look like they’ve been part of the story from the start.<br/><br/>Product features<br/>- 100% ring-spun US cotton — pre-shrunk and heavyweight for durability and a substantial feel<br/>- Garment-dyed finish for a soft, vintage color and lived-in texture<br/>- Relaxed fit with no side seams and double-needle stitched hems for long-lasting construction<br/>- Available in sizes S–4XL with sewn-in label and a broad palette of 58 colors<br/>- 6.1 oz/yd² heavyweight fabric that layers well and holds graphic detail<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
-    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/09/20260904124335-1f1a85e3-e7a5-6520-a1b4-f6daf936684e.png",
-    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/09/20260904124333-1f1a85e3-d118-6ba4-b995-26ae01f6ad45.png",
+    "image": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98445/fatality.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98446/fatality.jpg?camera_label=back",
     "price": "21.13",
     "categories": [
       "Tees"
@@ -6020,8 +5905,11 @@
     "colors": [
       {
         "name": "Graphite",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98445/fatality.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98445/fatality.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78963/98446/fatality.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -6061,51 +5949,12 @@
         ]
       },
       {
-        "name": "Berry",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "3XL",
-            "variant_id": 79113,
-            "price": "26.77"
-          },
-          {
-            "size": "L",
-            "variant_id": 78883,
-            "price": "21.13"
-          },
-          {
-            "size": "XL",
-            "variant_id": 78884,
-            "price": "21.13"
-          },
-          {
-            "size": "S",
-            "variant_id": 78881,
-            "price": "21.13"
-          },
-          {
-            "size": "M",
-            "variant_id": 78882,
-            "price": "21.13"
-          },
-          {
-            "size": "2XL",
-            "variant_id": 78885,
-            "price": "23.23"
-          },
-          {
-            "size": "4XL",
-            "variant_id": 101422,
-            "price": "30.40"
-          }
-        ]
-      },
-      {
         "name": "Black",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/73204/98445/fatality.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/73204/98445/fatality.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/73204/98446/fatality.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -6146,8 +5995,11 @@
       },
       {
         "name": "Hemp",
-        "image": null,
-        "images": [],
+        "image": "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78983/98445/fatality.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78983/98445/fatality.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a98046cb3f0d4a9ed017e0f/78983/98446/fatality.jpg?camera_label=back"
+        ],
         "sizes": [
           {
             "size": "3XL",
@@ -6510,45 +6362,13 @@
     "id": "6a9801a3b3f0d4a9ed017dc5",
     "title": "TRUST-ISSUES",
     "description": "A mid-weight fleece hoodie with a bold, graphic front that channels underground music and streetwear energy. The soft three-end fleece interior and smooth cotton exterior make this hoodie feel lived-in from day one. A roomy kangaroo pocket and adjustable hood with metal-grommet drawstrings add everyday utility, while clean construction—double-needle topstitching, necktape, and a tear-away label—keeps the silhouette tidy through regular wear. Subtle heather options and optional chest embroidery let you dial the look toward muted texture or crisp detail. Wear it to band practice, late-night drives, or when you want a quiet statement that still speaks loud.<br/><br/>Product features<br/>- Soft three-end fleece with smooth cotton exterior for a luxurious hand-feel<br/>- Adjustable hood with self-colored drawstrings and metal grommets<br/>- Roomy kangaroo pouch pocket to keep hands warm<br/>- Medium-heavy 8.25 oz fabric with under 5% shrinkage and durable double-needle seams<br/>- Available embroidery placement (left or center chest) and multiple heather blends including recycled fibers<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
-    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/09/20260902105947-1f1a6bd6-9d7c-68b2-bae7-0e3cf4364f20.png",
-    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/09/20260902105948-1f1a6bd6-a0e9-64be-a76a-42951289fb60.png",
-    "price": "32.69",
+    "image": "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99231/trust-issues.jpg?camera_label=front",
+    "image_back": "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99232/trust-issues.jpg?camera_label=back",
+    "price": "32.77",
     "categories": [
       "New Arrivals"
     ],
     "colors": [
-      {
-        "name": "L",
-        "image": null,
-        "images": [],
-        "sizes": [
-          {
-            "size": "Oatmeal Heather",
-            "variant_id": 62277,
-            "price": "32.77"
-          },
-          {
-            "size": "Heather Grey",
-            "variant_id": 62275,
-            "price": "32.77"
-          },
-          {
-            "size": "Sports Green",
-            "variant_id": 113110,
-            "price": "32.77"
-          },
-          {
-            "size": "Sandshell",
-            "variant_id": 113117,
-            "price": "32.77"
-          },
-          {
-            "size": "Army Green",
-            "variant_id": 68028,
-            "price": "32.77"
-          }
-        ]
-      },
       {
         "name": "M",
         "image": null,
@@ -6560,21 +6380,6 @@
             "price": "32.77"
           },
           {
-            "size": "Oatmeal Heather",
-            "variant_id": 62272,
-            "price": "32.77"
-          },
-          {
-            "size": "Army Green",
-            "variant_id": 68027,
-            "price": "32.77"
-          },
-          {
-            "size": "Sports Green",
-            "variant_id": 113109,
-            "price": "32.77"
-          },
-          {
             "size": "Sandshell",
             "variant_id": 113116,
             "price": "32.77"
@@ -6582,33 +6387,23 @@
         ]
       },
       {
-        "name": "XL",
-        "image": null,
-        "images": [],
+        "name": "L",
+        "image": "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99231/trust-issues.jpg?camera_label=front",
+        "images": [
+          "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99231/trust-issues.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/113117/99231/trust-issues.jpg?camera_label=front",
+          "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/62275/99232/trust-issues.jpg?camera_label=back",
+          "https://images-api.printify.com/mockup/6a9801a3b3f0d4a9ed017dc5/113117/99232/trust-issues.jpg?camera_label=back"
+        ],
         "sizes": [
           {
-            "size": "Oatmeal Heather",
-            "variant_id": 62282,
-            "price": "32.77"
-          },
-          {
             "size": "Heather Grey",
-            "variant_id": 62280,
+            "variant_id": 62275,
             "price": "32.77"
-          },
-          {
-            "size": "Army Green",
-            "variant_id": 68029,
-            "price": "32.69"
           },
           {
             "size": "Sandshell",
-            "variant_id": 113118,
-            "price": "32.77"
-          },
-          {
-            "size": "Sports Green",
-            "variant_id": 113111,
+            "variant_id": 113117,
             "price": "32.77"
           }
         ]
@@ -6619,28 +6414,30 @@
         "images": [],
         "sizes": [
           {
-            "size": "Oatmeal Heather",
-            "variant_id": 62267,
-            "price": "32.77"
-          },
-          {
             "size": "Heather Grey",
             "variant_id": 62265,
-            "price": "32.77"
-          },
-          {
-            "size": "Army Green",
-            "variant_id": 68026,
             "price": "32.77"
           },
           {
             "size": "Sandshell",
             "variant_id": 113115,
             "price": "32.77"
+          }
+        ]
+      },
+      {
+        "name": "XL",
+        "image": null,
+        "images": [],
+        "sizes": [
+          {
+            "size": "Heather Grey",
+            "variant_id": 62280,
+            "price": "32.77"
           },
           {
-            "size": "Sports Green",
-            "variant_id": 113108,
+            "size": "Sandshell",
+            "variant_id": 113118,
             "price": "32.77"
           }
         ]
@@ -6653,16 +6450,6 @@
           {
             "size": "Heather Grey",
             "variant_id": 98955,
-            "price": "35.97"
-          },
-          {
-            "size": "Army Green",
-            "variant_id": 98951,
-            "price": "35.97"
-          },
-          {
-            "size": "Oatmeal Heather",
-            "variant_id": 98958,
             "price": "35.97"
           },
           {
@@ -6683,23 +6470,8 @@
             "price": "34.51"
           },
           {
-            "size": "Oatmeal Heather",
-            "variant_id": 62287,
-            "price": "34.51"
-          },
-          {
-            "size": "Army Green",
-            "variant_id": 68030,
-            "price": "35.41"
-          },
-          {
             "size": "Sandshell",
             "variant_id": 113119,
-            "price": "34.51"
-          },
-          {
-            "size": "Sports Green",
-            "variant_id": 113112,
             "price": "34.51"
           }
         ]
@@ -6713,26 +6485,13 @@
             "size": "Heather Grey",
             "variant_id": 68157,
             "price": "32.77"
-          },
-          {
-            "size": "Army Green",
-            "variant_id": 68153,
-            "price": "32.77"
-          },
-          {
-            "size": "Oatmeal Heather",
-            "variant_id": 68160,
-            "price": "32.77"
           }
         ]
       }
     ],
     "all_sizes": [
-      "Oatmeal Heather",
       "Heather Grey",
-      "Army Green",
-      "Sandshell",
-      "Sports Green"
+      "Sandshell"
     ],
     "buy_url": "https://printify.com/app/store/products/6a9801a3b3f0d4a9ed017dc5"
   }
