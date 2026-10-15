@@ -558,7 +558,7 @@
   let priceMin = 0;
   let priceMax = 9999;
 
-  fetch('products.json')
+  fetch('products.json?v=2')
     .then(res => res.json())
     .then(products => {
       allProducts = products;
