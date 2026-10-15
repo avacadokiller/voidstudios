@@ -4514,8 +4514,8 @@
     "id": "6a9804a3b3f0d4a9ed017e23",
     "title": "LIFE",
     "description": "This heavyweight garment-dyed tee feels lived-in from the first wear. The front reads a stark, single-word statement while the back bursts with colorful, hand-lettered energy—“Can’t Stop Won’t Stop”—framed by lush botanical swirls and retro flourishes. The relaxed fit and soft, post-dye finish make it a go-to for days when you want comfort without losing personality. It’s the kind of shirt you pull on for long creative sessions, weekend road trips, or nights out when the vibe is louder than words. The sewn-in label and durable double-needle stitching mean this tee becomes part of your rotation for seasons, not just a moment. Available in a wide palette of muted, washed colors so the print pops and the fabric feels supple from wash one.<br/><br/>Product features<br/>- 100% ring-spun US cotton with garment-dyed softness<br/>- Heavyweight 6.1 oz fabric with relaxed, pre-shrunk fit<br/>- Double-needle stitched seams for long-lasting wear<br/>- Tubular knit (no side seams) and sewn-in label for clean finish<br/>- Sizes S–4XL; available in 58 washed colors<br/><br/>Care instructions<br/>- Machine wash: cold (max 30C or 90F)<br/>- Do not bleach<br/>- Tumble dry: low heat<br/>- Iron, steam or dry: low heat<br/>- Do not dryclean<br/>",
-    "image": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98445/life.jpg?camera_label=front",
-    "image_back": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98446/life.jpg?camera_label=back",
+    "image": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015110606-1f1c8886-b5b9-62e4-853b-d69ca974248e.jpg",
+    "image_back": "https://d123s6f1z9g2wk.cloudfront.net/files/2026/10/20261015110607-1f1c8886-baae-6a4c-98f4-4e57d93f594a.jpg",
     "price": "25.63",
     "categories": [
       "Tees"
@@ -4523,11 +4523,8 @@
     "colors": [
       {
         "name": "Graphite",
-        "image": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98445/life.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98445/life.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78963/98446/life.jpg?camera_label=back"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "3XL",
@@ -4567,102 +4564,9 @@
         ]
       },
       {
-        "name": "Chili",
-        "image": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78928/98445/life.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78928/98445/life.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78928/98446/life.jpg?camera_label=back"
-        ],
-        "sizes": [
-          {
-            "size": "3XL",
-            "variant_id": 79125,
-            "price": "30.35"
-          },
-          {
-            "size": "L",
-            "variant_id": 78928,
-            "price": "25.63"
-          },
-          {
-            "size": "XL",
-            "variant_id": 78929,
-            "price": "25.63"
-          },
-          {
-            "size": "S",
-            "variant_id": 78926,
-            "price": "25.63"
-          },
-          {
-            "size": "M",
-            "variant_id": 78927,
-            "price": "25.63"
-          },
-          {
-            "size": "2XL",
-            "variant_id": 78930,
-            "price": "27.39"
-          },
-          {
-            "size": "4XL",
-            "variant_id": 101434,
-            "price": "33.36"
-          }
-        ]
-      },
-      {
-        "name": "Berry",
-        "image": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78883/98445/life.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78883/98445/life.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78883/98446/life.jpg?camera_label=back"
-        ],
-        "sizes": [
-          {
-            "size": "3XL",
-            "variant_id": 79113,
-            "price": "30.35"
-          },
-          {
-            "size": "L",
-            "variant_id": 78883,
-            "price": "25.63"
-          },
-          {
-            "size": "XL",
-            "variant_id": 78884,
-            "price": "25.63"
-          },
-          {
-            "size": "S",
-            "variant_id": 78881,
-            "price": "25.63"
-          },
-          {
-            "size": "M",
-            "variant_id": 78882,
-            "price": "25.63"
-          },
-          {
-            "size": "2XL",
-            "variant_id": 78885,
-            "price": "27.39"
-          },
-          {
-            "size": "4XL",
-            "variant_id": 101422,
-            "price": "33.36"
-          }
-        ]
-      },
-      {
         "name": "Hemp",
-        "image": "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78983/98445/life.jpg?camera_label=front",
-        "images": [
-          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78983/98445/life.jpg?camera_label=front",
-          "https://images-api.printify.com/mockup/6a9804a3b3f0d4a9ed017e23/78983/98446/life.jpg?camera_label=back"
-        ],
+        "image": null,
+        "images": [],
         "sizes": [
           {
             "size": "3XL",
@@ -4704,10 +4608,10 @@
     ],
     "all_sizes": [
       "3XL",
-      "L",
-      "XL",
       "M",
+      "XL",
       "S",
+      "L",
       "2XL",
       "4XL"
     ],
